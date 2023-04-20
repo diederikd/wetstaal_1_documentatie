@@ -1,4 +1,4 @@
-# rechtsbetrekkingen
+# rechtsbetrekking
 
 Bijvoorbeeld een introductie.
 
