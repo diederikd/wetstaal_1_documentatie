@@ -1,4 +1,4 @@
-# Niet-normatieve deel
+# rechtsbetrekkingen
 
 Bijvoorbeeld een introductie.
 
