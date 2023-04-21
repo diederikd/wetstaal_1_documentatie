@@ -3,17 +3,18 @@ let respecConfig = {
   useLabel: true,
   license: "cc0",
   specStatus: "WV",
-  specType: "HR",
+  specType: "cv",
   pubDomain: "dk",
   shortName: "JAS",
   publishDate: "2022-06-24",
   publishVersion: "0.0.2",
-  
+
   previousVersion: "0.0.1",
   previousPublishDate: "2014-05-01",
   previousMaturity: "EO",
   title: "Juridisch analyseschema",
-  content: {"rechtsbetrekking": "", "rechtsfeit" : "", "rechtsobject": ""},
+  subtitle: "De syntax en semantiek van de logisch formele, declaratieve en breed begrijpelijke taal ",
+  content: {"rechtssubject": "", "rechtsbetrekking": "", "rechtsfeit" : "", "rechtsobject": ""},
   editors:
     [
       {
