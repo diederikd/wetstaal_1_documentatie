@@ -5,29 +5,29 @@ let respecConfig = {
   specStatus: "WV",
   specType: "HR",
   pubDomain: "dk",
-  shortName: "template",
+  shortName: "JAS",
   publishDate: "2022-06-24",
   publishVersion: "0.0.2",
   
   previousVersion: "0.0.1",
   previousPublishDate: "2014-05-01",
   previousMaturity: "EO",
-  title: "titleText",
+  title: "Juridisch analyseschema",
   content: {"rechtsbetrekking": "rechtsfeit", "rechtsobject": "", "mermaid": ""},
   editors:
     [
       {
-        name: "Logius Standaarden",
-        company: "Logius",
-        companyURL: "https://github.com/Logius-standaarden",
+        name: "JAS",
+        company: "JAS",
+        companyURL: "https://diederikd.github.io/JAS_documentatie/",
       }
     ],
   authors:
     [
       {
-        name: "Logius Standaarden",
-        company: "Logius",
-        companyURL: "https://github.com/Logius-standaarden",
+        name: "Sjir Nijssen",
+        company: "-",
+        companyURL: "-n",
       }
     ],
   github: "https://github.com/Logius-standaarden/ReSpec-template",
@@ -37,7 +37,7 @@ let respecConfig = {
   alternateFormats: [
       {
           label: "pdf",
-          uri: "template.pdf",
+          uri: "JAS.pdf",
       },
   ],
 };
