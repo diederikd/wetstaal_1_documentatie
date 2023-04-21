@@ -13,7 +13,7 @@ let respecConfig = {
   previousPublishDate: "2014-05-01",
   previousMaturity: "EO",
   title: "Juridisch analyseschema",
-  content: {"rechtsbetrekking": "rechtsfeit", "rechtsobject": "", "mermaid": ""},
+  content: {"rechtsbetrekking": "", "rechtsfeit" : "", "rechtsobject": ""},
   editors:
     [
       {
