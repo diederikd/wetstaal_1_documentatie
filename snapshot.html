@@ -132,17 +132,17 @@ ul.index code{color:inherit}
   }
 </style>
 <script id="initialUserConfig" type="application/json">{
-  "nl_organisationName": "Logius",
+  "nl_organisationName": "JAS",
   "nl_organisationStylesURL": "https://gitdocumentatie.logius.nl/publicatie/respec/style/",
-  "nl_organisationPublishURL": "https://gitdocumentatie.logius.nl/publicatie/",
+  "nl_organisationPublishURL": "https://diederikd.github.io/JAS_documentatie/",
   "logos": [
     {
-      "src": "https://gitdocumentatie.logius.nl/publicatie/respec/style/logos/figure-logius.svg",
-      "alt": "Logius",
-      "id": "Logius",
+      "src": "-",
+      "alt": "-",
+      "id": "-",
       "height": 77,
       "width": 44,
-      "url": "https://www.logius.nl/standaarden"
+      "url": "-"
     }
   ],
   "postProcess": [
@@ -272,7 +272,7 @@ ul.index code{color:inherit}
     }
   },
   "specStatus": "WV",
-  "specType": "HR",
+  "specType": "cv",
   "pubDomain": "dk",
   "shortName": "JAS",
   "publishDate": "2022-06-24",
@@ -281,7 +281,9 @@ ul.index code{color:inherit}
   "previousPublishDate": "2014-05-01",
   "previousMaturity": "EO",
   "title": "Juridisch analyseschema",
+  "subtitle": "De syntax en semantiek van de logisch formele, declaratieve en breed begrijpelijke taal ",
   "content": {
+    "rechtssubject": "",
     "rechtsbetrekking": "",
     "rechtsfeit": "",
     "rechtsobject": ""
@@ -311,25 +313,25 @@ ul.index code{color:inherit}
 <link rel="stylesheet" href="https://gitdocumentatie.logius.nl/publicatie/respec/style/base.css"></head>
 
 <body class="h-entry toc-inline"><div class="head">
-    <a class="logo" href="https://www.logius.nl/standaarden"><img alt="Logius" height="77" id="Logius" src="https://gitdocumentatie.logius.nl/publicatie/respec/style/logos/figure-logius.svg" width="44">
+    <a class="logo" href="-"><img alt="-" height="77" id="-" src="-" width="44">
   </a> <h1 id="title" class="title">Juridisch analyseschema</h1>
-    
+    <h2 id="subtitle" class="subtitle">De syntax en semantiek van de logisch formele, declaratieve en breed begrijpelijke taal </h2>
     <h2>
-      Logius Handreiking<br>
+      JAS Consultatieversie<br>
       Werkversie
       <time class="dt-published" datetime="2022-06-24">21 april 2023</time>
     </h2>
     <dl>
       <dt>Deze versie:</dt><dd class="status">
-              <a class="u-url status" href="https://gitdocumentatie.logius.nl/publicatie/dk/wv-hr-jas-2022-06-24">https://gitdocumentatie.logius.nl/publicatie/dk/wv-hr-jas-2022-06-24</a>
+              <a class="u-url status" href="https://diederikd.github.io/jas_documentatie/dk/wv-cv-jas-2022-06-24">https://diederikd.github.io/jas_documentatie/dk/wv-cv-jas-2022-06-24</a>
             </dd><dt>Laatst gepubliceerde versie:</dt><dd>
-              <a href="https://gitdocumentatie.logius.nl/publicatie/dk/">https://gitdocumentatie.logius.nl/publicatie/dk/</a>
+              <a href="https://diederikd.github.io/jas_documentatie/dk/">https://diederikd.github.io/jas_documentatie/dk/</a>
             </dd>
       <dt>Laatste werkversie:</dt><dd><a href="https://logius-standaarden.github.io/ReSpec-template/">https://logius-standaarden.github.io/ReSpec-template/</a></dd>
       
       
       
-      <dt>Vorige versie</dt><dd><a href="https://gitdocumentatie.logius.nl/publicatie/dk/eo-hr-jas-2022-06-24">https://gitdocumentatie.logius.nl/publicatie/dk/eo-hr-jas-2022-06-24</a></dd>
+      <dt>Vorige versie</dt><dd><a href="https://diederikd.github.io/jas_documentatie/dk/eo-cv-jas-2022-06-24">https://diederikd.github.io/jas_documentatie/dk/eo-cv-jas-2022-06-24</a></dd>
       
       <dt>Redacteur:</dt>
       <dd class="editor p-author h-card vcard">
@@ -363,15 +365,16 @@ ul.index code{color:inherit}
   </div>
   <section id="abstract" class="introductory"><h2>Samenvatting</h2><p>Tekst</p>
 </section>
-  <section id="sotd" class="introductory"><h2>Status van dit document</h2><p>Dit is een werkversie die op elk moment kan worden gewijzigd, verwijderd of vervangen door andere documenten. Het is geen door het TO goedgekeurde consultatieversie.</p></section><nav id="toc"><h2 class="introductory" id="inhoudsopgave">Inhoudsopgave</h2><ol class="toc"><li class="tocline"><a class="tocxref" href="#abstract">Samenvatting</a></li><li class="tocline"><a class="tocxref" href="#sotd">Status van dit document</a></li><li class="tocline"><a class="tocxref" href="#rechtsbetrekking-in-het-objectieve-recht-wetgeving"><bdi class="secno">1. </bdi>rechtsbetrekking in het objectieve recht (wetgeving)</a></li><li class="tocline"><a class="tocxref" href="#rechtsfeiten"><bdi class="secno">2. </bdi>rechtsfeiten</a></li><li class="tocline"><a class="tocxref" href="#rechtsobject"><bdi class="secno">3. </bdi>rechtsobject</a></li><li class="tocline"><a class="tocxref" href="#conformance"><bdi class="secno">4. </bdi>Conformiteit</a></li><li class="tocline"><a class="tocxref" href="#index"><bdi class="secno">A. </bdi>Index</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#index-defined-here"><bdi class="secno">A.1 </bdi>Begrippen gedefinieerd door deze specificatie</a></li><li class="tocline"><a class="tocxref" href="#index-defined-elsewhere"><bdi class="secno">A.2 </bdi>Begrippen gedefinieerd door verwijzing</a></li></ol></li></ol></nav><section id="rechtsbetrekking-in-het-objectieve-recht-wetgeving"><div class="header-wrapper"><h2 id="x1-rechtsbetrekking-in-het-objectieve-recht-wetgeving"><bdi class="secno">1. </bdi>rechtsbetrekking in het objectieve recht (wetgeving)</h2><a class="self-link" href="#rechtsbetrekking-in-het-objectieve-recht-wetgeving" aria-label="Permalink for Section 1."></a></div>
+  <section id="sotd" class="introductory"><h2>Status van dit document</h2><p>Dit is een werkversie die op elk moment kan worden gewijzigd, verwijderd of vervangen door andere documenten. Het is geen door het TO goedgekeurde consultatieversie.</p></section><nav id="toc"><h2 class="introductory" id="inhoudsopgave">Inhoudsopgave</h2><ol class="toc"><li class="tocline"><a class="tocxref" href="#abstract">Samenvatting</a></li><li class="tocline"><a class="tocxref" href="#sotd">Status van dit document</a></li><li class="tocline"><a class="tocxref" href="#rechtssubject-in-het-objectieve-recht-wetgeving"><bdi class="secno">1. </bdi>Rechtssubject in het objectieve recht (wetgeving)</a></li><li class="tocline"><a class="tocxref" href="#rechtsbetrekking-in-het-objectieve-recht-wetgeving"><bdi class="secno">2. </bdi>rechtsbetrekking in het objectieve recht (wetgeving)</a></li><li class="tocline"><a class="tocxref" href="#rechtsfeiten"><bdi class="secno">3. </bdi>rechtsfeiten</a></li><li class="tocline"><a class="tocxref" href="#rechtsobject"><bdi class="secno">4. </bdi>rechtsobject</a></li><li class="tocline"><a class="tocxref" href="#conformance"><bdi class="secno">5. </bdi>Conformiteit</a></li><li class="tocline"><a class="tocxref" href="#index"><bdi class="secno">A. </bdi>Index</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#index-defined-here"><bdi class="secno">A.1 </bdi>Begrippen gedefinieerd door deze specificatie</a></li><li class="tocline"><a class="tocxref" href="#index-defined-elsewhere"><bdi class="secno">A.2 </bdi>Begrippen gedefinieerd door verwijzing</a></li></ol></li></ol></nav><section id="rechtssubject-in-het-objectieve-recht-wetgeving"><div class="header-wrapper"><h2 id="x1-rechtssubject-in-het-objectieve-recht-wetgeving"><bdi class="secno">1. </bdi>Rechtssubject in het objectieve recht (wetgeving)</h2><a class="self-link" href="#rechtssubject-in-het-objectieve-recht-wetgeving" aria-label="Permalink for Section 1."></a></div>
+</section><section id="rechtsbetrekking-in-het-objectieve-recht-wetgeving"><div class="header-wrapper"><h2 id="x2-rechtsbetrekking-in-het-objectieve-recht-wetgeving"><bdi class="secno">2. </bdi>rechtsbetrekking in het objectieve recht (wetgeving)</h2><a class="self-link" href="#rechtsbetrekking-in-het-objectieve-recht-wetgeving" aria-label="Permalink for Section 2."></a></div>
 <p>Bijvoorbeeld een introductie.</p>
 <div class="note" role="note" id="issue-container-generatedID"><div role="heading" class="note-title marker" id="h-note" aria-level="3"><span>Noot</span><span class="issue-label">: index</span></div><p class="">
 Dit hoofdstuk is toegevoegd met <code>class="informative"</code> in <code>config.js</code>.
-</p></div></section><section id="rechtsfeiten"><div class="header-wrapper"><h2 id="x2-rechtsfeiten"><bdi class="secno">2. </bdi>rechtsfeiten</h2><a class="self-link" href="#rechtsfeiten" aria-label="Permalink for Section 2."></a></div>
+</p></div></section><section id="rechtsfeiten"><div class="header-wrapper"><h2 id="x3-rechtsfeiten"><bdi class="secno">3. </bdi>rechtsfeiten</h2><a class="self-link" href="#rechtsfeiten" aria-label="Permalink for Section 3."></a></div>
 <p>Bijvoorbeeld een introductie.</p>
 <div class="note" role="note" id="issue-container-generatedID-0"><div role="heading" class="note-title marker" id="h-note-0" aria-level="3"><span>Noot</span><span class="issue-label">: index</span></div><p class="">
 Dit hoofdstuk is toegevoegd met <code>class="informative"</code> in <code>config.js</code>.
-</p></div></section><section id="rechtsobject"><div class="header-wrapper"><h2 id="x3-rechtsobject"><bdi class="secno">3. </bdi>rechtsobject</h2><a class="self-link" href="#rechtsobject" aria-label="Permalink for Section 3."></a></div>
+</p></div></section><section id="rechtsobject"><div class="header-wrapper"><h2 id="x4-rechtsobject"><bdi class="secno">4. </bdi>rechtsobject</h2><a class="self-link" href="#rechtsobject" aria-label="Permalink for Section 4."></a></div>
 <p>Bijvoorbeeld een introductie.</p>
 <div class="note" role="note" id="issue-container-generatedID-1"><div role="heading" class="note-title marker" id="h-note-1" aria-level="3"><span>Noot</span><span class="issue-label">: index</span></div><p class="">
 Dit hoofdstuk is toegevoegd met <code>class="informative"</code> in <code>config.js</code>.
@@ -389,7 +392,7 @@ Dit hoofdstuk is toegevoegd met <code>class="informative"</code> in <code>config
 
     document.getElementById("sotd").insertAdjacentHTML('afterend', content);
   </script>
-  <section id="conformance"><div class="header-wrapper"><h2 id="x4-conformiteit"><bdi class="secno">4. </bdi>Conformiteit</h2><a class="self-link" href="#conformance" aria-label="Permalink for Section 4."></a></div><p>Naast onderdelen die als niet normatief gemarkeerd zijn, zijn ook alle diagrammen, voorbeelden, en noten in dit document niet normatief. Verder is alles in dit document normatief.</p></section>
+  <section id="conformance"><div class="header-wrapper"><h2 id="x5-conformiteit"><bdi class="secno">5. </bdi>Conformiteit</h2><a class="self-link" href="#conformance" aria-label="Permalink for Section 5."></a></div><p>Naast onderdelen die als niet normatief gemarkeerd zijn, zijn ook alle diagrammen, voorbeelden, en noten in dit document niet normatief. Verder is alles in dit document normatief.</p></section>
   <section id="tof"></section>
   <section id="index" class="appendix"><div class="header-wrapper"><h2 id="a-index"><bdi class="secno">A. </bdi>Index</h2><a class="self-link" href="#index" aria-label="Permalink for Appendix A."></a></div><section id="index-defined-here">
     <div class="header-wrapper"><h3 id="a-1-begrippen-gedefinieerd-door-deze-specificatie"><bdi class="secno">A.1 </bdi>Begrippen gedefinieerd door deze specificatie</h3><a class="self-link" href="#index-defined-here" aria-label="Permalink for Appendix A.1"></a></div>
@@ -629,4 +632,4 @@ function hidePanel(panel) {
   panel.hidden = true;
   panel.classList.remove("docked");
 }
-})()</script><div class="sidelabel" style="background-color: #32a852;">Logius Handreiking - Werkversie</div><script src="https://www.w3.org/scripts/TR/2021/fixup.js"></script></body></html>
+})()</script><div class="sidelabel" style="background-color: #32a852;">JAS Consultatieversie - Werkversie</div><script src="https://www.w3.org/scripts/TR/2021/fixup.js"></script></body></html>
