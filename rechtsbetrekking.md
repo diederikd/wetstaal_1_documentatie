@@ -1,4 +1,4 @@
-# rechtsbetrekking in het objectieve recht (wetgeving)
+# Rechtsbetrekking in het objectieve recht (wetgeving)
 
 Bijvoorbeeld een introductie.
 

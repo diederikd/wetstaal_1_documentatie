@@ -1,4 +1,4 @@
-# Rechtsfeit (juridische toestandsveranderaar)
+# Voorwaarde
 
 Bijvoorbeeld een introductie.
 

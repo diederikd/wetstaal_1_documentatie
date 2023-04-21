@@ -1,4 +1,4 @@
-# Rechtsfeit (juridische toestandsveranderaar)
+# Afleidingsregel
 
 Bijvoorbeeld een introductie.
 

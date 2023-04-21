@@ -1,4 +1,4 @@
-# Rechtsfeit (juridische toestandsveranderaar)
+# Juridisch relevant feit in het objectieve en subjectieve recht
 
 Bijvoorbeeld een introductie.
 

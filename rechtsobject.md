@@ -1,4 +1,4 @@
-# rechtsobject
+# Rechtsobject
 
 Bijvoorbeeld een introductie.
 

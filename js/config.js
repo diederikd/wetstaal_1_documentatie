@@ -14,7 +14,7 @@ let respecConfig = {
   previousMaturity: "EO",
   title: "Juridisch analyseschema",
   subtitle: "De syntax en semantiek van de logisch formele, declaratieve en breed begrijpelijke taal ",
-  content: {"rechtssubject": "", "rechtsbetrekking": "", "rechtsfeit" : "", "rechtsobject": ""},
+  content: {"rechtssubject": "", "rechtsbetrekking": "", "rechtsfeit" : "","rechtsgevolg" : "", "rechtsobject": "","juridisch_relevant_feit" : "", "afleidingsregel": "", "voorwaarde": "", "variabele": ""},
   editors:
     [
       {
