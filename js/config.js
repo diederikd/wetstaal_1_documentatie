@@ -3,7 +3,7 @@ let respecConfig = {
   useLabel: true,
   license: "cc0",
   specStatus: "WV",
-  specType: "cv",
+  specType: "HR",
   pubDomain: "dk",
   shortName: "JAS",
   publishDate: "2022-06-24",
@@ -13,8 +13,7 @@ let respecConfig = {
   previousPublishDate: "2014-05-01",
   previousMaturity: "EO",
   title: "Juridisch analyseschema",
-  subtitle: "De syntax en semantiek van de logisch formele, declaratieve en breed begrijpelijke taal ",
-  content: {"rechtssubject": "", "rechtsbetrekking": "", "rechtsfeit" : "","rechtsgevolg" : "", "rechtsobject": "","juridisch_relevant_feit" : "", "afleidingsregel": "", "voorwaarde": "", "variabele": ""},
+  content: {"rechtsbetrekking": "", "rechtsfeit" : "", "rechtsobject": ""},
   editors:
     [
       {
@@ -31,7 +30,7 @@ let respecConfig = {
         companyURL: "-n",
       }
     ],
-  github: "https://github.com/diederikd/JAS_documentatie",
+  github: "https://github.com/Logius-standaarden/ReSpec-template",
 
 
   // Create PDF and link to file in header (optional):
