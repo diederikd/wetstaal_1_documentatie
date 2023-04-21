@@ -30,7 +30,7 @@ let respecConfig = {
         companyURL: "-n",
       }
     ],
-  github: "https://github.com/Logius-standaarden/ReSpec-template",
+  github: "https://github.com/diederikd/JAS_documentatie",
 
 
   // Create PDF and link to file in header (optional):
