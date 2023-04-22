@@ -5,11 +5,11 @@ var organisationConfig = {
     nl_organisationPublishURL: "https://gitdocumentatie.logius.nl/publicatie/",
     logos: [{
         src: "https://raw.githubusercontent.com/diederikd/JAS_documentatie/main/media/logo150.gif",
-        alt: "Logius",
-        id: "Logius",
-        height: 77,
-        width: 44,
-        url: "https://www.logius.nl/standaarden",
+        alt: "JAS",
+        id: "JAS",
+        height: 100,
+        width: 100,
+        url: "https://github.com/diederikd/JAS_documentatie",
     }],
 
     postProcess: [window.respecMermaid.createFigures],
