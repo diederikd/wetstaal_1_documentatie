@@ -4,7 +4,7 @@ var organisationConfig = {
     nl_organisationStylesURL: "https://gitdocumentatie.logius.nl/publicatie/respec/style/",
     nl_organisationPublishURL: "https://gitdocumentatie.logius.nl/publicatie/",
     logos: [{
-        src: "https://gitdocumentatie.logius.nl/publicatie/respec/style/logos/figure-logius.svg",
+        src: "https://raw.githubusercontent.com/diederikd/JAS_documentatie/main/media/logo150.gif",
         alt: "Logius",
         id: "Logius",
         height: 77,
