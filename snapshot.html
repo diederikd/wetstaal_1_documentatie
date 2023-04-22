@@ -283,15 +283,18 @@ ul.index code{color:inherit}
   "title": "Juridisch analyseschema",
   "subtitle": "De syntax en semantiek van de logisch formele, declaratieve en breed begrijpelijke taal ",
   "content": {
+    "objectief_en_subjectief_recht": "",
     "rechtssubject": "",
     "rechtsbetrekking": "",
     "rechtsfeit": "",
     "rechtsgevolgen": "",
     "rechtsobject": "",
     "juridisch_relevant_feit": "",
+    "juridische_toestand": "",
     "afleidingsregel": "",
     "voorwaarde": "",
-    "variabele": ""
+    "variabele": "",
+    "juridisch_scenario": ""
   },
   "editors": [
     {
@@ -324,7 +327,7 @@ ul.index code{color:inherit}
     <h2>
       Logius Handreiking<br>
       Werkversie
-      <time class="dt-published" datetime="2022-06-24">21 april 2023</time>
+      <time class="dt-published" datetime="2022-06-24">22 april 2023</time>
     </h2>
     <dl>
       <dt>Deze versie:</dt><dd class="status">
@@ -370,35 +373,47 @@ ul.index code{color:inherit}
   </div>
   <section id="abstract" class="introductory"><h2>Samenvatting</h2><p>Tekst</p>
 </section>
-  <section id="sotd" class="introductory"><h2>Status van dit document</h2><p>Dit is een werkversie die op elk moment kan worden gewijzigd, verwijderd of vervangen door andere documenten. Het is geen door het TO goedgekeurde consultatieversie.</p></section><nav id="toc"><h2 class="introductory" id="inhoudsopgave">Inhoudsopgave</h2><ol class="toc"><li class="tocline"><a class="tocxref" href="#abstract">Samenvatting</a></li><li class="tocline"><a class="tocxref" href="#sotd">Status van dit document</a></li><li class="tocline"><a class="tocxref" href="#rechtssubject-in-het-objectieve-recht-wetgeving"><bdi class="secno">1. </bdi>Rechtssubject in het objectieve recht (wetgeving)</a></li><li class="tocline"><a class="tocxref" href="#rechtsbetrekking-in-het-objectieve-recht-wetgeving"><bdi class="secno">2. </bdi>Rechtsbetrekking in het objectieve recht (wetgeving)</a></li><li class="tocline"><a class="tocxref" href="#rechtsfeit-juridische-toestandsveranderaar"><bdi class="secno">3. </bdi>Rechtsfeit (juridische toestandsveranderaar)</a></li><li class="tocline"><a class="tocxref" href="#rechtsgevolgen-toestandsverandering"><bdi class="secno">4. </bdi>Rechtsgevolgen (toestandsverandering)</a></li><li class="tocline"><a class="tocxref" href="#rechtsobject"><bdi class="secno">5. </bdi>Rechtsobject</a></li><li class="tocline"><a class="tocxref" href="#juridisch-relevant-feit-in-het-objectieve-en-subjectieve-recht"><bdi class="secno">6. </bdi>Juridisch relevant feit in het objectieve en subjectieve recht</a></li><li class="tocline"><a class="tocxref" href="#afleidingsregel"><bdi class="secno">7. </bdi>Afleidingsregel</a></li><li class="tocline"><a class="tocxref" href="#voorwaarde"><bdi class="secno">8. </bdi>Voorwaarde</a></li><li class="tocline"><a class="tocxref" href="#variabele-en-waarde"><bdi class="secno">9. </bdi>Variabele en waarde</a></li><li class="tocline"><a class="tocxref" href="#conformance"><bdi class="secno">10. </bdi>Conformiteit</a></li><li class="tocline"><a class="tocxref" href="#index"><bdi class="secno">A. </bdi>Index</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#index-defined-here"><bdi class="secno">A.1 </bdi>Begrippen gedefinieerd door deze specificatie</a></li><li class="tocline"><a class="tocxref" href="#index-defined-elsewhere"><bdi class="secno">A.2 </bdi>Begrippen gedefinieerd door verwijzing</a></li></ol></li></ol></nav><section id="rechtssubject-in-het-objectieve-recht-wetgeving"><div class="header-wrapper"><h2 id="x1-rechtssubject-in-het-objectieve-recht-wetgeving"><bdi class="secno">1. </bdi>Rechtssubject in het objectieve recht (wetgeving)</h2><a class="self-link" href="#rechtssubject-in-het-objectieve-recht-wetgeving" aria-label="Permalink for Section 1."></a></div>
-</section><section id="rechtsbetrekking-in-het-objectieve-recht-wetgeving"><div class="header-wrapper"><h2 id="x2-rechtsbetrekking-in-het-objectieve-recht-wetgeving"><bdi class="secno">2. </bdi>Rechtsbetrekking in het objectieve recht (wetgeving)</h2><a class="self-link" href="#rechtsbetrekking-in-het-objectieve-recht-wetgeving" aria-label="Permalink for Section 2."></a></div>
+  <section id="sotd" class="introductory"><h2>Status van dit document</h2><p>Dit is een werkversie die op elk moment kan worden gewijzigd, verwijderd of vervangen door andere documenten. Het is geen door het TO goedgekeurde consultatieversie.</p></section><nav id="toc"><h2 class="introductory" id="inhoudsopgave">Inhoudsopgave</h2><ol class="toc"><li class="tocline"><a class="tocxref" href="#abstract">Samenvatting</a></li><li class="tocline"><a class="tocxref" href="#sotd">Status van dit document</a></li><li class="tocline"><a class="tocxref" href="#objectief-en-subjectief-recht"><bdi class="secno">1. </bdi>Objectief en subjectief recht</a></li><li class="tocline"><a class="tocxref" href="#rechtssubject-in-het-objectieve-recht-wetgeving"><bdi class="secno">2. </bdi>Rechtssubject in het objectieve recht (wetgeving)</a></li><li class="tocline"><a class="tocxref" href="#rechtsbetrekking-in-het-objectieve-recht-wetgeving"><bdi class="secno">3. </bdi>Rechtsbetrekking in het objectieve recht (wetgeving)</a></li><li class="tocline"><a class="tocxref" href="#rechtsfeit-juridische-toestandsveranderaar"><bdi class="secno">4. </bdi>Rechtsfeit (juridische toestandsveranderaar)</a></li><li class="tocline"><a class="tocxref" href="#rechtsgevolgen-toestandsverandering"><bdi class="secno">5. </bdi>Rechtsgevolgen (toestandsverandering)</a></li><li class="tocline"><a class="tocxref" href="#rechtsobject"><bdi class="secno">6. </bdi>Rechtsobject</a></li><li class="tocline"><a class="tocxref" href="#juridisch-relevant-feit-in-het-objectieve-en-subjectieve-recht"><bdi class="secno">7. </bdi>Juridisch relevant feit in het objectieve en subjectieve recht</a></li><li class="tocline"><a class="tocxref" href="#juridische-toestand"><bdi class="secno">8. </bdi>Juridische toestand</a></li><li class="tocline"><a class="tocxref" href="#afleidingsregel"><bdi class="secno">9. </bdi>Afleidingsregel</a></li><li class="tocline"><a class="tocxref" href="#voorwaarde"><bdi class="secno">10. </bdi>Voorwaarde</a></li><li class="tocline"><a class="tocxref" href="#variabele-en-waarde"><bdi class="secno">11. </bdi>Variabele en waarde</a></li><li class="tocline"><a class="tocxref" href="#juridisch-scenario-met-juridische-aktes"><bdi class="secno">12. </bdi>Juridisch scenario met juridische aktes</a></li><li class="tocline"><a class="tocxref" href="#conformance"><bdi class="secno">13. </bdi>Conformiteit</a></li><li class="tocline"><a class="tocxref" href="#index"><bdi class="secno">A. </bdi>Index</a><ol class="toc"><li class="tocline"><a class="tocxref" href="#index-defined-here"><bdi class="secno">A.1 </bdi>Begrippen gedefinieerd door deze specificatie</a></li><li class="tocline"><a class="tocxref" href="#index-defined-elsewhere"><bdi class="secno">A.2 </bdi>Begrippen gedefinieerd door verwijzing</a></li></ol></li></ol></nav><section id="objectief-en-subjectief-recht"><div class="header-wrapper"><h2 id="x1-objectief-en-subjectief-recht"><bdi class="secno">1. </bdi>Objectief en subjectief recht</h2><a class="self-link" href="#objectief-en-subjectief-recht" aria-label="Permalink for Section 1."></a></div>
 <p>Bijvoorbeeld een introductie.</p>
 <div class="note" role="note" id="issue-container-generatedID"><div role="heading" class="note-title marker" id="h-note" aria-level="3"><span>Noot</span><span class="issue-label">: index</span></div><p class="">
 Dit hoofdstuk is toegevoegd met <code>class="informative"</code> in <code>config.js</code>.
-</p></div></section><section id="rechtsfeit-juridische-toestandsveranderaar"><div class="header-wrapper"><h2 id="x3-rechtsfeit-juridische-toestandsveranderaar"><bdi class="secno">3. </bdi>Rechtsfeit (juridische toestandsveranderaar)</h2><a class="self-link" href="#rechtsfeit-juridische-toestandsveranderaar" aria-label="Permalink for Section 3."></a></div>
+</p></div></section><section id="rechtssubject-in-het-objectieve-recht-wetgeving"><div class="header-wrapper"><h2 id="x2-rechtssubject-in-het-objectieve-recht-wetgeving"><bdi class="secno">2. </bdi>Rechtssubject in het objectieve recht (wetgeving)</h2><a class="self-link" href="#rechtssubject-in-het-objectieve-recht-wetgeving" aria-label="Permalink for Section 2."></a></div>
+</section><section id="rechtsbetrekking-in-het-objectieve-recht-wetgeving"><div class="header-wrapper"><h2 id="x3-rechtsbetrekking-in-het-objectieve-recht-wetgeving"><bdi class="secno">3. </bdi>Rechtsbetrekking in het objectieve recht (wetgeving)</h2><a class="self-link" href="#rechtsbetrekking-in-het-objectieve-recht-wetgeving" aria-label="Permalink for Section 3."></a></div>
 <p>Bijvoorbeeld een introductie.</p>
 <div class="note" role="note" id="issue-container-generatedID-0"><div role="heading" class="note-title marker" id="h-note-0" aria-level="3"><span>Noot</span><span class="issue-label">: index</span></div><p class="">
 Dit hoofdstuk is toegevoegd met <code>class="informative"</code> in <code>config.js</code>.
-</p></div></section><section id="rechtsgevolgen-toestandsverandering"><div class="header-wrapper"><h2 id="x4-rechtsgevolgen-toestandsverandering"><bdi class="secno">4. </bdi>Rechtsgevolgen (toestandsverandering)</h2><a class="self-link" href="#rechtsgevolgen-toestandsverandering" aria-label="Permalink for Section 4."></a></div>
-</section><section id="rechtsobject"><div class="header-wrapper"><h2 id="x5-rechtsobject"><bdi class="secno">5. </bdi>Rechtsobject</h2><a class="self-link" href="#rechtsobject" aria-label="Permalink for Section 5."></a></div>
+</p></div></section><section id="rechtsfeit-juridische-toestandsveranderaar"><div class="header-wrapper"><h2 id="x4-rechtsfeit-juridische-toestandsveranderaar"><bdi class="secno">4. </bdi>Rechtsfeit (juridische toestandsveranderaar)</h2><a class="self-link" href="#rechtsfeit-juridische-toestandsveranderaar" aria-label="Permalink for Section 4."></a></div>
 <p>Bijvoorbeeld een introductie.</p>
 <div class="note" role="note" id="issue-container-generatedID-1"><div role="heading" class="note-title marker" id="h-note-1" aria-level="3"><span>Noot</span><span class="issue-label">: index</span></div><p class="">
 Dit hoofdstuk is toegevoegd met <code>class="informative"</code> in <code>config.js</code>.
-</p></div></section><section id="juridisch-relevant-feit-in-het-objectieve-en-subjectieve-recht"><div class="header-wrapper"><h2 id="x6-juridisch-relevant-feit-in-het-objectieve-en-subjectieve-recht"><bdi class="secno">6. </bdi>Juridisch relevant feit in het objectieve en subjectieve recht</h2><a class="self-link" href="#juridisch-relevant-feit-in-het-objectieve-en-subjectieve-recht" aria-label="Permalink for Section 6."></a></div>
+</p></div></section><section id="rechtsgevolgen-toestandsverandering"><div class="header-wrapper"><h2 id="x5-rechtsgevolgen-toestandsverandering"><bdi class="secno">5. </bdi>Rechtsgevolgen (toestandsverandering)</h2><a class="self-link" href="#rechtsgevolgen-toestandsverandering" aria-label="Permalink for Section 5."></a></div>
+</section><section id="rechtsobject"><div class="header-wrapper"><h2 id="x6-rechtsobject"><bdi class="secno">6. </bdi>Rechtsobject</h2><a class="self-link" href="#rechtsobject" aria-label="Permalink for Section 6."></a></div>
 <p>Bijvoorbeeld een introductie.</p>
 <div class="note" role="note" id="issue-container-generatedID-2"><div role="heading" class="note-title marker" id="h-note-2" aria-level="3"><span>Noot</span><span class="issue-label">: index</span></div><p class="">
 Dit hoofdstuk is toegevoegd met <code>class="informative"</code> in <code>config.js</code>.
-</p></div></section><section id="afleidingsregel"><div class="header-wrapper"><h2 id="x7-afleidingsregel"><bdi class="secno">7. </bdi>Afleidingsregel</h2><a class="self-link" href="#afleidingsregel" aria-label="Permalink for Section 7."></a></div>
+</p></div></section><section id="juridisch-relevant-feit-in-het-objectieve-en-subjectieve-recht"><div class="header-wrapper"><h2 id="x7-juridisch-relevant-feit-in-het-objectieve-en-subjectieve-recht"><bdi class="secno">7. </bdi>Juridisch relevant feit in het objectieve en subjectieve recht</h2><a class="self-link" href="#juridisch-relevant-feit-in-het-objectieve-en-subjectieve-recht" aria-label="Permalink for Section 7."></a></div>
 <p>Bijvoorbeeld een introductie.</p>
 <div class="note" role="note" id="issue-container-generatedID-3"><div role="heading" class="note-title marker" id="h-note-3" aria-level="3"><span>Noot</span><span class="issue-label">: index</span></div><p class="">
 Dit hoofdstuk is toegevoegd met <code>class="informative"</code> in <code>config.js</code>.
-</p></div></section><section id="voorwaarde"><div class="header-wrapper"><h2 id="x8-voorwaarde"><bdi class="secno">8. </bdi>Voorwaarde</h2><a class="self-link" href="#voorwaarde" aria-label="Permalink for Section 8."></a></div>
+</p></div></section><section id="juridische-toestand"><div class="header-wrapper"><h2 id="x8-juridische-toestand"><bdi class="secno">8. </bdi>Juridische toestand</h2><a class="self-link" href="#juridische-toestand" aria-label="Permalink for Section 8."></a></div>
 <p>Bijvoorbeeld een introductie.</p>
 <div class="note" role="note" id="issue-container-generatedID-4"><div role="heading" class="note-title marker" id="h-note-4" aria-level="3"><span>Noot</span><span class="issue-label">: index</span></div><p class="">
 Dit hoofdstuk is toegevoegd met <code>class="informative"</code> in <code>config.js</code>.
-</p></div></section><section id="variabele-en-waarde"><div class="header-wrapper"><h2 id="x9-variabele-en-waarde"><bdi class="secno">9. </bdi>Variabele en waarde</h2><a class="self-link" href="#variabele-en-waarde" aria-label="Permalink for Section 9."></a></div>
+</p></div></section><section id="afleidingsregel"><div class="header-wrapper"><h2 id="x9-afleidingsregel"><bdi class="secno">9. </bdi>Afleidingsregel</h2><a class="self-link" href="#afleidingsregel" aria-label="Permalink for Section 9."></a></div>
 <p>Bijvoorbeeld een introductie.</p>
 <div class="note" role="note" id="issue-container-generatedID-5"><div role="heading" class="note-title marker" id="h-note-5" aria-level="3"><span>Noot</span><span class="issue-label">: index</span></div><p class="">
+Dit hoofdstuk is toegevoegd met <code>class="informative"</code> in <code>config.js</code>.
+</p></div></section><section id="voorwaarde"><div class="header-wrapper"><h2 id="x10-voorwaarde"><bdi class="secno">10. </bdi>Voorwaarde</h2><a class="self-link" href="#voorwaarde" aria-label="Permalink for Section 10."></a></div>
+<p>Bijvoorbeeld een introductie.</p>
+<div class="note" role="note" id="issue-container-generatedID-6"><div role="heading" class="note-title marker" id="h-note-6" aria-level="3"><span>Noot</span><span class="issue-label">: index</span></div><p class="">
+Dit hoofdstuk is toegevoegd met <code>class="informative"</code> in <code>config.js</code>.
+</p></div></section><section id="variabele-en-waarde"><div class="header-wrapper"><h2 id="x11-variabele-en-waarde"><bdi class="secno">11. </bdi>Variabele en waarde</h2><a class="self-link" href="#variabele-en-waarde" aria-label="Permalink for Section 11."></a></div>
+<p>Bijvoorbeeld een introductie.</p>
+<div class="note" role="note" id="issue-container-generatedID-7"><div role="heading" class="note-title marker" id="h-note-7" aria-level="3"><span>Noot</span><span class="issue-label">: index</span></div><p class="">
+Dit hoofdstuk is toegevoegd met <code>class="informative"</code> in <code>config.js</code>.
+</p></div></section><section id="juridisch-scenario-met-juridische-aktes"><div class="header-wrapper"><h2 id="x12-juridisch-scenario-met-juridische-aktes"><bdi class="secno">12. </bdi>Juridisch scenario met juridische aktes</h2><a class="self-link" href="#juridisch-scenario-met-juridische-aktes" aria-label="Permalink for Section 12."></a></div>
+<p>Bijvoorbeeld een introductie.</p>
+<div class="note" role="note" id="issue-container-generatedID-8"><div role="heading" class="note-title marker" id="h-note-8" aria-level="3"><span>Noot</span><span class="issue-label">: index</span></div><p class="">
 Dit hoofdstuk is toegevoegd met <code>class="informative"</code> in <code>config.js</code>.
 </p></div></section>
   <script>
@@ -414,7 +429,7 @@ Dit hoofdstuk is toegevoegd met <code>class="informative"</code> in <code>config
 
     document.getElementById("sotd").insertAdjacentHTML('afterend', content);
   </script>
-  <section id="conformance"><div class="header-wrapper"><h2 id="x10-conformiteit"><bdi class="secno">10. </bdi>Conformiteit</h2><a class="self-link" href="#conformance" aria-label="Permalink for Section 10."></a></div><p>Naast onderdelen die als niet normatief gemarkeerd zijn, zijn ook alle diagrammen, voorbeelden, en noten in dit document niet normatief. Verder is alles in dit document normatief.</p></section>
+  <section id="conformance"><div class="header-wrapper"><h2 id="x13-conformiteit"><bdi class="secno">13. </bdi>Conformiteit</h2><a class="self-link" href="#conformance" aria-label="Permalink for Section 13."></a></div><p>Naast onderdelen die als niet normatief gemarkeerd zijn, zijn ook alle diagrammen, voorbeelden, en noten in dit document niet normatief. Verder is alles in dit document normatief.</p></section>
   <section id="tof"></section>
   <section id="index" class="appendix"><div class="header-wrapper"><h2 id="a-index"><bdi class="secno">A. </bdi>Index</h2><a class="self-link" href="#index" aria-label="Permalink for Appendix A."></a></div><section id="index-defined-here">
     <div class="header-wrapper"><h3 id="a-1-begrippen-gedefinieerd-door-deze-specificatie"><bdi class="secno">A.1 </bdi>Begrippen gedefinieerd door deze specificatie</h3><a class="self-link" href="#index-defined-here" aria-label="Permalink for Appendix A.1"></a></div>
