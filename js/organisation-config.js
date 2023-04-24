@@ -1,8 +1,8 @@
 // Plaats dit bestand op een centrale locatie voor hergebruik in meerdere documenten.
 var organisationConfig = {
-    nl_organisationName: "Logius",
+    nl_organisationName: "JAS",
     nl_organisationStylesURL: "https://gitdocumentatie.logius.nl/publicatie/respec/style/",
-    nl_organisationPublishURL: "https://gitdocumentatie.logius.nl/publicatie/",
+    nl_organisationPublishURL: "https://diederikd.github.io/JAS_documentatie/",
     logos: [{
         src: "https://raw.githubusercontent.com/diederikd/JAS_documentatie/main/media/logo150.gif",
         alt: "JAS",
