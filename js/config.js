@@ -5,7 +5,7 @@ let respecConfig = {
   specStatus: "WV",
   specType: "HR",
   pubDomain: "dk",
-  shortName: "JAS",
+  shortName: "WetsTaal",
   publishDate: "2022-06-24",
   publishVersion: "0.0.2",
 
@@ -18,9 +18,9 @@ let respecConfig = {
   editors:
     [
       {
-        name: "JAS",
-        company: "JAS",
-        companyURL: "https://diederikd.github.io/JAS_documentatie/",
+        name: "WetsTaal",
+        company: "WetsTaal",
+        companyURL: "https://diederikd.github.io/WetsTaal_1_documentatie/",
       }
     ],
   authors:
@@ -36,14 +36,14 @@ let respecConfig = {
         companyURL: "-",
       }
     ],
-  github: "https://github.com/diederikd/JAS_documentatie",
+  github: "https://github.com/diederikd/WetsTaal_1_documentatie",
 
 
   // Create PDF and link to file in header (optional):
   alternateFormats: [
       {
           label: "pdf",
-          uri: "JAS.pdf",
+          uri: "WetsTaal.pdf",
       },
   ],
 };
