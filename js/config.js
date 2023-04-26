@@ -28,7 +28,14 @@ let respecConfig = {
       {
         name: "Sjir Nijssen",
         company: "-",
-        companyURL: "-n",
+        companyURL: "-",
+      }
+    ],
+    [
+      {
+        name: "Diederik Dulfer",
+        company: "-",
+        companyURL: "-",
       }
     ],
   github: "https://github.com/diederikd/JAS_documentatie",
