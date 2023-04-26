@@ -29,9 +29,7 @@ let respecConfig = {
         name: "Sjir Nijssen",
         company: "-",
         companyURL: "-",
-      }
-    ],
-    [
+      },
       {
         name: "Diederik Dulfer",
         company: "-",
