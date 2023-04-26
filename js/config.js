@@ -12,7 +12,7 @@ let respecConfig = {
   previousVersion: "0.0.1",
   previousPublishDate: "2014-05-01",
   previousMaturity: "EO",
-  title: "Juridisch analyseschema",
+  title: "WetsTaal 1",
   subtitle: "De syntax en semantiek van de logisch formele, declaratieve en breed begrijpelijke taal ",
   content: {"objectief_en_subjectief_recht": "","rechtssubject": "", "rechtsbetrekking": "", "rechtsfeit" : "","rechtsgevolgen" : "", "rechtsobject": "","juridisch_relevant_feit" : "", "juridische_toestand" : "","afleidingsregel": "", "voorwaarde": "", "variabele": "",  "juridisch_scenario": ""},
   editors:
