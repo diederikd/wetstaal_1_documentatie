@@ -20,7 +20,7 @@ let respecConfig = {
       {
         name: "WetsTaal",
         company: "WetsTaal",
-        companyURL: "https://diederikd.github.io/WetsTaal_1_documentatie/",
+        companyURL: "https://diederikd.github.io/wetstaal_1_documentatie/",
       }
     ],
   authors:
@@ -36,7 +36,7 @@ let respecConfig = {
         companyURL: "-",
       }
     ],
-  github: "https://github.com/diederikd/WetsTaal_1_documentatie",
+  github: "https://github.com/diederikd/wetstaal_1_documentatie",
 
 
   // Create PDF and link to file in header (optional):
