@@ -2,14 +2,14 @@
 var organisationConfig = {
     nl_organisationName: "WetsTaal",
     nl_organisationStylesURL: "https://gitdocumentatie.logius.nl/publicatie/respec/style/",
-    nl_organisationPublishURL: "https://diederikd.github.io/WetsTaal_1_documentatie/",
+    nl_organisationPublishURL: "https://diederikd.github.io/wetstaal_1_documentatie/",
     logos: [{
-        src: "https://raw.githubusercontent.com/diederikd/WetsTaal_1_documentatie/main/media/logo150.gif",
+        src: "https://raw.githubusercontent.com/diederikd/wetstaal_1_documentatie/main/media/logo150.gif",
         alt: "WetsTaal",
         id: "WetsTaal",
         height: 100,
         width: 100,
-        url: "https://github.com/diederikd/WetsTaal_1_documentatie",
+        url: "https://github.com/diederikd/wetstaal_1_documentatie",
     }],
 
     postProcess: [window.respecMermaid.createFigures],
