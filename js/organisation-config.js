@@ -113,11 +113,29 @@ var organisationConfig = {
             authors: ["T. Preston-Werner"],
             date: "June 2013"
         },
-         "1ekamerregelspraak": {
+        "1ekamerregelspraak": {
             href: "https://www.eerstekamer.nl/overig/20211012/voorbeeld_van_een_regelspraak",
             title: "Voorbeeld van een Regelspraak-regel",
             authors: "M. Lokin",
             date: "Oktober 2021"
         },
+        "HandleidingWetsanalyse": {
+            href: "https://wendbarewetsuitvoering.pleio.nl/cms/view/41f08520-3910-4691-a982-f355e199f011/handleiding-wetsanalyse-in-de-praktijk",
+            title: "Handleiding Wetsanalyse in de praktijk",
+            authors: "BRM",
+            date: "9 februari 2023"
+        }, 
+        "Wetsanalyse": {
+            href: "https://www.boom.nl/zoeken/100-11574_Wetsanalyse",
+            title: "Wetsanalyse voor een werkbare uitvoering van wetgeving met ICT",
+            authors: "Ausems A, Bulles J en Lokin M",
+            date: "Juni 2021"
+        }, 
+        "StaatVanDeUitvoering": {
+            href: "https://www.rijksoverheid.nl/documenten/kamerstukken/2023/01/18/bijlage-3-staat-van-de-uitvoering-2022",
+            title: "Staat van de Uitvoering 2022",
+            authors: "Staat van de uitvoering",
+            date: "Januari 2023"
+        }, 
     },
 }
