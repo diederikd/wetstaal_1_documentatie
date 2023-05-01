@@ -14,9 +14,9 @@ var organisationConfig = {
 
     postProcess: [window.respecMermaid.createFigures],
 
-    latestVersion: ["nl_organisationPublishURL", "pubDomain", "/"],
-    thisVersion: ["nl_organisationPublishURL", "/v", "publishVersion"],
-    prevVersion: ["nl_organisationPublishURL", "/v", "previousVersion"],
+    latestVersion: ["nl_organisationPublishURL", "v", "publishVersion"],
+    thisVersion: ["nl_organisationPublishURL", "v", "publishVersion"],
+    prevVersion: ["nl_organisationPublishURL", "v", "previousVersion"],
     useLogo: true,
     useLabel: true,
 
