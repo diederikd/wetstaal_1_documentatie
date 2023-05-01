@@ -2,9 +2,9 @@
 var organisationConfig = {
     nl_organisationName: "WetsTaal",
     nl_organisationStylesURL: "https://gitdocumentatie.logius.nl/publicatie/respec/style/",
-    nl_organisationPublishURL: "https://diederikd.github.io/JAS_documentatie/",
+    nl_organisationPublishURL: "https://diederikd.github.io/WetsTaal_1_documentatie/",
     logos: [{
-        src: "https://raw.githubusercontent.com/diederikd/JAS_documentatie/main/media/logo150.gif",
+        src: "https://raw.githubusercontent.com/diederikd/WetsTaal_1_documentatie/main/media/logo150.gif",
         alt: "WetsTaal",
         id: "WetsTaal",
         height: 100,
@@ -15,8 +15,8 @@ var organisationConfig = {
     postProcess: [window.respecMermaid.createFigures],
 
     latestVersion: ["nl_organisationPublishURL", "pubDomain", "/"],
-    thisVersion: ["nl_organisationPublishURL", "pubDomain", "/", "specStatus", "-", "specType", "-", "shortName", "-", "publishDate"],
-    prevVersion: ["nl_organisationPublishURL", "pubDomain", "/", "previousMaturity", "-", "specType", "-", "shortName", "-", "publishDate"],
+    thisVersion: ["nl_organisationPublishURL", "/v", "publishVersion"],
+    prevVersion: ["nl_organisationPublishURL", "/v", "previousVersion"],
     useLogo: true,
     useLabel: true,
 
