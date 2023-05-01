@@ -113,5 +113,11 @@ var organisationConfig = {
             authors: ["T. Preston-Werner"],
             date: "June 2013"
         },
+         "1ekamerregelspraak": {
+            href: "https://www.eerstekamer.nl/overig/20211012/voorbeeld_van_een_regelspraak",
+            title: "Voorbeeld van een Regelspraak-regel",
+            authors: "M. Lokin",
+            date: "Oktober 2021"
+        },
     },
 }
