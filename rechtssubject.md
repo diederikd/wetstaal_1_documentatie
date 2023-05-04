@@ -46,3 +46,102 @@ Een plicht is een soort nadeel.
 In onderstaand diagram zijn een aantal voorbeelden van rechtssubjecten gegeven die bij veel Nederlanders bekend zijn.
 
 ![voorbeelden van rechtssubjecten!](media/afbeelding1-4.png "voorbeelden van rechtssubjecten")
+
+In bovenstaand diagram is onder meer ook het volgende uitgebeeld:
+
+Het rechtssubjecttype  buitenlandsbelastingplichtige voor de inkomstenbelasting is een deelverzameling  van het rechtssubjecttype natuurlijke persoon. Het rechtssubjecttype natuurlijke persoon en een deelverzameling van het rechtssubjecttype rechtssubject.
+
+Verder kunnen we de volgende feiten uit het diagram in tekst omzetten:
+
+Andre Rieu, Max Verstappen en ASML zijn voorbeelden van bekende Nederlandse rechtssubjecten.
+Andre Rieu en Max Verstappen zijn ook voorbeelden van de specialisatie van rechtssubject, met de naam natuurlijk persoon.
+ASML is een voorbeeld van de specialisatie van rechtssubject met de naam rechtspersoon.
+Andre Rieu is een binnenlandsbelastingplichtige voor de inkomstenbelasting. Waarom is dat zo? Omdat Andre Rieu in Nederland woont. (IB 2.1, a)
+Max Verstappen is een buitenlandse belastingplichtige voor de inkomstenbelasting. Waarom is dat zo? Omdat Max Verstappen in het buitenland woont maar wel Nederlands inkomen geniet. (Wet op de Inkomstenbelasting artikel 2.1,b).
+
+Het voorgaande is duidelijk een verrijking van het begrip van Wet op de inkomstenbelasting artikel 2.1. Maar op welk niveau speelt dit? Dat is het abstracte niveau van wetgeving, waarbij – stilzwijgend – verzuimd is expliciet aan te geven dat hier het perspectief van een bepaald moment of periode in de tijd bedoeld is. Dat is wat genoemd wordt het objectieve recht. Het objectieve recht is het recht beschreven in wetgeving.
+Maar dat is niet het perspectief van de burger. In zijn concrete belevingswereld heeft hij expliciet rekening te houden met perioden en momenten in de tijd. Dat is het subjectieve recht, het recht gezien vanuit het perspectief van de burger of bedrijf.
+
+## Het patroon met 4 gestructureerde gegevens rond rechtssubject, oftewel welke uitdrukkingen van een rechtssubject zijn toegestaan
+
+Het patroon van gestructureerde gegevens rond rechtssubject hebben we nodig om adequaat antwoord te kunnen geven op de twee vragen van de burger:
+
+-	voor wie zijn deze verplichtingen bedoeld?
+-	Voor wie zijn deze rechten bedoeld?
+
+We zullen dat eerst toelichten aan de hand van het concrete geval van het voetgangerslicht, te weten artikel 74, lid 1, onder c, 1e zin:
+
+**Artikel 74**
+
+1. Bij voetgangerslichten betekent:<br />
+~~a. groen licht: voetgangers mogen oversteken;~~<br />
+~~b. groen knipperend licht: voetgangers mogen oversteken; het rode licht verschijnt spoedig;~~<br />
+c. rood licht: voetgangers mogen niet meer beginnen over te steken; reeds overstekende voetgangers moeten zo snel mogelijk doorlopen.<br />
+
+We zien in bovenstaande tekst dat we te doen hebben met twee verschillende specialisaties van  rechtssubjecten bij het Voetgangerslicht:
+
+- voetgangers op het trottoir of voetpad bij een voetgangerslicht en
+- reeds overstekende voetgangers bij een voetgangerslicht.
+
+We zullen hierna laten zien hoe dat bij Wetsanalyse o.b.v. de regels van WetsTaal deze twee soorten rechtsbetrekkingen expliciet naar voren komen in het model voor RVV, artikel 74, lid 1.
+
+Van een rechtssubject noteren we 4 gestructureerde gegevens in de vulling van het wetsmodel, de concrete wereld van de burger.
+
+Dat is:
+
+- de identificatie van een rechtssubject, naar keuze in de vorm van
+  - een korte code of
+  -	een langere naam, of
+  -	beide
+-	de specialisatie van een rechtssubject en
+-	de voorwaarde waaronder de specialisatie geldig is.
+
+## Invulformulier voor rechtssubject
+
+Hieronder ziet u de invulling van een formulier voor het geval van een voetganger die op het trottoir of voetpad staat bij een Voetgangerslicht.
+
+In dit geval is het eerste gestructureerde gegeven van een rechtssubject de identificatie:
+
+Binnen de collectie van alle rechtssubjecten binnen RVV art 74 lid 1 identificeert voetganger op het trottoir bij een voetgangerslicht een specifiek rechtssubject. Hier is de langere naam als identificatie voor rechtssubject gebruikt.
+Er had ook gekozen kunnen worden hier binnen het kennisdomein Voetgangerslicht deze twee rechtssubjecten aan te duiden met de korte code als RS01 en RS02.
+
+Het derde gestructureerde gegeven van een rechtssubject bevat het feit welk rechtssubject is specialisatie van een hoger rechtssubject in de boom van rechtssubjecten.
+In dit concrete geval hebben we:
+
+Rechtssubject
+    met de naam
+        Voetganger op het trottoir of voetpad bij een voetgangerslicht
+is een specialisatie van
+rechtssubject
+    met de naam
+        voetganger.
+
+Het vierde gestructureerde gegeven van een rechtssubject is de voorwaarde waaronder de specialisatie geldig is. In dit concrete geval hebben we als vierde gestructureerde gegeven:
+
+De voorwaarde op de specialisatie van het rechtssubject voetganger op het trottoir of voetpad bij een voetgangerslicht is geldig indien voldaan is aan de voorwaarde Voetganger bevindt zich op het trottoir of voetpad bij een voetgangerslicht.
+
+In onderstaand formulier zijn 5 gestructureerde gegevens ingevuld, het vijfde is de bron. Het ter beschikking hebben van het gestructureerde gegeven Bron helpt om met krachtige ondervraagtalen effectief te kunnen werken bij wetgeving en wetsuitvoering.
+
+![Invulformulier rechtssubject een!](media/afbeelding1-6-1.png "Invulformulier rechtssubject een")
+
+Het tweede voorbeeld van een rechtssubject dat voorkomt in RVV, art 74, lid is hieronder ingevuld in een invulformulier voor Rechtssubject. Men zou kunnen dat er twee gegevens records zijn gebruikt om de volledig geëxpliciteerde kennis te kunnen borgen van de twee van de drie rechtssubjecten in RVV, art 74, lid 1.
+Wie is het derde Rechtssubject? Dat staat niet in RVV, art 74, lid 1. Dat heeft het multidisciplinaire team op basis van de patronen van WetsTaal na beraad toegevoegd. En dat is de Staat.
+
+![Invulformulier rechtssubject twee!](media/afbeelding1-6-2.png "Invulformulier rechtssubject twee")
+
+De hierboven ingevulde formulieren laten de 5 gestructureerde gegevens zien van een rechtssubject.
+
+##	Het patroon rond rechtssubject
+Het patroon rond rechtssubject is op grammaticaal niveau en dat is veel abstracter dan het concreet ingevulde formulier voor rechtssubject. Het invulformulier bevat een instantiatie of invulling van het patroon. Het patroon is hieronder weergegeven. Hier is het gestructureerde gegeven voor bron weggelaten evenals de twee optionele mogelijkheden om een korte code of langere naam toe te wijzen. M.a.w. in het meest expliciete geval hebben we te doen met 5 gestructureerde gegevens om een rechtssubject volledig declaratief te beschrijven.
+
+![Patroon rechtssubject!](media/afbeelding1-7.png "Patroon rechtssubject")
+
+## De samenhang tussen patroon en ingevuld formulier voor rechtssubject
+De ervaring heeft ons geleerd dat het nuttig is om de samenhang van het concrete niveau van de ingevulde gestructureerde gegevens waar de burger direct mee te maken heeft zoals weergegeven in een invulformulier met het abstracte grammaticaal niveau van het patroon van rechtssubject te laten zien. Dat is hieronder weergegeven. Het onderste deel is het patroon, het bovenste deel het ingevulde formulier.
+
+## Kennisweergave in tekst en schemavorm alsmede hun 1:1 connecties voor rechtssubject
+Ook is nuttig gebleken om rechtswetenschappelijke kennis zowel in tekst als in schemavorm weer te geven. Over het algemeen is schemavorm een meer productieve vorm. Door twee kennisrepresentaties ter beschikking te stellen hebben de professionals in het MDT keuze.
+
+![Patroon rechtssubject!](media/afbeelding1-9.png "Patroon rechtssubject")
+
+Dit patroon kan worden gebruik tijdens het wetgevingsproces om de feiten over rechtssubject compleet te krijgen vanaf het prille begin. In het wetsanalyse proces worden dezelfde patronen gebruikt om de kennis alsnog volledig geëxpliciteerd te krijgen. 
