@@ -72,9 +72,11 @@ Het patroon van gestructureerde gegevens rond rechtssubject hebben we nodig om a
 We zullen dat eerst toelichten aan de hand van het concrete geval van het voetgangerslicht, te weten artikel 74, lid 1, onder c, 1e zin:
 
 >Artikel 74
+>
 >1.	Bij voetgangerslichten betekent:
-    a.	groen licht: voetgangers mogen oversteken;
-    b.	groen knipperend licht: voetgangers mogen oversteken; het rode licht verschijnt spoedig;
+>
+    ~~a.	groen licht: voetgangers mogen oversteken;~~
+    ~~b.	groen knipperend licht: voetgangers mogen oversteken; het rode licht verschijnt spoedig;~~
     c.	rood licht: voetgangers mogen niet meer beginnen over te steken; reeds overstekende voetgangers moeten zo snel mogelijk doorlopen.
 
 We zien in bovenstaande tekst dat we te doen hebben met twee verschillende specialisaties van  rechtssubjecten bij het Voetgangerslicht:
