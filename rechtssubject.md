@@ -123,19 +123,19 @@ De voorwaarde op de specialisatie van het rechtssubject voetganger op het trotto
 
 In onderstaand formulier zijn 5 gestructureerde gegevens ingevuld, het vijfde is de bron. Het ter beschikking hebben van het gestructureerde gegeven Bron helpt om met krachtige ondervraagtalen effectief te kunnen werken bij wetgeving en wetsuitvoering.
 
-![Invulformulier rechtssubject!](media/afbeelding1-6-1.png "Invulformulier rechtssubject")
+![Invulformulier rechtssubject een!](media/afbeelding1-6-1.png "Invulformulier rechtssubject een")
 
 Het tweede voorbeeld van een rechtssubject dat voorkomt in RVV, art 74, lid is hieronder ingevuld in een invulformulier voor Rechtssubject. Men zou kunnen dat er twee gegevens records zijn gebruikt om de volledig geëxpliciteerde kennis te kunnen borgen van de twee van de drie rechtssubjecten in RVV, art 74, lid 1.
 Wie is het derde Rechtssubject? Dat staat niet in RVV, art 74, lid 1. Dat heeft het multidisciplinaire team op basis van de patronen van WetsTaal na beraad toegevoegd. En dat is de Staat.
 
-![Invulformulier rechtssubject!](media/afbeelding1-6-2.png "Invulformulier rechtssubject")
+![Invulformulier rechtssubject twee!](media/afbeelding1-6-2.png "Invulformulier rechtssubject twee")
 
 De hierboven ingevulde formulieren laten de 5 gestructureerde gegevens zien van een rechtssubject.
 
 ##	Het patroon rond rechtssubject
 Het patroon rond rechtssubject is op grammaticaal niveau en dat is veel abstracter dan het concreet ingevulde formulier voor rechtssubject. Het invulformulier bevat een instantiatie of invulling van het patroon. Het patroon is hieronder weergegeven. Hier is het gestructureerde gegeven voor bron weggelaten evenals de twee optionele mogelijkheden om een korte code of langere naam toe te wijzen. M.a.w. in het meest expliciete geval hebben we te doen met 5 gestructureerde gegevens om een rechtssubject volledig declaratief te beschrijven.
 
-![Patroon rechtssubject!](media/afbeelding1-7.png "Patroon rechtssubject")
+![Patroon rechtssubject een!](media/afbeelding1-7.png "Patroon rechtssubject een")
 
 ## De samenhang tussen patroon en ingevuld formulier voor rechtssubject
 De ervaring heeft ons geleerd dat het nuttig is om de samenhang van het concrete niveau van de ingevulde gestructureerde gegevens waar de burger direct mee te maken heeft zoals weergegeven in een invulformulier met het abstracte grammaticaal niveau van het patroon van rechtssubject te laten zien. Dat is hieronder weergegeven. Het onderste deel is het patroon, het bovenste deel het ingevulde formulier.
@@ -143,6 +143,6 @@ De ervaring heeft ons geleerd dat het nuttig is om de samenhang van het concrete
 ## Kennisweergave in tekst en schemavorm alsmede hun 1:1 connecties voor rechtssubject
 Ook is nuttig gebleken om rechtswetenschappelijke kennis zowel in tekst als in schemavorm weer te geven. Over het algemeen is schemavorm een meer productieve vorm. Door twee kennisrepresentaties ter beschikking te stellen hebben de professionals in het MDT keuze.
 
-![Patroon rechtssubject!](media/afbeelding1-9.png "Patroon rechtssubject")
+![Patroon rechtssubject twee!](media/afbeelding1-9.png "Patroon rechtssubject twee")
 
 Dit patroon kan worden gebruik tijdens het wetgevingsproces om de feiten over rechtssubject compleet te krijgen vanaf het prille begin. In het wetsanalyse proces worden dezelfde patronen gebruikt om de kennis alsnog volledig geëxpliciteerd te krijgen. 
