@@ -18,8 +18,8 @@ In het RVV (Reglement Verkeersregels en Verkeerstekens 1990) lezen we het volgen
 >1.	Bij voetgangerslichten betekent:
 >
     a.	groen licht: voetgangers mogen oversteken;
-    ~~b.	groen knipperend licht: voetgangers mogen oversteken; het rode licht verschijnt spoedig;~~
-    c.	rood licht: voetgangers mogen niet meer beginnen over te steken; ~~reeds overstekende voetgangers moeten zo snel mogelijk doorlopen.~~
+    b.	groen knipperend licht: voetgangers mogen oversteken; het rode licht verschijnt spoedig;
+    c.	rood licht: voetgangers mogen niet meer beginnen over te steken; reeds overstekende voetgangers moeten zo snel mogelijk doorlopen.
 
 De doorgestreepte stukken tekst vallen buiten de scope van dit deelhoofdstuk.
 
@@ -118,8 +118,8 @@ Kijken we naar de tekst van de regelgeving:
 >1.	Bij voetgangerslichten betekent:
 >
     a.	groen licht: voetgangers mogen oversteken;
-    ~~b.	groen knipperend licht: voetgangers mogen oversteken; het rode licht verschijnt spoedig;~~
-    c.	rood licht: voetgangers mogen niet meer beginnen over te steken; ~~reeds overstekende voetgangers moeten zo snel mogelijk doorlopen.~~
+    b.	groen knipperend licht: voetgangers mogen oversteken; het rode licht verschijnt spoedig;
+    c.	rood licht: voetgangers mogen niet meer beginnen over te steken; reeds overstekende voetgangers moeten zo snel mogelijk doorlopen.
 
 
 ‘beginnen over te steken’ is datgene wat niet mag. Dat is het voorwerp van de rechtsbetrekking, oftewel het rechtsobject.
@@ -190,9 +190,9 @@ We zullen ons nader onderzoek uitvoeren aan de hand van het patroon voor rechtsb
 >
 >1.	Bij voetgangerslichten betekent:
 >
-    ~~a.	groen licht: voetgangers mogen oversteken;~~
-    ~~b.	groen knipperend licht: voetgangers mogen oversteken; het rode licht verschijnt spoedig;~~
-    c.	rood licht: voetgangers mogen niet meer beginnen over te steken; ~~reeds overstekende voetgangers moeten zo snel mogelijk doorlopen.~~
+    a.	groen licht: voetgangers mogen oversteken;
+    b.	groen knipperend licht: voetgangers mogen oversteken; het rode licht verschijnt spoedig;
+    c.	rood licht: voetgangers mogen niet meer beginnen over te steken; reeds overstekende voetgangers moeten zo snel mogelijk doorlopen.
 
 We zien in bovenstaande niet-doorgestreepte tekst dat we te doen hebben met een rechtsbetrekking.
 
