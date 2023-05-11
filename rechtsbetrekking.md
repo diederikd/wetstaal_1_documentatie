@@ -48,7 +48,7 @@ Termen tussen dit paar haken <    > geven variabelen weer
 
 In een schema kan dit bovenstaand tekstueel patroon als volgt worden weergegeven:
 
-![Patroon Rechtsbetrekking!](media/afbeelding2-2-1.png "Patroon Rechtsbetrekking")
+![Patroon Rechtsbetrekking!](media/afbeelding2-2-1.png "Patroon Rechtsbetrekking I")
 
 ##	Elke rechtsbetrekking in het objectieve recht krijgt een identificatie toegewezen
 Elke rechtsbetrekking krijgt binnen zijn kennisdomein een korte identificatie toegewezen waar bovendien RB als eerste twee karakters optreedt. Daarmee kan in een interactieve mode binnen het kennisdomein heel handig worden geopereerd. Bijv. binnen het kennisdomein RVV art v74, lid 1 geven we de eerste rechtsbetrekking de identificatie RB01.
@@ -130,7 +130,7 @@ Een juridisch relevant feit is gedefinieerd als een feit dat in een voorwaarde o
 ## Tussentijdse samenvatting
 Laten we nu eens kijken hoe een aantal gestructureerde gegevens betreffende rechtssubjecten en rechtsbetrekkingen samenhangt.
 
-![Patroon Rechtsbetrekking 2!](media/afbeelding2-2-2.png "Patroon Rechtsbetrekking ")
+![Patroon Rechtsbetrekking 2!](media/afbeelding2-2-2.png "Patroon Rechtsbetrekking II")
 
 De verwoording van bovenstaande gestructureerde gegevens (vier voorbeelden van relaties tussen een rechtssubject en een rechtsbetrekking) is als volgt: (waarbij we de identificatiefeiten niet herhalen.)
 
@@ -219,11 +219,11 @@ Gelukkig is er veel volkswijsheid op dit punt. Jaarlijks worden duizenden mensen
 ##	Het patroon rond rechtsbetrekking
 Het patroon rond rechtsbetrekking laat de gestructureerde gegevenstypes zien.
 
-![Patroon rechtsbetrekking!](media/afbeelding2-2-4.png "Patroon rechtsbetrekking")
+![Patroon rechtsbetrekking!](media/afbeelding2-2-4.png "Patroon rechtsbetrekking III")
 
 ## De samenhang tussen patroon en ingevuld formulier bij rechtsbetrekking
 Het patroon van rechtsbetrekking is op het niveau van een grammatica en niet van een concrete uitdrukking die aan de grammatica voldoet. In het formulier is de grammatica aan de linkerkant; de invulling van de uitdrukking aan de rechterkant van het formulier.
 
-![Patroon rechtsbetrekking!](media/afbeelding2-2-5.png "Patroon rechtsbetrekking")
+![Patroon rechtsbetrekking!](media/afbeelding2-2-5.png "Patroon rechtsbetrekking IV")
 
 We kunnen de bovengenoemde connecties op grammatica niveau tussen de elementen van het patroon en de linkerkant van het formulier (de regels in het formulier) ook met een gestippelde lijn met aan beide kanten een pijlpunt toelichten, zoals hieronder weergegeven.
