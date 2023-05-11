@@ -48,7 +48,7 @@ Termen tussen dit paar haken <    > geven variabelen weer
 
 In een schema kan dit bovenstaand tekstueel patroon als volgt worden weergegeven:
 
-![Patroon Rechtsbetrekking!](media/afbeelding2-2-1.png "Patroon Rechtsbetrekking I")
+![Patroon Rechtsbetrekking!](media/afbeelding2-2-1.png "Patroon rechtsbetrekking I")
 
 ##	Elke rechtsbetrekking in het objectieve recht krijgt een identificatie toegewezen
 Elke rechtsbetrekking krijgt binnen zijn kennisdomein een korte identificatie toegewezen waar bovendien RB als eerste twee karakters optreedt. Daarmee kan in een interactieve mode binnen het kennisdomein heel handig worden geopereerd. Bijv. binnen het kennisdomein RVV art v74, lid 1 geven we de eerste rechtsbetrekking de identificatie RB01.
@@ -130,7 +130,7 @@ Een juridisch relevant feit is gedefinieerd als een feit dat in een voorwaarde o
 ## Tussentijdse samenvatting
 Laten we nu eens kijken hoe een aantal gestructureerde gegevens betreffende rechtssubjecten en rechtsbetrekkingen samenhangt.
 
-![Patroon Rechtsbetrekking 2!](media/afbeelding2-2-2.png "Patroon Rechtsbetrekking II")
+![Patroon Rechtsbetrekking 2!](media/afbeelding2-2-2.png "Patroon rechtsbetrekking II")
 
 De verwoording van bovenstaande gestructureerde gegevens (vier voorbeelden van relaties tussen een rechtssubject en een rechtsbetrekking) is als volgt: (waarbij we de identificatiefeiten niet herhalen.)
 

@@ -5,6 +5,14 @@ Een <dfn data-lt="rechtssubjecten">rechtssubject</dfn> is
 - de generator van [=juridisch relevante feiten=], en/of
 - de uitvoerder van [=rechtshandelingen=] en [=feitelijke handelingen met rechtsgevolg=].
 
+Een <dfn data-lt="rechtsbetrekkingen">rechtsbetrekking</dfn> is een juridische relatie tussen twee [=rechtssubjecten=], waarbij
+-	die relatie komt met een hoofdsoort, en
+-	elke hoofdsoort heeft meer ondersoorten,
+-	het ene [=rechtssubject=] de voordeel-kant heeft en
+-	het andere [=rechtssubject=] de nadeel-kant,
+-	betreffende het rechtsobject en
+-	geldig is onder de gespecificeerde voorwaarden.
+
 Een <dfn data-lt="juridisch relevante feiten">juridisch relevant feit</dfn> is een feit dat voorkomt in een:
 
 - voorwaarde, en/of
