@@ -1,6 +1,6 @@
 # Begrippenlijst
 
-Een <dfn data-lt="juridisch relevant feiten">juridisch relevant feit</dfn> is een feit dat voorkomt in een:
+Een <dfn data-lt="juridisch relevante feiten">juridisch relevant feit</dfn> is een feit dat voorkomt in een:
 
 - voorwaarde, en/of
 - rechtsobject en/of
