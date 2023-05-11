@@ -23,17 +23,8 @@ De begripsdefinitie van de term rechtssubject:
 
 Een rechtssubject is
 - de drager van rechten en plichten, en/of
-- de generator van juridisch relevante feiten, en/of
-- de uitvoerder van rechtshandelingen en feitelijke handelingen met rechtsgevolg.
-
-Eem juridisch relevant feit is een feit dat voorkomt in een
-- voorwaarde, en/of
-- rechtsobject en/of
--	afleidingsregel
-
-van een model voor wetgeving of wetsuitvoering.
-Een rechtshandeling heeft rechtsgevolgen en een beoogd doel.
-Een feitelijke handeling met rechtsgevolg heeft rechtsgevolgen, maar beoogt die rechtsgevolgen niet.
+- de generator van [=juridisch relevante feiten=], en/of
+- de uitvoerder van [=rechtshandelingen=] en [=feitelijke handelingen met rechtsgevolg=].
 
 ## Opbouw van de kennis
 Een axiomatische benadering zou als volgt kunnen zijn.
