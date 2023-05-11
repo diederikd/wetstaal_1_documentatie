@@ -1,5 +1,10 @@
 # Begrippenlijst
 
+Een <dfn data-lt="rechtssubjecten">rechtssubject</dfn> is
+- de drager van rechten en plichten, en/of
+- de generator van [=juridisch relevante feiten=], en/of
+- de uitvoerder van [=rechtshandelingen=] en [=feitelijke handelingen met rechtsgevolg=].
+
 Een <dfn data-lt="juridisch relevante feiten">juridisch relevant feit</dfn> is een feit dat voorkomt in een:
 
 - voorwaarde, en/of
