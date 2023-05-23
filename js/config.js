@@ -34,7 +34,12 @@ let respecConfig = {
         name: "Diederik Dulfer",
         company: "-",
         companyURL: "-",
-      }
+      },
+      {
+        name: "Onno Kubbe",
+        company: "-",
+        companyURL: "-",
+      },
     ],
   github: "https://github.com/diederikd/wetstaal_1_documentatie",
 
