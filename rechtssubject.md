@@ -1,46 +1,44 @@
 # Rechtssubject in het objectieve recht (wetgeving)
 ## Wat is een rechtssubject, oftewel de semantiek?
-In dit hoofdstuk gaan we de semantische (wat betekent een term?) en syntactische regels (welke uitdrukkingen met deze term zijn toegestaan?) beschrijven van het onderdeel Rechtssubject van de logisch formele, declaratieve en breed begrijpelijke taal met de naam WetsTaal. Met deze taal worden voor zowel de wetgeving als de wetsuitvoering modellen opgesteld waarmee de wetsuitvoering vanaf het begin van het wetgevingsproces getest kan worden.
-Dat betekent dat wetgeving op die manier opgesteld volledig is, breed begrijpelijk en waarbij de computer effectief kan worden ingeschakeld om de complexiteit te minimaliseren. De taal is een zogenaamde gecontroleerde natuurlijke taal. Dat betekent zowel begrijpelijk voor de meerderheid van de mensen als computers.
-Beide beschrijvingen spelen een belangrijke rol bij wetgeving en wetsanalyse op basis van patroonherkenning, zoals ook in een aantal andere exacte wetenschappen met groot succes wordt gebruikt. Bij die patroonherkenning willen we bewust een stuk overtolligheid inbouwen om in situaties waarin meer dan een enkel gestructureerd gegeven in de juridische bron ontbreekt, de patroonherkenning effectief te laten werken.
+In dit hoofdstuk gaan we de semantische (wat betekent een term?) en syntactische regels (welke uitdrukkingen met deze term zijn toegestaan?) beschrijven van het onderdeel Rechtssubject van de logisch formele, declaratieve en breed begrijpelijke taal met de naam WetsTaal. Met deze taal worden voor zowel de wetgeving als de wetsuitvoering logisch formele modellen opgesteld waarmee de wetsuitvoering vanaf het prille begin van het wetgevingsproces getest kan worden.
 
+Dat betekent dat wetgeving op die manier opgesteld, volledig is, breed begrijpelijk en waarbij de computer effectief kan worden ingeschakeld om de complexiteit te minimaliseren en de wetgeving aangevuld met ontbrekende gegevens toegevoegd in het multidisciplinaire team op basis van de patronen in WetsTaal en daardoor de bedoelde wetgeving volledig te expliciteren in het wetgevingsmodel. De taal is een zogenaamde gecontroleerde natuurlijke taal. Dat betekent zowel begrijpelijk voor de meerderheid van de mensen als computers.
+
+Beide beschrijvingen, zowel van de syntax (welke uitdrukkingen zijn toegestaan?) als de semantiek (wat betekent een term?)  spelen een belangrijke rol bij wetgeving en wetsanalyse op basis van patroonherkenning, zoals ook in een aantal andere exacte wetenschappen met groot succes wordt gebruikt. Bij die patroonherkenning willen we bewust een stuk overtolligheid inbouwen om in situaties waarin meer dan een enkel gestructureerd gegeven in de juridische bron ontbreekt, de patroonherkenning nog steeds effectief en snel te laten werken.
 
 ## Waarom beginnen we met rechtssubject?
-De structuur van wetgeving die sinds 2012 steeds meer in kaart is gebracht, anders gezegd is gemodelleerd in een logisch formeel, declaratief en breed begrijpelijk model, laat zien dat rechtssubject als eerste vereist is om andere fundamentele begrippen van wetgeving en wetsuitvoering zoals rechtsbetrekking, rechtsfeit en rechtsgevolg te kunnen beschrijven.
-De structuur van wetgeving  is sinds 2012 steeds meer bloot gelegd op basis van het modelleren van de:
+De structuur van wetgeving die sinds 2012 steeds meer in kaart is gebracht, anders gezegd is gemodelleerd in een logisch formeel, declaratief en breed begrijpelijk model, laat zien dat rechtssubject als eerste vereist is om andere fundamentele begrippen of bouwblokken van wetgeving en wetsuitvoering zoals rechtsbetrekking, rechtsfeit en rechtsgevolg adequaat te kunnen beschrijven.
+
+De structuur van wetgeving is sinds 2012 steeds meer bloot gelegd op basis van het modelleren van de :
 
 - begripsomschrijvingen,
 - gegevens,
 - regels, en
 - processen.
 
-Hierbij is voor elke term gebruikt in gegevens, regels of processen die niet als glashelder kan worden aangeduid voor de meerderheid van de Nederlanders, een begripsomschrijving opgesteld. Deze structuur blijkt behoorlijk krachtig te zijn. Door die kracht volledig te expliciteren kan deze kennis gebruikt worden tijdens alle stappen van het wetgevings- en wetsuitvoeringsproces.
+Hierbij is voor elke term gebruikt in gegevens, regels of processen die in het multidisciplinaire team niet als glashelder kan worden aangeduid voor de meerderheid van de Nederlanders, een begripsomschrijving opgesteld. Deze structuur blijkt behoorlijk krachtig te zijn. Door die kracht volledig te expliciteren, kan deze kennis gebruikt worden tijdens alle stappen van het wetgevings- en wetsuitvoeringsproces.
+
 Die structuur is tot nu toe onvoldoende en vaak geheel niet beschreven in de leerboeken Inleiding Rechtsgeleerdheid. Vanuit dat perspectief is het heel goed te verklaren waarom er zo veel misgaat in wetsuitvoering dat zelfs de eerste minister het woord schande gebruikt.
-Het niet bewust zijn van die structuur in de leerboeken voor het opstellen van wetgeving kan aangemerkt worden als de voornaamste oorzaak van de problemen in de wetsuitvoering. Maar de wetgevingsjuristen zijn eigenlijk slachtoffer van het feit dat zij tijdens hun opleiding niet bekend gemaakt zijn met kennisanalysetechnieken en de onderliggende structuur van wetgeving. Zou dat wel het geval zijn, dan zou de kwaliteit van wetgeving structureel veel hoger liggen.
+
+Het niet bewust zijn van die structuur in de leerboeken voor het opstellen van wetgeving kan aangemerkt worden als d voornaamste oorzaak van de problemen in de wetsuitvoering. Maar de wetgevingsjuristen zijn eigenlijk ook slachtoffer van het feit dat zij tijdens hun opleiding niet bekend gemaakt zijn met kennisanalysetechnieken en de onderliggende structuur van wetgeving. Zou dat wel het geval zijn, dan is de verwachting dat de kwaliteit van wetgeving structureel veel hoger zou liggen.
+
 
 ##	Wat is een rechtssubject?
 De begripsdefinitie van de term rechtssubject:
 
 Een rechtssubject is
-- de drager van rechten en plichten, en/of
+- de drager van [=rechten=] en [=plichten=], en/of
 - de generator van [=juridisch relevante feiten=], en/of
 - de uitvoerder van [=rechtshandelingen=] en [=feitelijke handelingen met rechtsgevolg=].
 
-## Opbouw van de kennis
-Een axiomatische benadering zou als volgt kunnen zijn.
-De begrippen achter de termen voordeel en nadeel worden bekend verondersteld.
-Een recht is een soort voordeel.
-Een plicht is een soort nadeel.
-
 ## Voorbeelden van rechtssubjecten
-
 In onderstaand diagram zijn een aantal voorbeelden van rechtssubjecten gegeven die bij veel Nederlanders bekend zijn.
 
 ![voorbeelden van rechtssubjecten!](media/afbeelding1-4.png "voorbeelden van rechtssubjecten")
 
 In bovenstaand diagram is onder meer ook het volgende uitgebeeld:
 
-Het rechtssubjecttype  buitenlandsbelastingplichtige voor de inkomstenbelasting is een deelverzameling  van het rechtssubjecttype natuurlijke persoon. Het rechtssubjecttype natuurlijke persoon en een deelverzameling van het rechtssubjecttype rechtssubject.
+Het rechtssubjecttype buitenlandsbelastingplichtige voor de inkomstenbelasting is een deelverzameling van het rechtssubjecttype natuurlijke persoon. Het rechtssubjecttype natuurlijke persoon en een deelverzameling van het rechtssubjecttype rechtssubject.
 
 Verder kunnen we de volgende feiten uit het diagram in tekst omzetten:
 
@@ -54,11 +52,10 @@ Het voorgaande is duidelijk een verrijking van het begrip van Wet op de inkomste
 Maar dat is niet het perspectief van de burger. In zijn concrete belevingswereld heeft hij expliciet rekening te houden met perioden en momenten in de tijd. Dat is het subjectieve recht, het recht gezien vanuit het perspectief van de burger of bedrijf.
 
 ## Het patroon met 4 gestructureerde gegevens rond rechtssubject, oftewel welke uitdrukkingen van een rechtssubject zijn toegestaan
-
 Het patroon van gestructureerde gegevens rond rechtssubject hebben we nodig om adequaat antwoord te kunnen geven op de twee vragen van de burger:
 
--	voor wie zijn deze verplichtingen bedoeld?
--	Voor wie zijn deze rechten bedoeld?
+-	voor wie zijn deze [=plichten=] bedoeld?
+-	voor wie zijn deze [=rechten=] bedoeld?
 
 We zullen dat eerst toelichten aan de hand van het concrete geval van het voetgangerslicht, te weten artikel 74, lid 1, onder c, 1e zin:
 
@@ -69,7 +66,7 @@ We zullen dat eerst toelichten aan de hand van het concrete geval van het voetga
 ~~b. groen knipperend licht: voetgangers mogen oversteken; het rode licht verschijnt spoedig;~~<br />
 c. rood licht: voetgangers mogen niet meer beginnen over te steken; reeds overstekende voetgangers moeten zo snel mogelijk doorlopen.<br />
 
-We zien in bovenstaande tekst dat we te doen hebben met twee verschillende specialisaties van  rechtssubjecten bij het Voetgangerslicht:
+We zien in bovenstaande tekst dat we te doen hebben met twee verschillende specialisaties van  rechtssubjecten bij het voetgangerslicht:
 
 - voetgangers op het trottoir of voetpad bij een voetgangerslicht en
 - reeds overstekende voetgangers bij een voetgangerslicht.
@@ -84,11 +81,10 @@ Dat is:
   - een korte code of
   -	een langere naam, of
   -	beide
--	de specialisatie van een rechtssubject en
--	de voorwaarde waaronder de specialisatie geldig is.
+- de specialisatie van een rechtssubject en het bovenliggende rechtssubject waarvan dit rechtssubject een specifieke categorie is. Voorbeeld: een natuurlijk persoon is een rechtssubject van vlees en bloed.
+-	de voorwaarde waaronder het rechtssubject behoort tot de specifieke categorie. Voorbeeld: een voetganger (een rechtssubject) is een natuurlijk persoon (een rechtssubject) die aan het verkeer deelneemt.
 
 ## Invulformulier voor rechtssubject
-
 Hieronder ziet u de invulling van een formulier voor het geval van een voetganger die op het trottoir of voetpad staat bij een Voetgangerslicht.
 
 In dit geval is het eerste gestructureerde gegeven van een rechtssubject de identificatie:
@@ -111,7 +107,7 @@ Het vierde gestructureerde gegeven van een rechtssubject is de voorwaarde waaron
 
 De voorwaarde op de specialisatie van het rechtssubject voetganger op het trottoir of voetpad bij een voetgangerslicht is geldig indien voldaan is aan de voorwaarde Voetganger bevindt zich op het trottoir of voetpad bij een voetgangerslicht.
 
-In onderstaand formulier zijn 5 gestructureerde gegevens ingevuld, het vijfde is de bron. Het ter beschikking hebben van het gestructureerde gegeven Bron helpt om met krachtige ondervraagtalen effectief te kunnen werken bij wetgeving en wetsuitvoering.
+In onderstaand formulier zijn 5 gestructureerde gegevens ingevuld bij een rechtssubject, het vijfde is de bron. Het ter beschikking hebben van het gestructureerde gegeven Bron helpt om met krachtige ondervraagtalen effectief te kunnen werken bij wetgeving en wetsuitvoering.
 
 ![Invulformulier rechtssubject een!](media/afbeelding1-6-1.png "Invulformulier rechtssubject I")
 
@@ -135,4 +131,4 @@ Ook is nuttig gebleken om rechtswetenschappelijke kennis zowel in tekst als in s
 
 ![Patroon rechtssubject!](media/afbeelding1-9.png "Patroon rechtssubject II")
 
-Dit patroon kan worden gebruik tijdens het wetgevingsproces om de feiten over rechtssubject compleet te krijgen vanaf het prille begin. In het wetsanalyse proces worden dezelfde patronen gebruikt om de kennis alsnog volledig geëxpliciteerd te krijgen. 
+Dit patroon kan worden gebruik tijdens het wetgevingsproces om de feiten over rechtssubject compleet te krijgen vanaf het prille begin. In het wetsanalyse proces worden dezelfde patronen gebruikt om de kennis die nogal eens ontbreekt in wetgeving aan te vullen en alsnog aldus volledig geëxpliciteerd te krijgen. 
