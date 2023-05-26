@@ -1,5 +1,4 @@
-# Rechtssubject in het objectieve recht (wetgeving)
-## Wat is een rechtssubject, oftewel de semantiek?
+# Rechtssubject
 In dit hoofdstuk gaan we de semantische (wat betekent een term?) en syntactische regels (welke uitdrukkingen met deze term zijn toegestaan?) beschrijven van het onderdeel Rechtssubject van de logisch formele, declaratieve en breed begrijpelijke taal met de naam WetsTaal. Met deze taal worden voor zowel de wetgeving als de wetsuitvoering logisch formele modellen opgesteld waarmee de wetsuitvoering vanaf het prille begin van het wetgevingsproces getest kan worden.
 
 Dat betekent dat wetgeving op die manier opgesteld, volledig is, breed begrijpelijk en waarbij de computer effectief kan worden ingeschakeld om de complexiteit te minimaliseren en de wetgeving aangevuld met ontbrekende gegevens toegevoegd in het multidisciplinaire team op basis van de patronen in WetsTaal en daardoor de bedoelde wetgeving volledig te expliciteren in het wetgevingsmodel. De taal is een zogenaamde gecontroleerde natuurlijke taal. Dat betekent zowel begrijpelijk voor de meerderheid van de mensen als computers.
