@@ -29,4 +29,7 @@ Een <dfn data-lt="rechten">recht</dfn> is een soort voordeel.
 
 Een <dfn data-lt="plichten">plicht</dfn> is een soort nadeel.
 
+Een <dfn data-lt="begripsdefinitie">begripsdefinitie<dfn> is de uitleg of omschrijving van de betekenis van een begrip. Een voorbeeld hiervan is de beschrijving van de modelelementen van wetgeving zoals [=rechtssubject], rechtsbetrekking, rechtsfeit of rechtsgevolg. 
+
+
 <dfn>RegelSpraak</dfn> RegelSpraak is een gecontroleerde Nederlandse taal die is ontwikkeld bij de Belastingdienst. Deze taal wordt gebruikt om belastingregels mee te beschrijven. De RegelSpraak-regels zijn preciezer dan in de onderliggende wetsartikelen verwoord. Deze precisie van de regels zorgt ervoor dat deze geautomatiseerd ‘vertaald’ kunnen worden naar softwarecode om de bedoelde beoordeling – op basis van gegevens uit de aangifte van het voorgaande jaar – uit te voeren [[[1ekamerregelspraak]]].
