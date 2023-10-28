@@ -45,22 +45,22 @@ Een <dfn data-lt="rechtsobjecten">rechtsobject</dfn> is het voorwerp van een rec
 
 Een <dfn data-lt="afleidingsregel">afleidingsregel</dfn> is een voorschrift dat een of meer juridisch relevante feiten (gegevens) als invoer heeft en meestal 1 maar soms meer juridisch relevante feiten (gegevens) als uitvoer.
 
-Een <dfn data-lt="variabelen">variabele</dfn> is een plek om een waarde vast te leggen, waarbij deze waarde kan variëren. Het is essentieel te beseffen dat een variabele bijna altijd onderdeel uitmaakt van een feittype met meer dan één variabele. Bij variabelen is het tevens essentieel onderscheid te maken tussen onafhankelijke (die onder een sleutel vallen, de bepalende variabelen) en de afhankelijke variabelen (die niet onder een sleutel vallen en waarvan de waarde bepaald wordt door de waarden van de bepalende variabelen).
+Een <dfn data-lt="variabelen">variabele</dfn> is een plek om een [=waarde=] vast te leggen, waarbij deze waarde kan variëren. Het is essentieel te beseffen dat een variabele bijna altijd onderdeel uitmaakt van een feittype met meer dan één variabele. Bij variabelen is het tevens essentieel onderscheid te maken tussen onafhankelijke (die onder een sleutel vallen, de bepalende variabelen) en de afhankelijke variabelen (die niet onder een sleutel vallen en waarvan de waarde bepaald wordt door de waarden van de bepalende variabelen).
 Stel men meet het gewicht van een patiënt op verschillende tijdstippen in een ziekenhuis. Voorbeeld: patiënt 123 weegt op 2023-08-27-10:05 65.4 kilogram. Dit is een gegeven of feit met drie variabelen. De waarde van de variabele patiënt bepaalt tezamen met de waarde van tijdstip het gewicht.
 
 Een <dfn data-lt="waarden">waarde</dfn> is een concreet gegeven (€1650, 12,4 %), bijv. de hoogte van het minimumloon in een bepaalde tijdsperiode.
 
 Een  <dfn data-lt="juridisch relevante feiten">juridisch relevant feit</dfn> is gedefinieerd als een feit dat in een voorwaarde op een rechtssubject, rechtsbetrekking of rechtsfeit voorkomt, of in een specificatie van een rechtsobject, of in een voorwaarde op een afleidingsregel.
 
-Een niet juridisch relevante tekst is een stuk tekst dat qua betekenis niet relevant is voor het wetsmodel. Bij regelgeving is soms sprake van kleine hoeveelheden tekst die juridisch niet relevant zijn. Het is vaak de taalsuiker.
+Een <dfn data-lt="niet juridisch relevante teksten“>niet juridisch relevante tekst</dfn> is een stuk tekst dat qua betekenis niet relevant is voor het wetsmodel. Bij regelgeving is soms sprake van kleine hoeveelheden tekst die juridisch niet relevant zijn. Het is vaak de taalsuiker.
 
-Objectief recht is het recht zoals beschreven in wetgeving en daarmee samenhangende hogere en lagere regelgeving.  
+<dfn data-lt="objectief recht“>Objectief recht</dfn> is het recht zoals beschreven in wetgeving en daarmee samenhangende hogere en lagere regelgeving.  
 
-Subjectief recht betreft het uitvoeren van objectief recht in een concreet geval met twee en soms meer rechtssubjecten of het overeenkomen van een overeenkomst en die naleven of niet naleven.
+<dfn data-lt="subjectief recht“>Subjectief recht</dfn> betreft het uitvoeren van [=objectief recht=] in een concreet geval met twee en soms meer rechtssubjecten of het overeenkomen van een overeenkomst en die naleven of niet naleven.
 
-Een juridisch scenario bestaat uit een opeenvolging juridische aktes en beschrijft de volledig geëxpliciteerde juridische ervaring van de burger of het bedrijf, en die van de andere partij of partijen betrokken in het juridisch scenario.  
+Een <dfn data-lt="juridische scenarios“>juridisch scenario</dfn> bestaat uit een opeenvolging juridische aktes en beschrijft de volledig geëxpliciteerde juridische ervaring van de burger of het bedrijf, en die van de andere partij of partijen betrokken in het juridisch scenario.  
 
-Een juridische akte bestaat uit de volgende 4 onderdelen:
+Een <dfn data-lt="juridische akten“>juridische akte</dfn> bestaat uit de volgende 4 onderdelen:
 1. Juridische begintoestand, (een verzameling rechtsbetrekkingen)  
 2. Rechtsfeit (toestandsveranderaar),  
 3. Rechtsgevolg (toestandsverandering),  
