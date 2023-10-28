@@ -50,29 +50,32 @@ Stel men meet het gewicht van een patiënt op verschillende tijdstippen in een z
 
 Een <dfn data-lt="waarden">waarde</dfn> is een concreet gegeven (€1650, 12,4 %), bijv. de hoogte van het minimumloon in een bepaalde tijdsperiode.
 
-Een  <dfn data-lt="juridisch relevante feiten">juridisch relevant feit</dfn> is gedefinieerd als een feit dat in een voorwaarde op een rechtssubject, rechtsbetrekking of rechtsfeit voorkomt, of in een specificatie van een rechtsobject, of in een voorwaarde op een afleidingsregel.
+Een <dfn data-lt="juridisch relevante feiten">juridisch relevant feit</dfn> is gedefinieerd als een feit dat in een voorwaarde op een rechtssubject, rechtsbetrekking of rechtsfeit voorkomt, of in een specificatie van een rechtsobject, of in een voorwaarde op een afleidingsregel.
 
-Een <dfn data-lt="niet juridisch relevante teksten“>niet juridisch relevante tekst</dfn> is een stuk tekst dat qua betekenis niet relevant is voor het wetsmodel. Bij regelgeving is soms sprake van kleine hoeveelheden tekst die juridisch niet relevant zijn. Het is vaak de taalsuiker.
+Een <dfn data-lt="niet juridisch relevante teksten">niet juridisch relevante tekst</dfn> is een stuk tekst dat qua betekenis niet relevant is voor het wetsmodel. Bij regelgeving is soms sprake van kleine hoeveelheden tekst die juridisch niet relevant zijn. Het is vaak de taalsuiker.
 
-<dfn data-lt="objectieve rechten“>Objectief recht</dfn> is het recht zoals beschreven in wetgeving en daarmee samenhangende hogere en lagere regelgeving.  
+<dfn data-lt="objectief recht">Objectief recht</dfn> is het recht zoals beschreven in wetgeving en daarmee samenhangende hogere en lagere regelgeving.  
 
-<dfn data-lt="subjectieve rechten“>Subjectief recht</dfn> betreft het uitvoeren van [=objectief recht=] in een concreet geval met twee en soms meer rechtssubjecten of het overeenkomen van een overeenkomst en die naleven of niet naleven.
+<dfn data-lt="subjectief recht">Subjectief recht</dfn> betreft het uitvoeren van [=objectief recht=] in een concreet geval met twee en soms meer rechtssubjecten of het overeenkomen van een overeenkomst en die naleven of niet naleven.
 
-Een <dfn data-lt="juridische scenarios“>juridisch scenario</dfn> bestaat uit een opeenvolging juridische aktes en beschrijft de volledig geëxpliciteerde juridische ervaring van de burger of het bedrijf, en die van de andere partij of partijen betrokken in het juridisch scenario.  
+Een <dfn data-lt="juridische scenarios">juridisch scenario</dfn> bestaat uit een opeenvolging juridische aktes en beschrijft de volledig geëxpliciteerde juridische ervaring van de burger of het bedrijf, en die van de andere partij of partijen betrokken in het juridisch scenario.  
 
-Een <dfn data-lt="juridische akten“>juridische akte</dfn> bestaat uit de volgende 4 onderdelen:
+Een <dfn data-lt="juridische akten">juridische akte</dfn> bestaat uit de volgende 4 onderdelen:
 1. Juridische begintoestand, (een verzameling rechtsbetrekkingen)  
 2. Rechtsfeit (toestandsveranderaar),  
 3. Rechtsgevolg (toestandsverandering),  
 4. Juridische eindtoestand (een verzameling rechtsbetrekkingen).
-Een juridische toestand bestaat uit een verzameling van rechtsbetrekkingen. Let op: het bestaan van een rechtsbetrekking impliceert het bestaan van het voordeel-houdende en nadeel-houdende rechtssubject.
-Een juridisch kennisgebied, ook wel aangeduid als kennisdomein is een afbakening uitgedrukt in de vulling van het juridische analyseschema (JAS 2.0) of afgebakend als teksten in de traditioneel beschreven wetgeving.
-Een kennisdomein is een willekeurig afgebakende hoeveelheid kennis.  
+
+Een <dfn data-lt="juridische toestanden">juridische toestand</dfn> bestaat uit een verzameling van rechtsbetrekkingen. Let op: het bestaan van een rechtsbetrekking impliceert het bestaan van het voordeel-houdende en nadeel-houdende rechtssubject.
+
+Een <dfn data-lt="juridische kennisgebieden">juridisch kennisgebied</dfn>, ook wel aangeduid als [=kennisdomein=] is een afbakening uitgedrukt in de vulling van het juridische analyseschema (JAS 2.0) of afgebakend als teksten in de traditioneel beschreven wetgeving.
+
+Een <dfn data-lt="kennisdomeinen">kennisdomein</dfn> is een willekeurig afgebakende hoeveelheid kennis.  
 Bijv. men kan RVV art 74, lid 1 als kennisdomein zien met de naam Voetgangerslicht.  
 Men kan de Inkomstenbelasting als kennisdomein zien, maar men kan een heel klein deel van de Inkomstenbelasting bijv. IB 2.1 als kennisdomein zien met de naam binnenlandse en buitenlandse belastingplichtigen voor de Inkomstenbelasting. Een binnenlandse belastingplichtige voor de Inkomstenbelasting is een natuurlijke persoon die in Nederland woont. Een buitenlandse belastingplichtige voor de Inkomstenbelasting is een natuurlijke persoon die niet in Nederland woont, maar wel Nederlands inkomen geniet.
 In een begripsomschrijving komen bijna altijd termen voor die in een of meer andere begripsomschrijvingen worden gedefinieerd. Vanuit een bepaalde begripsomschrijving wordt verwezen naar termen die in een andere begripsomschrijving zijn gedefinieerd. Deze twee gegevens kunnen door een intelligent systeem automatisch worden aangemaakt.
 
-Een gegeven is een bewering die voor waar wordt aangenomen.
+Een <dfn data-lt="gegevens">gegeven</dfn> is een bewering die voor waar wordt aangenomen.
 Voorbeelden van gegevens.
 Amsterdam is de huidige hoofdstad van Nederland.
 Berlijn is de huidige hoofdstad van Duitsland.
@@ -83,7 +86,7 @@ De afstand van Nijmegen naar Groningen is 194 km.
 In beide beweringen treffen we drie ingevulde variabelen aan, te weten het triple Maastricht, Groningen en 212 en het triple Nijmegen, Groningen en 194.
 Verder hebben beide beweringen een gemeenschappelijk werkwoorddeel: De afstand van … naar … is … km. De drie puntjes duiden op de drie plaatsen waar een waarde van de betreffende variabele staat.  
 
-Een gegevenskwaliteitsregel (voorheen meestal aangeduid als een beperkingsregel) is een formulering die aangeeft welke toestanden een gegevensverzameling mag aannemen en welke toestandsovergangen toegestaan zijn.
+Een <dfn data-lt="gegevenskwaliteitsregels">gegevenskwaliteitsregel</dfn> (voorheen meestal aangeduid als een beperkingsregel) is een formulering die aangeeft welke toestanden een gegevensverzameling mag aannemen en welke toestandsovergangen toegestaan zijn.
 Bij de gegevens van afstand hierboven geldt dat bij elk paar steden er precies één afstand kan voorkomen in de gegevensverzameling.  
 Stel men zou een ondergrondse autoweg aanleggen tussen Maastricht en Amsterdam, dan is het wenselijk het gegeven als volgt uit te breiden met de volgende twee gegevens:
 Met ingang van 1.1.2099 is de afstand van Maastricht naar Amsterdam 199 km.
@@ -91,9 +94,6 @@ Met ingang van 31.12.2098 is de afstand van Maastricht naar Amsterdam niet lange
 Deze uitbreiding wordt vaak aangeduid als tijdreizen.
 
 
-
-
-van een model voor wetgeving of wetsuitvoering.
 
 Een <dfn data-lt="rechtshandelingen">rechtshandeling</dfn> heeft rechtsgevolgen en een beoogd doel.
 
