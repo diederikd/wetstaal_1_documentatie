@@ -20,11 +20,22 @@ Van de soort rechtsbetrekking aanspraak – verplichting bestaan vier ondersoort
 Een krachtige aanspraak – fatale verplichting is een ondersoort van de soort rechtsbetrekking aanspraak – verplichting. Indien het nadeel-houdende rechtssubject zijn fatale verplichting niet nakomt, krijgt de aanspraak-houder van wetswege de optionele of verplichte bevoegdheid een boete op te leggen aan het rechtssubject dat de fatale verplichting niet is nagekomen.
 
 Een rechtsfeit (juridische toestandsveranderaar) is een handeling door een rechtssubject of een gebeurtenis (niet door een rechtssubject veroorzaakt) die 1 of meer rechtsgevolgen heeft. Een rechtsfeit zet de verandering van een juridische toestand in gang, dus de veranderaar. De verandering zelve wordt een rechtsgevolg genoemd. In het totaal zijn er vijf soorten rechtsfeiten:  
-  1. Rechtshandeling  
-  2. Feitelijke handeling met rechtsgevolg
-  3. Overtreding met rechtsgevolg
-  4. Gebeurtenis met rechtsgevolg
-  5. Tijdverloop met rechtsgevolg.
+  1. [=Rechtshandeling=]
+  2. [=Feitelijke handeling met rechtsgevolg=]
+  3. [=Overtreding met rechtsgevolg=]
+  4. [=Gebeurtenis met rechtsgevolg=]
+  5. [=Tijdverloop met rechtsgevolg=].
+
+  Een <dfn data-lt="Rechtshandeling">rechtshandeling</dfn> is een specialisatie van rechtsfeit en heeft rechtsgevolgen en is een handeling van een rechtssubject met een beoogd doel. Bijv. Pia doet Carla het aanbod haar fiets voor 95 euro te kopen, mits het aanbod binnen twee dagen aanvaard is. Pia verricht een rechtshandeling. Het beoogde doel is Carla er toe te bewegen haar fiets voor 95 euro te kopen. Als Carla binnen twee dagen het aanbod afwijst is er ook sprake van een rechtshandeling door Carla.  
+
+  Een <dfn data-lt="Feitelijke handeling met rechtsgevolg">feitelijke handeling met rechtsgevolg</dfn> is een specialisatie van rechtsfeit, heeft rechtsgevolgen, maar beoogt die rechtsgevolgen niet. Het is een handeling van een rechtssubject met een niet beoogd doel. Bijv. Jan maakt per ongeluk een kras op een auto. Niet beoogd, wel aansprakelijk.  
+
+  Een <dfn data-lt="Overtreding met rechtsgevolg">overtreding met rechtsgevolg</dfn> is een handeling van een rechtssubject die een overtreding is van een aanspraak – verplichting en waarbij het beoogd doel niet binnen scope, oftewel niet relevant is.
+
+  Een <dfn data-lt="Gebeurtenis met rechtsgevolg">gebeurtenis met rechtsgevolg</dfn> is een gebeurtenis die optreedt zonder handelend rechtssubject en waarbij de tijd geen rol speelt. Bijv. een blikseminslag; geboren worden; sterven.  
+
+  Een <dfn data-lt="Tijdsverloop met rechtsgevolg">tijdsverloop met rechtsgevolg</dfn> is een gebeurtenis die optreedt zonder handelend rechtssubject en die optreedt na een bepaald tijdsverloop. Bijv. meerderjarig worden bij 18.
+
 
 Een <dfn data-lt="rechtsgevolgen">rechtsgevolg</dfn> is de verandering van een juridische toestand die ontstaat vanwege een rechtsfeit. Een rechtsgevolg is 1 of meer van de volgende 6:  
   1. het doen ontstaan van een rechtsbetrekking;
@@ -48,7 +59,7 @@ Een <dfn data-lt="afleidingsregel">afleidingsregel</dfn> is een voorschrift dat 
 Een <dfn data-lt="variabelen">variabele</dfn> is een plek om een [=waarde=] vast te leggen, waarbij deze waarde kan variëren. Het is essentieel te beseffen dat een variabele bijna altijd onderdeel uitmaakt van een feittype met meer dan één variabele. Bij variabelen is het tevens essentieel onderscheid te maken tussen onafhankelijke (die onder een sleutel vallen, de bepalende variabelen) en de afhankelijke variabelen (die niet onder een sleutel vallen en waarvan de waarde bepaald wordt door de waarden van de bepalende variabelen).
 Stel men meet het gewicht van een patiënt op verschillende tijdstippen in een ziekenhuis. Voorbeeld: patiënt 123 weegt op 2023-08-27-10:05 65.4 kilogram. Dit is een gegeven of feit met drie variabelen. De waarde van de variabele patiënt bepaalt tezamen met de waarde van tijdstip het gewicht.
 
-Een <dfn data-lt="waarden">waarde</dfn> is een concreet gegeven (€1650, 12,4 %), bijv. de hoogte van het minimumloon in een bepaalde tijdsperiode.
+Een <dfn data-lt="waarden">waarde</dfn> is een concreet [=gegeven=] (€1650, 12,4 %), bijv. de hoogte van het minimumloon in een bepaalde tijdsperiode.
 
 Een <dfn data-lt="juridisch relevante feiten">juridisch relevant feit</dfn> is gedefinieerd als een feit dat in een voorwaarde op een rechtssubject, rechtsbetrekking of rechtsfeit voorkomt, of in een specificatie van een rechtsobject, of in een voorwaarde op een afleidingsregel.
 
@@ -61,10 +72,10 @@ Een <dfn data-lt="niet juridisch relevante teksten">niet juridisch relevante tek
 Een <dfn data-lt="juridische scenarios">juridisch scenario</dfn> bestaat uit een opeenvolging juridische aktes en beschrijft de volledig geëxpliciteerde juridische ervaring van de burger of het bedrijf, en die van de andere partij of partijen betrokken in het juridisch scenario.  
 
 Een <dfn data-lt="juridische akten">juridische akte</dfn> bestaat uit de volgende 4 onderdelen:
-1. Juridische begintoestand, (een verzameling rechtsbetrekkingen)  
-2. Rechtsfeit (toestandsveranderaar),  
-3. Rechtsgevolg (toestandsverandering),  
-4. Juridische eindtoestand (een verzameling rechtsbetrekkingen).
+  1. Juridische begintoestand, (een verzameling rechtsbetrekkingen)  
+  2. Rechtsfeit (toestandsveranderaar),  
+  3. Rechtsgevolg (toestandsverandering),  
+  4. Juridische eindtoestand (een verzameling rechtsbetrekkingen).
 
 Een <dfn data-lt="juridische toestanden">juridische toestand</dfn> bestaat uit een verzameling van rechtsbetrekkingen. Let op: het bestaan van een rechtsbetrekking impliceert het bestaan van het voordeel-houdende en nadeel-houdende rechtssubject.
 
