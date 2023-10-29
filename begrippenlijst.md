@@ -7,7 +7,7 @@ Een <dfn data-lt="rechtssubjecten">rechtssubject</dfn> is
 
 Een <dfn data-lt="rechtsbetrekkingen">rechtsbetrekking</dfn> is een een juridische relatie tussen twee [=rechtssubjecten=], waarbij het ene rechtssubject de voordeel-kant heeft en het andere rechtssubject de nadeel-kant, betreffende het rechtsobject en onder de gespecificeerde (mogelijke samengestelde) voorwaarde. Een rechtsbetrekking is altijd gebonden aan een voorwaarde en heeft altijd een rechtsobject. Er zijn drie soorten rechtsbetrekkingen, te weten:
   1. [=Aanspraak – verplichting=]
-  2. [=Verlof (vrijheid) – geenaanspraak=] 
+  2. [=Verlof (vrijheid) – geenaanspraak=]
   3. [=Bevoegdheid – gehoudenheid=]
 
 Een <dfn data-lt="Aanspraak – verplichting">aanspraak – verplichting</dfn> is een soort rechtsbetrekking waarbij het nadeel-houdende rechtssubject een verplichting dient na te komen, terwijl het voordeel-houdende rechtssubject aanspraak heeft op het nakomen van deze verplichting. Het nadeel-houdende rechtssubject is het actieve rechtssubject (ook wel ‘actieveling’ genoemd).
@@ -60,7 +60,7 @@ Een rechtsfeit (juridische toestandsveranderaar) is een handeling door een recht
 
   Een <dfn data-lt="Rechtshandeling|rechtshandelingen">rechtshandeling</dfn> is een specialisatie van rechtsfeit en heeft rechtsgevolgen en is een handeling van een rechtssubject met een beoogd doel. Bijv. Pia doet Carla het aanbod haar fiets voor 95 euro te kopen, mits het aanbod binnen twee dagen aanvaard is. Pia verricht een rechtshandeling. Het beoogde doel is Carla er toe te bewegen haar fiets voor 95 euro te kopen. Als Carla binnen twee dagen het aanbod afwijst is er ook sprake van een rechtshandeling door Carla.  
 
-  Een <dfn data-lt="Feitelijke handeling met rechtsgevolg|feitelijke handeling met rechtsgevolgen">feitelijke handeling met rechtsgevolg</dfn> is een specialisatie van rechtsfeit, heeft rechtsgevolgen, maar beoogt die rechtsgevolgen niet. Het is een handeling van een rechtssubject met een niet beoogd doel. Bijv. Jan maakt per ongeluk een kras op een auto. Niet beoogd, wel aansprakelijk.  
+  Een <dfn data-lt="Feitelijke handeling met rechtsgevolg|feitelijke handelingen met rechtsgevolg">feitelijke handeling met rechtsgevolg</dfn> is een specialisatie van rechtsfeit, heeft rechtsgevolgen, maar beoogt die rechtsgevolgen niet. Het is een handeling van een rechtssubject met een niet beoogd doel. Bijv. Jan maakt per ongeluk een kras op een auto. Niet beoogd, wel aansprakelijk.  
 
   Een <dfn data-lt="Overtreding met rechtsgevolg">overtreding met rechtsgevolg</dfn> is een handeling van een rechtssubject die een overtreding is van een aanspraak – verplichting en waarbij het beoogd doel niet binnen scope, oftewel niet relevant is.
 
