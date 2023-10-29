@@ -19,12 +19,14 @@ Van de soort rechtsbetrekking aanspraak – verplichting bestaan vier ondersoort
 
 Een krachtige aanspraak – fatale verplichting is een ondersoort van de soort rechtsbetrekking aanspraak – verplichting. Indien het nadeel-houdende rechtssubject zijn fatale verplichting niet nakomt, krijgt de aanspraak-houder van wetswege de optionele of verplichte bevoegdheid een boete op te leggen aan het rechtssubject dat de fatale verplichting niet is nagekomen.
 
+De actieveling, of het actieve rechtssubject, is het rechtssubject dat kan handelen in een rechtsbetrekking. Bij een Aanspraak-Verplichting is het nadeel-houdende rechtssubject (de verplichting-houder) de actieveling, terwijl bij een Verlof-Geenaanspraak en Bevoegdheid-Gehoudenheid het voordeel-houdende rechtssubject (verlof-houder, bevoegdheid-houder) altijd de actieveling is.
+
 Een rechtsfeit (juridische toestandsveranderaar) is een handeling door een rechtssubject of een gebeurtenis (niet door een rechtssubject veroorzaakt) die 1 of meer rechtsgevolgen heeft. Een rechtsfeit zet de verandering van een juridische toestand in gang, dus de veranderaar. De verandering zelve wordt een rechtsgevolg genoemd. In het totaal zijn er vijf soorten rechtsfeiten:  
   1. [=Rechtshandeling=]
   2. [=Feitelijke handeling met rechtsgevolg=]
   3. [=Overtreding met rechtsgevolg=]
   4. [=Gebeurtenis met rechtsgevolg=]
-  5. [=Tijdverloop met rechtsgevolg=].
+  5. [=Tijdsverloop met rechtsgevolg=].
 
   Een <dfn data-lt="Rechtshandeling">rechtshandeling</dfn> is een specialisatie van rechtsfeit en heeft rechtsgevolgen en is een handeling van een rechtssubject met een beoogd doel. Bijv. Pia doet Carla het aanbod haar fiets voor 95 euro te kopen, mits het aanbod binnen twee dagen aanvaard is. Pia verricht een rechtshandeling. Het beoogde doel is Carla er toe te bewegen haar fiets voor 95 euro te kopen. Als Carla binnen twee dagen het aanbod afwijst is er ook sprake van een rechtshandeling door Carla.  
 
@@ -104,12 +106,6 @@ Met ingang van 1.1.2099 is de afstand van Maastricht naar Amsterdam 199 km.
 Met ingang van 31.12.2098 is de afstand van Maastricht naar Amsterdam niet langer 212 km.
 Deze uitbreiding wordt vaak aangeduid als tijdreizen.
 
-
-
-Een <dfn data-lt="rechtshandelingen">rechtshandeling</dfn> heeft rechtsgevolgen en een beoogd doel.
-
-Een <dfn data-lt="feitelijke handelingen met rechtsgevolg">feitelijke handeling met rechtsgevolg</dfn> heeft rechtsgevolgen, maar beoogt die rechtsgevolgen niet.
-
 Een <dfn data-lt="rechten">recht</dfn> is een soort voordeel.
 
 Een <dfn data-lt="plichten">plicht</dfn> is een soort nadeel.
@@ -117,6 +113,5 @@ Een <dfn data-lt="plichten">plicht</dfn> is een soort nadeel.
 Een <dfn data-lt="begrip">begrip</dfn> wordt aangeduid met één enkele voorkeursterm per kennisdomein en 0, 1 of meer alternatieve termen, oftewel synoniemen.
 
 Een <dfn data-lt="begripsdefinitie">begripsdefinitie</dfn> is de uitleg of omschrijving van de betekenis van een begrip. Een voorbeeld hiervan is de beschrijving van de modelelementen van wetgeving zoals [=rechtssubject], rechtsbetrekking, rechtsfeit of rechtsgevolg.
-
 
 <dfn>RegelSpraak</dfn> RegelSpraak is een gecontroleerde Nederlandse taal die is ontwikkeld bij de Belastingdienst. Deze taal wordt gebruikt om belastingregels mee te beschrijven. De RegelSpraak-regels zijn preciezer dan in de onderliggende wetsartikelen verwoord. Deze precisie van de regels zorgt ervoor dat deze geautomatiseerd ‘vertaald’ kunnen worden naar softwarecode om de bedoelde beoordeling – op basis van gegevens uit de aangifte van het voorgaande jaar – uit te voeren [[[1ekamerregelspraak]]].
