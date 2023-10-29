@@ -6,24 +6,48 @@ Een <dfn data-lt="rechtssubjecten">rechtssubject</dfn> is
 - de uitvoerder van [=rechtshandelingen=] en [=feitelijke handelingen met rechtsgevolg=].
 
 Een <dfn data-lt="rechtsbetrekkingen">rechtsbetrekking</dfn> is een een juridische relatie tussen twee [=rechtssubjecten=], waarbij het ene rechtssubject de voordeel-kant heeft en het andere rechtssubject de nadeel-kant, betreffende het rechtsobject en onder de gespecificeerde (mogelijke samengestelde) voorwaarde. Een rechtsbetrekking is altijd gebonden aan een voorwaarde en heeft altijd een rechtsobject. Er zijn drie soorten rechtsbetrekkingen, te weten:
-  1. Aanspraak – verplichting  
-  2. Verlof (vrijheid) – geenaanspraak  
-  3. Bevoegdheid – gehoudenheid
+  1. [=Aanspraak – verplichting=]
+  2. [=Verlof (vrijheid) – geenaanspraak=] 
+  3. [=Bevoegdheid – gehoudenheid=]
 
-Een <dfn data-lt="aanspraak – verplichting">aanspraak – verplichting</dfn> is een soort rechtsbetrekking waarbij het nadeel-houdende rechtssubject een verplichting dient na te komen, terwijl het voordeel-houdende rechtssubject aanspraak heeft op het nakomen van deze verplichting. Het nadeel-houdende rechtssubject is het actieve rechtssubject (ook wel ‘actieveling’ genoemd).
+Een <dfn data-lt="Aanspraak – verplichting">aanspraak – verplichting</dfn> is een soort rechtsbetrekking waarbij het nadeel-houdende rechtssubject een verplichting dient na te komen, terwijl het voordeel-houdende rechtssubject aanspraak heeft op het nakomen van deze verplichting. Het nadeel-houdende rechtssubject is het actieve rechtssubject (ook wel ‘actieveling’ genoemd).
 Van de soort rechtsbetrekking aanspraak – verplichting bestaan vier ondersoorten:
-  1. Krachtige aanspraak – fatale verplichting
-  2. Aanspraak na ingebrekestelling – verplichting na ingebrekestelling
-  3. Krachtige aanspraak of aanspraak na ingebrekestelling – fatale verplichting of verplichting na ingebrekestelling
-  4. Zwakke aanspraak – zwakke verplichting
+  1. [=Krachtige aanspraak – fatale verplichting=]
+  2. [=Aanspraak na ingebrekestelling – verplichting na ingebrekestelling=]
+  3. [=Krachtige aanspraak of aanspraak na ingebrekestelling – fatale verplichting of verplichting na ingebrekestelling=]
+  4. [=Zwakke aanspraak – zwakke verplichting=]
 
-Een <dfn data-lt=""></dfn> krachtige aanspraak – fatale verplichting is een ondersoort van de soort rechtsbetrekking aanspraak – verplichting. Indien het nadeel-houdende rechtssubject zijn fatale verplichting niet nakomt, krijgt de aanspraak-houder van wetswege de optionele of verplichte bevoegdheid een boete op te leggen aan het rechtssubject dat de fatale verplichting niet is nagekomen.
+Een <dfn data-lt="Krachtige aanspraak – fatale verplichting">krachtige aanspraak – fatale verplichting</dfn> is een ondersoort van de soort rechtsbetrekking aanspraak – verplichting. Indien het nadeel-houdende rechtssubject zijn fatale verplichting niet nakomt, krijgt de aanspraak-houder van wetswege de optionele of verplichte bevoegdheid een boete op te leggen aan het rechtssubject dat de fatale verplichting niet is nagekomen.
 
-Een <dfn data-lt=""></dfn> aanspraak na ingebrekestelling – verplichting na ingebrekestelling is een ondersoort van de soort rechtsbetrekking aanspraak – verplichting. Bij een aanspraak na ingebrekestelling – verplichting na ingebrekestelling geldt het volgende: indien de plicht-houder niet aan zijn verplichting voldoet, dan dient de aanspraak-houder de plichthouder schriftelijk een redelijke termijn te geven om alsnog aan de verplichting te voldoen. Voldoet de plichthouder hier niet aan, dan wordt de aanspraak – plicht verhoogd naar een krachtige aanspraak – fatale verplichting.  
+Een <dfn data-lt="Aanspraak na ingebrekestelling – verplichting na ingebrekestelling">aanspraak na ingebrekestelling – verplichting na ingebrekestelling</dfn> is een ondersoort van de soort rechtsbetrekking aanspraak – verplichting. Bij een aanspraak na ingebrekestelling – verplichting na ingebrekestelling geldt het volgende: indien de plicht-houder niet aan zijn verplichting voldoet, dan dient de aanspraak-houder de plichthouder schriftelijk een redelijke termijn te geven om alsnog aan de verplichting te voldoen. Voldoet de plichthouder hier niet aan, dan wordt de aanspraak – plicht verhoogd naar een krachtige aanspraak – fatale verplichting.  
 
-Een <dfn data-lt=""></dfn> krachtige aanspraak of aanspraak na ingebrekestelling – fatale verplichting of verplichting na ingebrekestelling is een ondersoort van de soort rechtsbetrekking aanspraak – verplichting. Bij een krachtige aanspraak of aanspraak na ingebrekestelling – fatale verplichting of verplichting na ingebrekestelling ligt, voorafgaand aan een rechtsfeit in de context van die rechtsbetrekking, niet vast welke van de twee opties geldig is. Denk aan een agent die meteen een boete kan uitdelen of eerst een waarschuwing geeft. Het nadeel-houdende rechtssubject weet vooraf niet welke keuze de agent gaat maken.
+Een <dfn data-lt="Krachtige aanspraak of aanspraak na ingebrekestelling – fatale verplichting of verplichting na ingebrekestelling">krachtige aanspraak of aanspraak na ingebrekestelling – fatale verplichting of verplichting na ingebrekestelling</dfn> is een ondersoort van de soort rechtsbetrekking aanspraak – verplichting. Bij een krachtige aanspraak of aanspraak na ingebrekestelling – fatale verplichting of verplichting na ingebrekestelling ligt, voorafgaand aan een rechtsfeit in de context van die rechtsbetrekking, niet vast welke van de twee opties geldig is. Denk aan een agent die meteen een boete kan uitdelen of eerst een waarschuwing geeft. Het nadeel-houdende rechtssubject weet vooraf niet welke keuze de agent gaat maken.
 
-Een <dfn data-lt=""></dfn> zwakke aanspraak – zwakke verplichting is een ondersoort van de soort rechtsbetrekking aanspraak – verplichting. Bij het niet nakomen van de zwakke verplichting heeft de zwakke aanspraakhouder geen recht een boete op te leggen. Wel is gebleken uit jurisprudentie bijv. van de Wet flexibel werken dat een werkgever die niet voldoet aan artikel 2, lid 4 van de wet flexibele werken (de werkgever overlegt met de werknemer) (een zwakke verplichting) daarmee een juridisch relevant feit in het leven roept waarmee de rechter rekening houdt.
+Een <dfn data-lt="Zwakke aanspraak – zwakke verplichting">zwakke aanspraak – zwakke verplichting</dfn> is een ondersoort van de soort rechtsbetrekking aanspraak – verplichting. Bij het niet nakomen van de zwakke verplichting heeft de zwakke aanspraakhouder geen recht een boete op te leggen. Wel is gebleken uit jurisprudentie bijv. van de Wet flexibel werken dat een werkgever die niet voldoet aan artikel 2, lid 4 van de wet flexibele werken (de werkgever overlegt met de werknemer) (een zwakke verplichting) daarmee een juridisch relevant feit in het leven roept waarmee de rechter rekening houdt.
+
+Een <dfn data-lt="Verlof (vrijheid) – geenaanspraak">verlof (vrijheid) – geenaanspraak</dfn> is een soort rechtsbetrekking waarbij de voordeel-houder het verlof (de vrijheid) heeft, om al dan niet gebruik te maken van zijn verlof en de nadeel-houder heeft dat maar te accepteren. Een verlof is een keuze iets te doen of te laten, zoals het al dan niet gebruik maken van een rijbewijs om te mogen rijden in een auto of een paspoort om de grens te mogen passeren. De actieveling is de voordeelhouder, de houder van het verlof.
+De term geenaanspraak is in het Engels een eeuw geleden ingevoerd door Hohfeld.
+Van de soort rechtsbetrekking verlof – geenaanspraak bestaat twee ondersoorten:
+  1. [=Rechtsfeitbaar verlof=]
+  2. [=Niet rechtsfeitbaar verlof=]
+
+Een <dfn data-lt="Rechtsfeitbaar verlof">rechtsfeitbaar verlof</dfn> is een verlof waarbij het daadwerkelijk uitoefenen van het verlof een rechtsfeit is en dus rechtsgevolgen heeft. Bijv. indien iemand die vanwege met 70 km/u geflitst word in een max 50 km/u zone, van het CJIB een fatale boete opgelegd krijgt maar tevens een verlof krijgt die boete al vanaf ontvangst van de boetebrief te mogen betalen en hij maakt gebruik van dat verlof, dan heeft dat als gevolg dat daarmee ook wordt voldaan aan de fatale boete. Men zou kunnen zeggen dat dit een indirect gevolg is van het rechtsfeit van het verlof uitoefenen.
+
+En <dfn data-lt="Niet rechtsfeitbaar verlof">niet rechtsfeitbaar verlof</dfn> is een verlof indien zowel het gebruik maken van het verlof maar ook het niet gebruik maken van het verlof tot geen rechtsfeit leidt. Bijvoorbeeld bij het al dan niet gebruik maken van het recht je mening te uiten.   
+
+Een <dfn data-lt="Bevoegdheid – gehoudenheid">bevoegdheid – gehoudenheid</dfn> is een soort rechtsbetrekking. Een bevoegdheid geeft de mogelijkheid de bestaande regelgeving aan te passen door
+  1. nul, één of meer rechtsbetrekkingen of juridisch relevante feiten in het leven te roepen,
+  2. één of meer eigenschappen van nul, één of meer rechtsbetrekkingen of juridisch relevante feiten te wijzigen, of
+  3. nul, één of meer rechtsbetrekkingen of juridische relevante feiten te beëindigen (met de voorwaarde dat nooit alle drie de nullen nul kunnen zijn).
+De [=actieveling=] is de voordeelhouder, de houder van de bevoegdheid.
+Van de soort rechtsbetrekking bevoegdheid – gehoudenheid bestaan twee ondersoorten:
+  1. [=Gebonden bevoegdheid=]
+  2. [=Optionele bevoegdheid=]
+
+Bij een <dfn data-lt="Gebonden bevoegdheid">gebonden bevoegdheid</dfn> heeft de bevoegdheidshouder tevens de verplichting de bevoegdheid uit te oefenen. Bijv. het CJIB verkrijgt de gebonden bevoegdheid een boete op te leggen bij geflitst worden met te hard rijden. Waarom is dat zo? Om gelijke behandeling te kunnen garanderen.
+
+Bij een <dfn data-lt="Optionele bevoegdheid">optionele bevoegdheid</dfn> heeft de voordeel-houder de keuze al dan niet zijn bevoegdheid uit te oefenen. Volgens het burgerlijk wetboek geldt dat als iemand niet voldoet aan een fatale verplichting, dan is de aanspraak-houder niet verplicht gebruik te maken van de bevoegdheid hem aansprakelijk te stellen. Dit is een wezenlijk verschil tussen het burgerlijk wetboek en onder meer de wet Mulder.
+
 
 De <dfn data-lt="actieve rechtssubject">actieveling</dfn>, of het actieve rechtssubject, is het [=rechtssubject=] dat kan handelen in een [=rechtsbetrekking=]. Bij een Aanspraak-Verplichting is het nadeel-houdende rechtssubject (de verplichting-houder) de actieveling, terwijl bij een Verlof-Geenaanspraak en Bevoegdheid-Gehoudenheid het voordeel-houdende rechtssubject (verlof-houder, bevoegdheid-houder) altijd de actieveling is.
 
@@ -34,9 +58,9 @@ Een rechtsfeit (juridische toestandsveranderaar) is een handeling door een recht
   4. [=Gebeurtenis met rechtsgevolg=]
   5. [=Tijdsverloop met rechtsgevolg=].
 
-  Een <dfn data-lt="Rechtshandeling|rechtshandeling">rechtshandeling</dfn> is een specialisatie van rechtsfeit en heeft rechtsgevolgen en is een handeling van een rechtssubject met een beoogd doel. Bijv. Pia doet Carla het aanbod haar fiets voor 95 euro te kopen, mits het aanbod binnen twee dagen aanvaard is. Pia verricht een rechtshandeling. Het beoogde doel is Carla er toe te bewegen haar fiets voor 95 euro te kopen. Als Carla binnen twee dagen het aanbod afwijst is er ook sprake van een rechtshandeling door Carla.  
+  Een <dfn data-lt="Rechtshandeling|rechtshandelingen">rechtshandeling</dfn> is een specialisatie van rechtsfeit en heeft rechtsgevolgen en is een handeling van een rechtssubject met een beoogd doel. Bijv. Pia doet Carla het aanbod haar fiets voor 95 euro te kopen, mits het aanbod binnen twee dagen aanvaard is. Pia verricht een rechtshandeling. Het beoogde doel is Carla er toe te bewegen haar fiets voor 95 euro te kopen. Als Carla binnen twee dagen het aanbod afwijst is er ook sprake van een rechtshandeling door Carla.  
 
-  Een <dfn data-lt="Feitelijke handeling met rechtsgevolg">feitelijke handeling met rechtsgevolg</dfn> is een specialisatie van rechtsfeit, heeft rechtsgevolgen, maar beoogt die rechtsgevolgen niet. Het is een handeling van een rechtssubject met een niet beoogd doel. Bijv. Jan maakt per ongeluk een kras op een auto. Niet beoogd, wel aansprakelijk.  
+  Een <dfn data-lt="Feitelijke handeling met rechtsgevolg|feitelijke handeling met rechtsgevolgen">feitelijke handeling met rechtsgevolg</dfn> is een specialisatie van rechtsfeit, heeft rechtsgevolgen, maar beoogt die rechtsgevolgen niet. Het is een handeling van een rechtssubject met een niet beoogd doel. Bijv. Jan maakt per ongeluk een kras op een auto. Niet beoogd, wel aansprakelijk.  
 
   Een <dfn data-lt="Overtreding met rechtsgevolg">overtreding met rechtsgevolg</dfn> is een handeling van een rechtssubject die een overtreding is van een aanspraak – verplichting en waarbij het beoogd doel niet binnen scope, oftewel niet relevant is.
 
