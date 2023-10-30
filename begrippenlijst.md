@@ -1,9 +1,14 @@
 # Begrippenlijst
 
-Een <dfn data-lt="rechtssubjecten">rechtssubject</dfn> is
-- de drager van rechten en plichten, en/of
-- de generator van [=juridisch relevante feiten=], en/of
-- de uitvoerder van [=rechtshandelingen=] en [=feitelijke handelingen met rechtsgevolg=].
+Een <dfn data-lt="rechten">recht</dfn> is een soort voordeel.
+
+Een <dfn data-lt="plichten">plicht</dfn> is een soort nadeel.
+
+Een <dfn data-lt="begrip">begrip</dfn> wordt aangeduid met één enkele voorkeursterm per kennisdomein en 0, 1 of meer alternatieve termen, oftewel synoniemen.
+
+Een <dfn data-lt="begripsdefinitie">begripsdefinitie</dfn> is de uitleg of omschrijving van de betekenis van een begrip. Een voorbeeld hiervan is de beschrijving van de modelelementen van wetgeving zoals [=rechtssubject], rechtsbetrekking, rechtsfeit of rechtsgevolg.
+
+Een <dfn data-lt="rechtssubjecten">rechtssubject</dfn> rechtssubject is een drager van [=rechten=] (de voordeelkant-houder in een [=rechtsbetrekking=]) en/of [=plichten=] (de nadeelkant-houder in een [=rechtsbetrekking=]), en/of een uitvoerder van een [=rechtshandeling=], een [=feitelijke handeling met rechtsgevolg=] of een [=overtreding met rechtsgevolg=].  
 
 Een <dfn data-lt="rechtsbetrekkingen">rechtsbetrekking</dfn> is een een juridische relatie tussen twee [=rechtssubjecten=], waarbij het ene rechtssubject de voordeel-kant heeft en het andere rechtssubject de nadeel-kant, betreffende het rechtsobject en onder de gespecificeerde (mogelijke samengestelde) voorwaarde. Een rechtsbetrekking is altijd gebonden aan een voorwaarde en heeft altijd een rechtsobject. Er zijn drie soorten rechtsbetrekkingen, te weten:
   1. [=Aanspraak – verplichting=]
@@ -135,13 +140,5 @@ Stel men zou een ondergrondse autoweg aanleggen tussen Maastricht en Amsterdam, 
 Met ingang van 1.1.2099 is de afstand van Maastricht naar Amsterdam 199 km.
 Met ingang van 31.12.2098 is de afstand van Maastricht naar Amsterdam niet langer 212 km.
 Deze uitbreiding wordt vaak aangeduid als tijdreizen.
-
-Een <dfn data-lt="rechten">recht</dfn> is een soort voordeel.
-
-Een <dfn data-lt="plichten">plicht</dfn> is een soort nadeel.
-
-Een <dfn data-lt="begrip">begrip</dfn> wordt aangeduid met één enkele voorkeursterm per kennisdomein en 0, 1 of meer alternatieve termen, oftewel synoniemen.
-
-Een <dfn data-lt="begripsdefinitie">begripsdefinitie</dfn> is de uitleg of omschrijving van de betekenis van een begrip. Een voorbeeld hiervan is de beschrijving van de modelelementen van wetgeving zoals [=rechtssubject], rechtsbetrekking, rechtsfeit of rechtsgevolg.
 
 <dfn>RegelSpraak</dfn> RegelSpraak is een gecontroleerde Nederlandse taal die is ontwikkeld bij de Belastingdienst. Deze taal wordt gebruikt om belastingregels mee te beschrijven. De RegelSpraak-regels zijn preciezer dan in de onderliggende wetsartikelen verwoord. Deze precisie van de regels zorgt ervoor dat deze geautomatiseerd ‘vertaald’ kunnen worden naar softwarecode om de bedoelde beoordeling – op basis van gegevens uit de aangifte van het voorgaande jaar – uit te voeren [[[1ekamerregelspraak]]].
