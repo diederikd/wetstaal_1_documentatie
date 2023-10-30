@@ -4,9 +4,9 @@ Een <dfn data-lt="rechten">recht</dfn> is een soort voordeel.
 
 Een <dfn data-lt="plichten">plicht</dfn> is een soort nadeel.
 
-Een <dfn data-lt="begrip">begrip</dfn> wordt aangeduid met één enkele voorkeursterm per kennisdomein en 0, 1 of meer alternatieve termen, oftewel synoniemen.
+Een <dfn data-lt="begrip">begrip</dfn> wordt aangeduid met één enkele voorkeursterm per [=kennisdomein= en 0, 1 of meer alternatieve termen, oftewel synoniemen.
 
-Een <dfn data-lt="begripsdefinitie">begripsdefinitie</dfn> is de uitleg of omschrijving van de betekenis van een [=begrip=]. Een voorbeeld hiervan is de beschrijving van de modelelementen van wetgeving zoals [=rechtssubject=], [=rechtsbetrekking=], [=rechtsfeit=] of [=rechtsgevolg=].
+Een <dfn data-lt="begripsdefinitie|begripsomschrijving">begripsdefinitie</dfn> is de uitleg of omschrijving van de betekenis van een [=begrip=]. Een voorbeeld hiervan is de beschrijving van de modelelementen van wetgeving zoals [=rechtssubject=], [=rechtsbetrekking=], [=rechtsfeit=] of [=rechtsgevolg=].
 
 Een <dfn data-lt="rechtssubjecten">rechtssubject</dfn> rechtssubject is een drager van [=rechten=] (de voordeelkant-houder in een [=rechtsbetrekking=]) en/of [=plichten=] (de nadeelkant-houder in een [=rechtsbetrekking=]), en/of een uitvoerder van een [=rechtshandeling=], een [=feitelijke handeling met rechtsgevolg=] of een [=overtreding met rechtsgevolg=].  
 
@@ -121,7 +121,7 @@ Een <dfn data-lt="juridische kennisgebieden">juridisch kennisgebied</dfn>, ook w
 Een <dfn data-lt="kennisdomeinen">kennisdomein</dfn> is een willekeurig afgebakende hoeveelheid kennis.  
 Bijv. men kan RVV art 74, lid 1 als kennisdomein zien met de naam Voetgangerslicht.  
 Men kan de Inkomstenbelasting als kennisdomein zien, maar men kan een heel klein deel van de Inkomstenbelasting bijv. IB 2.1 als kennisdomein zien met de naam binnenlandse en buitenlandse belastingplichtigen voor de Inkomstenbelasting. Een binnenlandse belastingplichtige voor de Inkomstenbelasting is een natuurlijke persoon die in Nederland woont. Een buitenlandse belastingplichtige voor de Inkomstenbelasting is een natuurlijke persoon die niet in Nederland woont, maar wel Nederlands inkomen geniet.
-In een begripsomschrijving komen bijna altijd termen voor die in een of meer andere begripsomschrijvingen worden gedefinieerd. Vanuit een bepaalde begripsomschrijving wordt verwezen naar termen die in een andere begripsomschrijving zijn gedefinieerd. Deze twee gegevens kunnen door een intelligent systeem automatisch worden aangemaakt.
+In een [=begripsomschrijving=] komen bijna altijd termen voor die in een of meer andere [=begripsomschrijvingen=] worden gedefinieerd. Vanuit een bepaalde begripsomschrijving wordt verwezen naar termen die in een andere begripsomschrijving zijn gedefinieerd. Deze twee [=gegevens=] kunnen door een intelligent systeem automatisch worden aangemaakt.
 
 Een <dfn data-lt="gegevens">gegeven</dfn> is een bewering die voor waar wordt aangenomen.
 Voorbeelden van gegevens.
@@ -132,7 +132,7 @@ In beide beweringen treffen we twee ingevulde of geïnstantieerde variabelen aan
 De afstand van Maastricht naar Amsterdam is 212 km.
 De afstand van Nijmegen naar Groningen is 194 km.
 In beide beweringen treffen we drie ingevulde variabelen aan, te weten het triple Maastricht, Groningen en 212 en het triple Nijmegen, Groningen en 194.
-Verder hebben beide beweringen een gemeenschappelijk werkwoorddeel: De afstand van … naar … is … km. De drie puntjes duiden op de drie plaatsen waar een waarde van de betreffende variabele staat.  
+Verder hebben beide beweringen een gemeenschappelijk werkwoorddeel: De afstand van … naar … is … km. De drie puntjes duiden op de drie plaatsen waar een [=waarde=] van de betreffende [=variabele=] staat.  
 
 Een <dfn data-lt="gegevenskwaliteitsregels">gegevenskwaliteitsregel</dfn> (voorheen meestal aangeduid als een beperkingsregel) is een formulering die aangeeft welke toestanden een gegevensverzameling mag aannemen en welke toestandsovergangen toegestaan zijn.
 Bij de [=gegevens=] van afstand hierboven geldt dat bij elk paar steden er precies één afstand kan voorkomen in de gegevensverzameling.  
