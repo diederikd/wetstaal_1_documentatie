@@ -4,9 +4,9 @@ Een <dfn data-lt="rechten">recht</dfn> is een soort voordeel.
 
 Een <dfn data-lt="plichten">plicht</dfn> is een soort nadeel.
 
-Een <dfn data-lt="begrip">begrip</dfn> wordt aangeduid met één enkele voorkeursterm per [=kennisdomein= en 0, 1 of meer alternatieve termen, oftewel synoniemen.
+Een <dfn data-lt="begrip">begrip</dfn> wordt aangeduid met één enkele voorkeursterm per [=kennisdomein=] en 0, 1 of meer alternatieve termen, oftewel synoniemen.
 
-Een <dfn data-lt="begripsdefinitie|begripsomschrijving">begripsdefinitie</dfn> is de uitleg of omschrijving van de betekenis van een [=begrip=]. Een voorbeeld hiervan is de beschrijving van de modelelementen van wetgeving zoals [=rechtssubject=], [=rechtsbetrekking=], [=rechtsfeit=] of [=rechtsgevolg=].
+Een <dfn data-lt="begripsdefinitie|begripsomschrijving|begripsomschrijvingen">begripsdefinitie</dfn> is de uitleg of omschrijving van de betekenis van een [=begrip=]. Een voorbeeld hiervan is de beschrijving van de modelelementen van wetgeving zoals [=rechtssubject=], [=rechtsbetrekking=], [=rechtsfeit=] of [=rechtsgevolg=].
 
 Een <dfn data-lt="rechtssubjecten">rechtssubject</dfn> rechtssubject is een drager van [=rechten=] (de voordeelkant-houder in een [=rechtsbetrekking=]) en/of [=plichten=] (de nadeelkant-houder in een [=rechtsbetrekking=]), en/of een uitvoerder van een [=rechtshandeling=], een [=feitelijke handeling met rechtsgevolg=] of een [=overtreding met rechtsgevolg=].  
 
