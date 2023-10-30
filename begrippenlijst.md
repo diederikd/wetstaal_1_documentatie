@@ -44,6 +44,7 @@ Een <dfn data-lt="Bevoegdheid – gehoudenheid">bevoegdheid – gehoudenheid</df
   1. nul, één of meer rechtsbetrekkingen of juridisch relevante feiten in het leven te roepen,
   2. één of meer eigenschappen van nul, één of meer rechtsbetrekkingen of juridisch relevante feiten te wijzigen, of
   3. nul, één of meer rechtsbetrekkingen of juridische relevante feiten te beëindigen (met de voorwaarde dat nooit alle drie de nullen nul kunnen zijn).
+
 De [=actieveling=] is de voordeelhouder, de houder van de bevoegdheid.
 Van de soort rechtsbetrekking bevoegdheid – gehoudenheid bestaan twee ondersoorten:
   1. [=Gebonden bevoegdheid=]
@@ -54,7 +55,7 @@ Bij een <dfn data-lt="Gebonden bevoegdheid">gebonden bevoegdheid</dfn> heeft de 
 Bij een <dfn data-lt="Optionele bevoegdheid">optionele bevoegdheid</dfn> heeft de voordeel-houder de keuze al dan niet zijn bevoegdheid uit te oefenen. Volgens het burgerlijk wetboek geldt dat als iemand niet voldoet aan een fatale verplichting, dan is de aanspraak-houder niet verplicht gebruik te maken van de bevoegdheid hem aansprakelijk te stellen. Dit is een wezenlijk verschil tussen het burgerlijk wetboek en onder meer de wet Mulder.
 
 
-De <dfn data-lt="actieve rechtssubject">actieveling</dfn>, of het actieve rechtssubject, is het [=rechtssubject=] dat kan handelen in een [=rechtsbetrekking=]. Bij een [=Aanspraak - verplichting=] is het nadeel-houdende rechtssubject (de verplichting-houder) de actieveling, terwijl bij een [=Verlof - geenaanspraak=] en [=Bevoegdheid - gehoudenheid=] het voordeel-houdende rechtssubject (verlof-houder, bevoegdheid-houder) altijd de actieveling is.
+De <dfn data-lt="actieve rechtssubject">actieveling</dfn>, of het actieve rechtssubject, is het [=rechtssubject=] dat kan handelen in een [=rechtsbetrekking=]. Bij een [=Aanspraak – verplichting=] is het nadeel-houdende rechtssubject (de verplichting-houder) de actieveling, terwijl bij een [=Verlof (vrijheid) – geenaanspraak=] en [=Bevoegdheid – gehoudenheid=] het voordeel-houdende rechtssubject (verlof-houder, bevoegdheid-houder) altijd de actieveling is.
 
 Een <dfn data-lt="Rechtsfeit">rechtsfeit</dfn> (juridische toestandsveranderaar) is een handeling door een [=rechtssubject=] of een gebeurtenis (niet door een rechtssubject veroorzaakt) die 1 of meer rechtsgevolgen heeft. Een rechtsfeit zet de verandering van een juridische toestand in gang, dus de veranderaar. De verandering zelve wordt een rechtsgevolg genoemd. In het totaal zijn er vijf soorten rechtsfeiten:  
   1. [=Rechtshandeling=]
@@ -63,9 +64,9 @@ Een <dfn data-lt="Rechtsfeit">rechtsfeit</dfn> (juridische toestandsveranderaar)
   4. [=Gebeurtenis met rechtsgevolg=]
   5. [=Tijdsverloop met rechtsgevolg=].
 
-  Een <dfn data-lt="Rechtshandeling|rechtshandelingen">rechtshandeling</dfn> is een specialisatie van rechtsfeit en heeft rechtsgevolgen en is een handeling van een rechtssubject met een beoogd doel. Bijv. Pia doet Carla het aanbod haar fiets voor 95 euro te kopen, mits het aanbod binnen twee dagen aanvaard is. Pia verricht een rechtshandeling. Het beoogde doel is Carla er toe te bewegen haar fiets voor 95 euro te kopen. Als Carla binnen twee dagen het aanbod afwijst is er ook sprake van een rechtshandeling door Carla.  
+  Een <dfn data-lt="Rechtshandeling|rechtshandelingen">rechtshandeling</dfn> is een specialisatie van [=rechtsfeit=] en heeft [=rechtsgevolgen=] en is een handeling van een [=rechtssubject=] met een beoogd doel. Bijv. Pia doet Carla het aanbod haar fiets voor 95 euro te kopen, mits het aanbod binnen twee dagen aanvaard is. Pia verricht een rechtshandeling. Het beoogde doel is Carla er toe te bewegen haar fiets voor 95 euro te kopen. Als Carla binnen twee dagen het aanbod afwijst is er ook sprake van een rechtshandeling door Carla.  
 
-  Een <dfn data-lt="Feitelijke handeling met rechtsgevolg|feitelijke handelingen met rechtsgevolg">feitelijke handeling met rechtsgevolg</dfn> is een specialisatie van rechtsfeit, heeft rechtsgevolgen, maar beoogt die rechtsgevolgen niet. Het is een handeling van een rechtssubject met een niet beoogd doel. Bijv. Jan maakt per ongeluk een kras op een auto. Niet beoogd, wel aansprakelijk.  
+  Een <dfn data-lt="Feitelijke handeling met rechtsgevolg|feitelijke handelingen met rechtsgevolg">feitelijke handeling met rechtsgevolg</dfn> is een specialisatie van [=rechtsfeit=], heeft [=rechtsgevolgen=], maar beoogt die rechtsgevolgen niet. Het is een handeling van een [=rechtssubject=] met een niet beoogd doel. Bijv. Jan maakt per ongeluk een kras op een auto. Niet beoogd, wel aansprakelijk.  
 
   Een <dfn data-lt="Overtreding met rechtsgevolg">overtreding met rechtsgevolg</dfn> is een handeling van een rechtssubject die een overtreding is van een aanspraak – verplichting en waarbij het beoogd doel niet binnen scope, oftewel niet relevant is.
 
@@ -73,19 +74,18 @@ Een <dfn data-lt="Rechtsfeit">rechtsfeit</dfn> (juridische toestandsveranderaar)
 
   Een <dfn data-lt="Tijdsverloop met rechtsgevolg">tijdsverloop met rechtsgevolg</dfn> is een gebeurtenis die optreedt zonder handelend rechtssubject en die optreedt na een bepaald tijdsverloop. Bijv. meerderjarig worden bij 18.
 
-
 Een <dfn data-lt="rechtsgevolgen">rechtsgevolg</dfn> is de verandering van een juridische toestand die ontstaat vanwege een rechtsfeit. Een rechtsgevolg is 1 of meer van de volgende 6:  
-  1. het doen ontstaan van een rechtsbetrekking;
-  2. het aanpassen van een eigenschap van een rechtsbetrekking;
-  3. het ten einde stellen van een rechtsbetrekking;
-  4. het doen ontstaan van een juridisch relevant feit;  
-  5. het aanpassen van een eigenschap van een juridisch relevant feit;
-  6. het ten einde stellen van een juridisch relevant feit.
+  1. het doen ontstaan van een [=rechtsbetrekking=];
+  2. het aanpassen van een eigenschap van een [=rechtsbetrekking=];
+  3. het ten einde stellen van een [=rechtsbetrekking=];
+  4. het doen ontstaan van een [=juridisch relevant feit=];  
+  5. het aanpassen van een eigenschap van een [=juridisch relevant feit=];
+  6. het ten einde stellen van een [=juridisch relevant feit=].
 
 Een <dfn data-lt="voorwaarden">voorwaarde</dfn> is een uitdrukking die aangeeft onder welke condities:
-  - een specialisatie van een rechtssubject geldig is;
-  - een rechtsbetrekking geldig is;
-  - een rechtsfeit geldig is;
+  - een specialisatie van een [=rechtssubject=] geldig is;
+  - een [=rechtsbetrekking=] geldig is;
+  - een [=rechtsfeit=] geldig is;
   - een afleidingsregel mag worden uitgevoerd.
 Een voorwaarde maakt gebruik van 1 of meer juridisch relevante feiten.
 
