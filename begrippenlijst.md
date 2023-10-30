@@ -74,7 +74,7 @@ Een <dfn data-lt="Rechtsfeit">rechtsfeit</dfn> (juridische toestandsveranderaar)
 
   Een <dfn data-lt="Tijdsverloop met rechtsgevolg">tijdsverloop met rechtsgevolg</dfn> is een gebeurtenis die optreedt zonder handelend rechtssubject en die optreedt na een bepaald tijdsverloop. Bijv. meerderjarig worden bij 18.
 
-Een <dfn data-lt="rechtsgevolgen">rechtsgevolg</dfn> is de verandering van een juridische toestand die ontstaat vanwege een rechtsfeit. Een rechtsgevolg is 1 of meer van de volgende 6:  
+Een <dfn data-lt="rechtsgevolgen|Rechtsgevolg">rechtsgevolg</dfn> is de verandering van een juridische toestand die ontstaat vanwege een rechtsfeit. Een rechtsgevolg is 1 of meer van de volgende 6:  
   1. het doen ontstaan van een [=rechtsbetrekking=];
   2. het aanpassen van een eigenschap van een [=rechtsbetrekking=];
   3. het ten einde stellen van een [=rechtsbetrekking=];
@@ -91,14 +91,14 @@ Een voorwaarde maakt gebruik van 1 of meer [=juridisch relevante feiten=].
 
 Een <dfn data-lt="rechtsobjecten">rechtsobject</dfn> is het voorwerp van een [=rechtsbetrekking=] of van een [=rechtsfeit=]. Een rechtsobject bestaat uit 1 of meer [=juridisch relevante feiten=].
 
-Een <dfn data-lt="afleidingsregel">afleidingsregel</dfn> is een voorschrift dat een of meer juridisch relevante feiten (gegevens) als invoer heeft en meestal 1 maar soms meer juridisch relevante feiten (gegevens) als uitvoer.
+Een <dfn data-lt="afleidingsregel">afleidingsregel</dfn> is een voorschrift dat een of meer [=juridisch relevante feiten=] ([=gegevens=]) als invoer heeft en meestal 1 maar soms meer [=juridisch relevante feiten=] ([=gegevens=]) als uitvoer.
 
 Een <dfn data-lt="variabelen">variabele</dfn> is een plek om een [=waarde=] vast te leggen, waarbij deze waarde kan variëren. Het is essentieel te beseffen dat een variabele bijna altijd onderdeel uitmaakt van een feittype met meer dan één variabele. Bij variabelen is het tevens essentieel onderscheid te maken tussen onafhankelijke (die onder een sleutel vallen, de bepalende variabelen) en de afhankelijke variabelen (die niet onder een sleutel vallen en waarvan de waarde bepaald wordt door de waarden van de bepalende variabelen).
 Stel men meet het gewicht van een patiënt op verschillende tijdstippen in een ziekenhuis. Voorbeeld: patiënt 123 weegt op 2023-08-27-10:05 65.4 kilogram. Dit is een gegeven of feit met drie variabelen. De waarde van de variabele patiënt bepaalt tezamen met de waarde van tijdstip het gewicht.
 
 Een <dfn data-lt="waarden">waarde</dfn> is een concreet [=gegeven=] (€1650, 12,4 %), bijv. de hoogte van het minimumloon in een bepaalde tijdsperiode.
 
-Een <dfn data-lt="juridisch relevante feiten">juridisch relevant feit</dfn> is gedefinieerd als een feit dat in een voorwaarde op een rechtssubject, rechtsbetrekking of rechtsfeit voorkomt, of in een specificatie van een rechtsobject, of in een voorwaarde op een afleidingsregel.
+Een <dfn data-lt="juridisch relevante feiten">juridisch relevant feit</dfn> is gedefinieerd als een feit dat in een voorwaarde op een [=rechtssubject=], [=rechtsbetrekking=] of [rechtsfeit] voorkomt, of in een specificatie van een [=rechtsobject=], of in een voorwaarde op een [=afleidingsregel=].
 
 Een <dfn data-lt="niet juridisch relevante teksten">niet juridisch relevante tekst</dfn> is een stuk tekst dat qua betekenis niet relevant is voor het wetsmodel. Bij regelgeving is soms sprake van kleine hoeveelheden tekst die juridisch niet relevant zijn. Het is vaak de taalsuiker.
 
@@ -110,11 +110,11 @@ Een <dfn data-lt="juridische scenarios">juridisch scenario</dfn> bestaat uit een
 
 Een <dfn data-lt="juridische aktes">juridische akte</dfn> bestaat uit de volgende 4 onderdelen:
   1. Juridische begintoestand, (een verzameling [=rechtsbetrekkingen=])  
-  2. Rechtsfeit (toestandsveranderaar),  
-  3. Rechtsgevolg (toestandsverandering),  
+  2. [=Rechtsfeit=] (toestandsveranderaar),  
+  3. [=Rechtsgevolg=] (toestandsverandering),  
   4. Juridische eindtoestand (een verzameling [=rechtsbetrekkingen=]).
 
-Een <dfn data-lt="juridische toestanden">juridische toestand</dfn> bestaat uit een verzameling van [=rechtsbetrekkingen=]. Let op: het bestaan van een [=rechtsbetrekking=] impliceert het bestaan van het voordeel-houdende en nadeel-houdende rechtssubject.
+Een <dfn data-lt="juridische toestanden">juridische toestand</dfn> bestaat uit een verzameling van [=rechtsbetrekkingen=]. Let op: het bestaan van een [=rechtsbetrekking=] impliceert het bestaan van het voordeel-houdende en nadeel-houdende [=rechtssubject=].
 
 Een <dfn data-lt="juridische kennisgebieden">juridisch kennisgebied</dfn>, ook wel aangeduid als [=kennisdomein=] is een afbakening uitgedrukt in de vulling van het juridische analyseschema (JAS 2.0) of afgebakend als teksten in de traditioneel beschreven wetgeving.
 
