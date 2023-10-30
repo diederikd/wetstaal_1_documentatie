@@ -68,13 +68,13 @@ Een <dfn data-lt="Rechtsfeit">rechtsfeit</dfn> (juridische toestandsveranderaar)
 
   Een <dfn data-lt="Feitelijke handeling met rechtsgevolg|feitelijke handelingen met rechtsgevolg">feitelijke handeling met rechtsgevolg</dfn> is een specialisatie van [=rechtsfeit=], heeft [=rechtsgevolgen=], maar beoogt die rechtsgevolgen niet. Het is een handeling van een [=rechtssubject=] met een niet beoogd doel. Bijv. Jan maakt per ongeluk een kras op een auto. Niet beoogd, wel aansprakelijk.  
 
-  Een <dfn data-lt="Overtreding met rechtsgevolg">overtreding met rechtsgevolg</dfn> is een handeling van een rechtssubject die een overtreding is van een aanspraak – verplichting en waarbij het beoogd doel niet binnen scope, oftewel niet relevant is.
+  Een <dfn data-lt="Overtreding met rechtsgevolg">overtreding met rechtsgevolg</dfn> is een handeling van een [=rechtssubject=] die een overtreding is van een aanspraak – verplichting en waarbij het beoogd doel niet binnen scope, oftewel niet relevant is.
 
-  Een <dfn data-lt="Gebeurtenis met rechtsgevolg">gebeurtenis met rechtsgevolg</dfn> is een gebeurtenis die optreedt zonder handelend rechtssubject en waarbij de tijd geen rol speelt. Bijv. een blikseminslag; geboren worden; sterven.  
+  Een <dfn data-lt="Gebeurtenis met rechtsgevolg">gebeurtenis met rechtsgevolg</dfn> is een gebeurtenis die optreedt zonder handelend [=rechtssubject=] en waarbij de tijd geen rol speelt. Bijv. een blikseminslag; geboren worden; sterven.  
 
-  Een <dfn data-lt="Tijdsverloop met rechtsgevolg">tijdsverloop met rechtsgevolg</dfn> is een gebeurtenis die optreedt zonder handelend rechtssubject en die optreedt na een bepaald tijdsverloop. Bijv. meerderjarig worden bij 18.
+  Een <dfn data-lt="Tijdsverloop met rechtsgevolg">tijdsverloop met rechtsgevolg</dfn> is een gebeurtenis die optreedt zonder handelend [=rechtssubject=] en die optreedt na een bepaald tijdsverloop. Bijv. meerderjarig worden bij 18 jaar.
 
-Een <dfn data-lt="rechtsgevolgen|Rechtsgevolg">rechtsgevolg</dfn> is de verandering van een juridische toestand die ontstaat vanwege een rechtsfeit. Een rechtsgevolg is 1 of meer van de volgende 6:  
+Een <dfn data-lt="rechtsgevolgen|Rechtsgevolg">rechtsgevolg</dfn> is de verandering van een [=juridische toestand=] die ontstaat vanwege een [=rechtsfeit=]. Een rechtsgevolg is 1 of meer van de volgende 6:  
   1. het doen ontstaan van een [=rechtsbetrekking=];
   2. het aanpassen van een eigenschap van een [=rechtsbetrekking=];
   3. het ten einde stellen van een [=rechtsbetrekking=];
@@ -98,7 +98,7 @@ Stel men meet het gewicht van een patiënt op verschillende tijdstippen in een z
 
 Een <dfn data-lt="waarden">waarde</dfn> is een concreet [=gegeven=] (€1650, 12,4 %), bijv. de hoogte van het minimumloon in een bepaalde tijdsperiode.
 
-Een <dfn data-lt="juridisch relevante feiten">juridisch relevant feit</dfn> is gedefinieerd als een feit dat in een voorwaarde op een [=rechtssubject=], [=rechtsbetrekking=] of [rechtsfeit] voorkomt, of in een specificatie van een [=rechtsobject=], of in een voorwaarde op een [=afleidingsregel=].
+Een <dfn data-lt="juridisch relevante feiten">juridisch relevant feit</dfn> is gedefinieerd als een feit dat in een voorwaarde op een [=rechtssubject=], [=rechtsbetrekking=] of [=rechtsfeit=] voorkomt, of in een specificatie van een [=rechtsobject=], of in een voorwaarde op een [=afleidingsregel=].
 
 Een <dfn data-lt="niet juridisch relevante teksten">niet juridisch relevante tekst</dfn> is een stuk tekst dat qua betekenis niet relevant is voor het wetsmodel. Bij regelgeving is soms sprake van kleine hoeveelheden tekst die juridisch niet relevant zijn. Het is vaak de taalsuiker.
 
