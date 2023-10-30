@@ -6,7 +6,7 @@ Een <dfn data-lt="plichten">plicht</dfn> is een soort nadeel.
 
 Een <dfn data-lt="begrip">begrip</dfn> wordt aangeduid met één enkele voorkeursterm per kennisdomein en 0, 1 of meer alternatieve termen, oftewel synoniemen.
 
-Een <dfn data-lt="begripsdefinitie">begripsdefinitie</dfn> is de uitleg of omschrijving van de betekenis van een begrip. Een voorbeeld hiervan is de beschrijving van de modelelementen van wetgeving zoals [=rechtssubject], rechtsbetrekking, rechtsfeit of rechtsgevolg.
+Een <dfn data-lt="begripsdefinitie">begripsdefinitie</dfn> is de uitleg of omschrijving van de betekenis van een [=begrip=]. Een voorbeeld hiervan is de beschrijving van de modelelementen van wetgeving zoals [=rechtssubject=], [=rechtsbetrekking=], [=rechtsfeit=] of [=rechtsgevolg=].
 
 Een <dfn data-lt="rechtssubjecten">rechtssubject</dfn> rechtssubject is een drager van [=rechten=] (de voordeelkant-houder in een [=rechtsbetrekking=]) en/of [=plichten=] (de nadeelkant-houder in een [=rechtsbetrekking=]), en/of een uitvoerder van een [=rechtshandeling=], een [=feitelijke handeling met rechtsgevolg=] of een [=overtreding met rechtsgevolg=].  
 
@@ -87,9 +87,9 @@ Een <dfn data-lt="voorwaarden">voorwaarde</dfn> is een uitdrukking die aangeeft 
   - een [=rechtsbetrekking=] geldig is;
   - een [=rechtsfeit=] geldig is;
   - een afleidingsregel mag worden uitgevoerd.
-Een voorwaarde maakt gebruik van 1 of meer juridisch relevante feiten.
+Een voorwaarde maakt gebruik van 1 of meer [=juridisch relevante feiten=].
 
-Een <dfn data-lt="rechtsobjecten">rechtsobject</dfn> is het voorwerp van een rechtsbetrekking of van een rechtsfeit. Een rechtsobject bestaat uit 1 of meer juridisch relevante feiten.
+Een <dfn data-lt="rechtsobjecten">rechtsobject</dfn> is het voorwerp van een [=rechtsbetrekking=] of van een [=rechtsfeit=]. Een rechtsobject bestaat uit 1 of meer [=juridisch relevante feiten=].
 
 Een <dfn data-lt="afleidingsregel">afleidingsregel</dfn> is een voorschrift dat een of meer juridisch relevante feiten (gegevens) als invoer heeft en meestal 1 maar soms meer juridisch relevante feiten (gegevens) als uitvoer.
 
@@ -106,15 +106,15 @@ Een <dfn data-lt="niet juridisch relevante teksten">niet juridisch relevante tek
 
 <dfn data-lt="subjectief recht">Subjectief recht</dfn> betreft het uitvoeren van [=objectief recht=] in een concreet geval met twee en soms meer rechtssubjecten of het overeenkomen van een overeenkomst en die naleven of niet naleven.
 
-Een <dfn data-lt="juridische scenarios">juridisch scenario</dfn> bestaat uit een opeenvolging juridische aktes en beschrijft de volledig geëxpliciteerde juridische ervaring van de burger of het bedrijf, en die van de andere partij of partijen betrokken in het juridisch scenario.  
+Een <dfn data-lt="juridische scenarios">juridisch scenario</dfn> bestaat uit een opeenvolging [=juridische aktes=] en beschrijft de volledig geëxpliciteerde juridische ervaring van de burger of het bedrijf, en die van de andere partij of partijen betrokken in het juridisch scenario.  
 
-Een <dfn data-lt="juridische akten">juridische akte</dfn> bestaat uit de volgende 4 onderdelen:
-  1. Juridische begintoestand, (een verzameling rechtsbetrekkingen)  
+Een <dfn data-lt="juridische aktes">juridische akte</dfn> bestaat uit de volgende 4 onderdelen:
+  1. Juridische begintoestand, (een verzameling [=rechtsbetrekkingen=])  
   2. Rechtsfeit (toestandsveranderaar),  
   3. Rechtsgevolg (toestandsverandering),  
-  4. Juridische eindtoestand (een verzameling rechtsbetrekkingen).
+  4. Juridische eindtoestand (een verzameling [=rechtsbetrekkingen=]).
 
-Een <dfn data-lt="juridische toestanden">juridische toestand</dfn> bestaat uit een verzameling van rechtsbetrekkingen. Let op: het bestaan van een rechtsbetrekking impliceert het bestaan van het voordeel-houdende en nadeel-houdende rechtssubject.
+Een <dfn data-lt="juridische toestanden">juridische toestand</dfn> bestaat uit een verzameling van [=rechtsbetrekkingen=]. Let op: het bestaan van een [=rechtsbetrekking=] impliceert het bestaan van het voordeel-houdende en nadeel-houdende rechtssubject.
 
 Een <dfn data-lt="juridische kennisgebieden">juridisch kennisgebied</dfn>, ook wel aangeduid als [=kennisdomein=] is een afbakening uitgedrukt in de vulling van het juridische analyseschema (JAS 2.0) of afgebakend als teksten in de traditioneel beschreven wetgeving.
 
@@ -135,8 +135,8 @@ In beide beweringen treffen we drie ingevulde variabelen aan, te weten het tripl
 Verder hebben beide beweringen een gemeenschappelijk werkwoorddeel: De afstand van … naar … is … km. De drie puntjes duiden op de drie plaatsen waar een waarde van de betreffende variabele staat.  
 
 Een <dfn data-lt="gegevenskwaliteitsregels">gegevenskwaliteitsregel</dfn> (voorheen meestal aangeduid als een beperkingsregel) is een formulering die aangeeft welke toestanden een gegevensverzameling mag aannemen en welke toestandsovergangen toegestaan zijn.
-Bij de gegevens van afstand hierboven geldt dat bij elk paar steden er precies één afstand kan voorkomen in de gegevensverzameling.  
-Stel men zou een ondergrondse autoweg aanleggen tussen Maastricht en Amsterdam, dan is het wenselijk het gegeven als volgt uit te breiden met de volgende twee gegevens:
+Bij de [=gegevens=] van afstand hierboven geldt dat bij elk paar steden er precies één afstand kan voorkomen in de gegevensverzameling.  
+Stel men zou een ondergrondse autoweg aanleggen tussen Maastricht en Amsterdam, dan is het wenselijk het [=gegeven=] als volgt uit te breiden met de volgende twee gegevens:
 Met ingang van 1.1.2099 is de afstand van Maastricht naar Amsterdam 199 km.
 Met ingang van 31.12.2098 is de afstand van Maastricht naar Amsterdam niet langer 212 km.
 Deze uitbreiding wordt vaak aangeduid als tijdreizen.
