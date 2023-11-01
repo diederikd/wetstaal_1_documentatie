@@ -1,10 +1,11 @@
 # Begrippenlijst
 
+
+Voorafgaande opmerking met betrekking tot de identificatie van een begrip: Een <dfn data-lt="begrip">begrip</dfn> wordt aangeduid met één enkele voorkeursterm per [=kennisdomein=] en 0, 1 of meer alternatieve termen, oftewel synoniemen.
+
 Een <dfn data-lt="rechten">recht</dfn> is een soort voordeel.
 
 Een <dfn data-lt="plichten">plicht</dfn> is een soort nadeel.
-
-Een <dfn data-lt="begrip">begrip</dfn> wordt aangeduid met één enkele voorkeursterm per [=kennisdomein=] en 0, 1 of meer alternatieve termen, oftewel synoniemen.
 
 Een <dfn data-lt="begripsdefinitie|begripsomschrijving|begripsomschrijvingen">begripsdefinitie</dfn> is de uitleg of omschrijving van de betekenis van een [=begrip=]. Een voorbeeld hiervan is de beschrijving van de modelelementen van wetgeving zoals [=rechtssubject=], [=rechtsbetrekking=], [=rechtsfeit=] of [=rechtsgevolg=].
 
@@ -18,15 +19,15 @@ Een <dfn data-lt="rechtsbetrekkingen">rechtsbetrekking</dfn> is een een juridisc
 Een <dfn data-lt="Aanspraak – verplichting">aanspraak – verplichting</dfn> is een soort rechtsbetrekking waarbij het nadeel-houdende rechtssubject een verplichting dient na te komen, terwijl het voordeel-houdende rechtssubject aanspraak heeft op het nakomen van deze verplichting. Het nadeel-houdende rechtssubject is het actieve rechtssubject (ook wel ‘[=actieveling=]’ genoemd).
 Van de soort rechtsbetrekking aanspraak – verplichting bestaan vier ondersoorten:
   1. [=Krachtige aanspraak – fatale verplichting=]
-  2. [=Aanspraak na ingebrekestelling – verplichting na ingebrekestelling=]
-  3. [=Krachtige aanspraak of aanspraak na ingebrekestelling – fatale verplichting of verplichting na ingebrekestelling=]
+  2. [=Krachtige aanspraak of aanspraak na ingebrekestelling – fatale verplichting of verplichting na ingebrekestelling=]
+  3. [=Aanspraak na ingebrekestelling – verplichting na ingebrekestelling=]
   4. [=Zwakke aanspraak – zwakke verplichting=]
 
 Een <dfn data-lt="Krachtige aanspraak – fatale verplichting">krachtige aanspraak – fatale verplichting</dfn> is een ondersoort van de soort rechtsbetrekking [=aanspraak – verplichting=]. Indien het nadeel-houdende rechtssubject zijn fatale verplichting niet nakomt, krijgt de aanspraak-houder van wetswege de optionele of verplichte bevoegdheid een boete op te leggen aan het rechtssubject dat de fatale verplichting niet is nagekomen.
 
-Een <dfn data-lt="Aanspraak na ingebrekestelling – verplichting na ingebrekestelling">aanspraak na ingebrekestelling – verplichting na ingebrekestelling</dfn> is een ondersoort van de soort rechtsbetrekking [=aanspraak – verplichting=]. Bij een aanspraak na ingebrekestelling – verplichting na ingebrekestelling geldt het volgende: indien de plicht-houder niet aan zijn verplichting voldoet, dan dient de aanspraak-houder de plichthouder schriftelijk een redelijke termijn te geven om alsnog aan de verplichting te voldoen. Voldoet de plichthouder hier niet aan, dan wordt de aanspraak – plicht verhoogd naar een krachtige aanspraak – fatale verplichting.  
-
 Een <dfn data-lt="Krachtige aanspraak of aanspraak na ingebrekestelling – fatale verplichting of verplichting na ingebrekestelling">krachtige aanspraak of aanspraak na ingebrekestelling – fatale verplichting of verplichting na ingebrekestelling</dfn> is een ondersoort van de soort rechtsbetrekking [=aanspraak – verplichting=]. Bij een krachtige aanspraak of aanspraak na ingebrekestelling – fatale verplichting of verplichting na ingebrekestelling ligt, voorafgaand aan een rechtsfeit in de context van die rechtsbetrekking, niet vast welke van de twee opties geldig is. Denk aan een agent die meteen een boete kan uitdelen of eerst een waarschuwing geeft. Het nadeel-houdende rechtssubject weet vooraf niet welke keuze de agent gaat maken.
+
+Een <dfn data-lt="Aanspraak na ingebrekestelling – verplichting na ingebrekestelling">aanspraak na ingebrekestelling – verplichting na ingebrekestelling</dfn> is een ondersoort van de soort rechtsbetrekking [=aanspraak – verplichting=]. Bij een aanspraak na ingebrekestelling – verplichting na ingebrekestelling geldt het volgende: indien de plicht-houder niet aan zijn verplichting voldoet, dan dient de aanspraak-houder de plichthouder schriftelijk een redelijke termijn te geven om alsnog aan de verplichting te voldoen. Voldoet de plichthouder hier niet aan, dan wordt de aanspraak – plicht verhoogd naar een krachtige aanspraak – fatale verplichting.  
 
 Een <dfn data-lt="Zwakke aanspraak – zwakke verplichting">zwakke aanspraak – zwakke verplichting</dfn> is een ondersoort van de soort rechtsbetrekking [=aanspraak – verplichting=]. Bij het niet nakomen van de zwakke verplichting heeft de zwakke aanspraakhouder geen recht een boete op te leggen. Wel is gebleken uit jurisprudentie bijv. van de Wet flexibel werken dat een werkgever die niet voldoet aan artikel 2, lid 4 van de wet flexibele werken (de werkgever overlegt met de werknemer) (een zwakke verplichting) daarmee een juridisch relevant feit in het leven roept waarmee de rechter rekening houdt.
 
@@ -36,14 +37,11 @@ Van de soort rechtsbetrekking verlof – geenaanspraak bestaat twee ondersoorten
   1. [=Rechtsfeitbaar verlof=]
   2. [=Niet rechtsfeitbaar verlof=]
 
-Een <dfn data-lt="Rechtsfeitbaar verlof">rechtsfeitbaar verlof</dfn> is een verlof waarbij het daadwerkelijk uitoefenen van het verlof een rechtsfeit is en dus rechtsgevolgen heeft. Bijv. indien iemand die vanwege met 70 km/u geflitst word in een max 50 km/u zone, van het CJIB een fatale boete opgelegd krijgt maar tevens een verlof krijgt die boete al vanaf ontvangst van de boetebrief te mogen betalen en hij maakt gebruik van dat verlof, dan heeft dat als gevolg dat daarmee ook wordt voldaan aan de fatale boete. Men zou kunnen zeggen dat dit een indirect gevolg is van het rechtsfeit van het verlof uitoefenen.
+Een <dfn data-lt="Rechtsfeitbaar verlof">rechtsfeitbaar verlof</dfn> is een verlof waarbij het daadwerkelijk uitoefenen van het verlof een rechtsfeit is en dus rechtsgevolgen heeft. Bijv. indien iemand die vanwege met 70 km/u geflitst word in een max 50 km/u zone, van het CJIB een fatale boete opgelegd krijgt maar tevens een verlof krijgt die boete al vanaf ontvangst van de boetebrief te mogen betalen en hij maakt gebruik van dat verlof, dan heeft die rechtshandeling als gevolg dat daarmee ook logisch wordt voldaan aan de fatale boete. Men zou kunnen zeggen dat dit een indirect gevolg is van het rechtsfeit van het verlof uitoefenen.
 
 En <dfn data-lt="Niet rechtsfeitbaar verlof">niet rechtsfeitbaar verlof</dfn> is een verlof indien zowel het gebruik maken van het verlof maar ook het niet gebruik maken van het verlof tot geen rechtsfeit leidt. Bijvoorbeeld bij het al dan niet gebruik maken van het recht je mening te uiten.   
 
-Een <dfn data-lt="Bevoegdheid – gehoudenheid">bevoegdheid – gehoudenheid</dfn> is een soort rechtsbetrekking. Een bevoegdheid geeft de mogelijkheid de bestaande regelgeving aan te passen door
-  1. nul, één of meer rechtsbetrekkingen of juridisch relevante feiten in het leven te roepen,
-  2. één of meer eigenschappen van nul, één of meer rechtsbetrekkingen of juridisch relevante feiten te wijzigen, of
-  3. nul, één of meer rechtsbetrekkingen of juridische relevante feiten te beëindigen (met de voorwaarde dat nooit alle drie de nullen nul kunnen zijn).
+Een <dfn data-lt="Bevoegdheid – gehoudenheid">bevoegdheid – gehoudenheid</dfn> is een soort rechtsbetrekking. Een bevoegdheid geeft de mogelijkheid de bestaande subjectieve regelgeving aan te passen.
 
 De [=actieveling=] is de voordeelhouder, de houder van de bevoegdheid.
 Van de soort rechtsbetrekking bevoegdheid – gehoudenheid bestaan twee ondersoorten:
@@ -68,11 +66,11 @@ Een <dfn data-lt="Rechtsfeit">rechtsfeit</dfn> (juridische toestandsveranderaar)
 
   Een <dfn data-lt="Feitelijke handeling met rechtsgevolg|feitelijke handelingen met rechtsgevolg">feitelijke handeling met rechtsgevolg</dfn> is een specialisatie van [=rechtsfeit=], heeft [=rechtsgevolgen=], maar beoogt die rechtsgevolgen niet. Het is een handeling van een [=rechtssubject=] met een niet beoogd doel. Bijv. Jan maakt per ongeluk een kras op een auto. Niet beoogd, wel aansprakelijk.  
 
-  Een <dfn data-lt="Overtreding met rechtsgevolg">overtreding met rechtsgevolg</dfn> is een handeling van een [=rechtssubject=] die een overtreding is van een aanspraak – verplichting en waarbij het beoogd doel niet binnen scope, oftewel niet relevant is.
+  Een <dfn data-lt="Overtreding met rechtsgevolg">overtreding met rechtsgevolg</dfn> is een specialisatie van rechtsfeit waarbij er sprake is van een handeling van een [=rechtssubject=] die een overtreding is van een aanspraak – verplichting en waarbij het beoogd doel niet binnen scope, oftewel niet relevant is.
 
-  Een <dfn data-lt="Gebeurtenis met rechtsgevolg">gebeurtenis met rechtsgevolg</dfn> is een gebeurtenis die optreedt zonder handelend [=rechtssubject=] en waarbij de tijd geen rol speelt. Bijv. een blikseminslag; geboren worden; sterven.  
+  Een <dfn data-lt="Gebeurtenis met rechtsgevolg">gebeurtenis met rechtsgevolg</dfn> is een specialisatie van rechtsfeit waarbij er sprake is van en gebeurtenis die optreedt zonder handelend [=rechtssubject=] en waarbij de tijd geen rol speelt. Bijv. een blikseminslag; geboren worden; sterven.  
 
-  Een <dfn data-lt="Tijdsverloop met rechtsgevolg">tijdsverloop met rechtsgevolg</dfn> is een gebeurtenis die optreedt zonder handelend [=rechtssubject=] en die optreedt na een bepaald tijdsverloop. Bijv. meerderjarig worden bij 18 jaar.
+  Een <dfn data-lt="Tijdsverloop met rechtsgevolg">tijdsverloop met rechtsgevolg</dfn> is een specialisatie van rechtsfeit waarbij er sprake is van een gebeurtenis die optreedt zonder handelend [=rechtssubject=] en die optreedt na een bepaald tijdsverloop. Bijv. meerderjarig worden bij 18 jaar.
 
 Een <dfn data-lt="rechtsgevolgen|Rechtsgevolg">rechtsgevolg</dfn> is de verandering van een [=juridische toestand=] die ontstaat vanwege een [=rechtsfeit=]. Een rechtsgevolg is 1 of meer van de volgende 6:  
   1. het doen ontstaan van een [=rechtsbetrekking=];
@@ -91,32 +89,39 @@ Een voorwaarde maakt gebruik van 1 of meer [=juridisch relevante feiten=].
 
 Een <dfn data-lt="rechtsobjecten">rechtsobject</dfn> is het voorwerp van een [=rechtsbetrekking=] of van een [=rechtsfeit=]. Een rechtsobject bestaat uit 1 of meer [=juridisch relevante feiten=].
 
-Een <dfn data-lt="afleidingsregel">afleidingsregel</dfn> is een voorschrift dat een of meer [=juridisch relevante feiten=] ([=gegevens=]) als invoer heeft en meestal 1 maar soms meer [=juridisch relevante feiten=] ([=gegevens=]) als uitvoer.
+Een <dfn data-lt="afleidingsregel">afleidingsregel</dfn> is een voorschrift dat een of meer [=juridisch relevante feiten=] ([=gegevens=]) als invoer heeft en meestal 1 maar soms meer [=juridisch relevante feiten=] ([=gegevens=]) als uitvoer. Tijdens de uitvoering van de afleidingsregel worden de gegevens in de invoer verwerkt tot gegevens in de uitvoer.
+
+Een <dfn data-lt="Feit">feit</dfn> is een bewering waarvan wordt aangenomen dat ze waar is. Voorbeelden van feiten zijn: Amsterdam is momenteel de hoofdstad van Nederland. Berlijn is momenteel de hoofdstad van Duitsland. Nederland grenst in het oosten aan Duitsland en in het zuiden aan België.
 
 Een <dfn data-lt="variabelen">variabele</dfn> is een plek om een [=waarde=] vast te leggen, waarbij deze waarde kan variëren. Het is essentieel te beseffen dat een variabele bijna altijd onderdeel uitmaakt van een feittype met meer dan één variabele. Bij variabelen is het tevens essentieel onderscheid te maken tussen onafhankelijke (die onder een sleutel vallen, de bepalende variabelen) en de afhankelijke variabelen (die niet onder een sleutel vallen en waarvan de waarde bepaald wordt door de waarden van de bepalende variabelen).
 Stel men meet het gewicht van een patiënt op verschillende tijdstippen in een ziekenhuis. Voorbeeld: patiënt 123 weegt op 2023-08-27-10:05 65.4 kilogram. Dit is een gegeven of feit met drie variabelen. De waarde van de variabele patiënt bepaalt tezamen met de waarde van tijdstip het gewicht.
 
 Een <dfn data-lt="waarden">waarde</dfn> is een concreet [=gegeven=] (€1650, 12,4 %), bijv. de hoogte van het minimumloon in een bepaalde tijdsperiode.
 
-Een <dfn data-lt="juridisch relevante feiten">juridisch relevant feit</dfn> is gedefinieerd als een feit dat in een voorwaarde op een [=rechtssubject=], [=rechtsbetrekking=] of [=rechtsfeit=] voorkomt, of in een specificatie van een [=rechtsobject=], of in een voorwaarde op een [=afleidingsregel=].
+Een <dfn data-lt="juridisch relevante feiten">juridisch relevant feit</dfn> is gedefinieerd als een feit dat in een voorwaarde op een [=rechtssubject=], [=rechtsbetrekking=] of [=rechtsfeit=] voorkomt, of in een specificatie van een [=rechtsobject=], of als invoergegeven of uitvoergegeven van een [=afleidingsregel=].
 
-Een <dfn data-lt="niet juridisch relevante teksten">niet juridisch relevante tekst</dfn> is een stuk tekst dat qua betekenis niet relevant is voor het wetsmodel. Bij regelgeving is soms sprake van kleine hoeveelheden tekst die juridisch niet relevant zijn. Het is vaak de taalsuiker.
+Een <dfn data-lt="niet juridisch relevante teksten">niet juridisch relevante tekst</dfn> is een stuk tekst dat qua betekenis niet relevant is voor het model van de wetgeving, de wetsuitvoering of juridisch scenario. Bij regelgeving is soms sprake van kleine hoeveelheden tekst die juridisch niet relevant zijn. Het is vaak de taalsuiker.
 
 <dfn data-lt="objectief recht">Objectief recht</dfn> is het recht zoals beschreven in wetgeving en daarmee samenhangende hogere en lagere regelgeving.  
 
 <dfn data-lt="subjectief recht">Subjectief recht</dfn> betreft het uitvoeren van [=objectief recht=] in een concreet geval met twee en soms meer rechtssubjecten of het overeenkomen van een overeenkomst en die naleven of niet naleven.
 
-Een <dfn data-lt="juridische scenarios">juridisch scenario</dfn> bestaat uit een opeenvolging [=juridische aktes=] en beschrijft de volledig geëxpliciteerde juridische ervaring van de burger of het bedrijf, en die van de andere partij of partijen betrokken in het juridisch scenario.  
+Vaak helpt de volgende toelichting op objectief en subjectief recht. Objectief recht is het recht zoals beschreven in wet- en regelgeving. In objectief recht hebben we te doen met rechtssubjecttypen, rechtsbetrekkingtypen, rechtsfeittypen of rechtsgevolgtypen. Voorbeelden zijn natuurlijke persoon, voetganger, rechtspersoon.
+
+In het subjectieve recht hebben we bij voorbeeld te doen met Andre Rieu, Max Verstappen of ASML. De eerstgenoemde is een instantie van een natuurlijk persoon, en een specialisatie van natuurlijke persoon voor de IB, genaamd binnenlandse belastingplichtige. ASML is een instantie van een rechtspersoon.
+
+
+Een <dfn data-lt="juridische scenarios">juridisch scenario</dfn> bestaat uit een opeenvolging [=juridische aktes=] en beschrijft de volledig geëxpliciteerde juridische ervaring van de burger of het bedrijf of rechtspersoon.
 
 Een <dfn data-lt="juridische aktes">juridische akte</dfn> bestaat uit de volgende 4 onderdelen:
-  1. Juridische begintoestand, (een verzameling [=rechtsbetrekkingen=])  
-  2. [=Rechtsfeit=] (toestandsveranderaar),  
-  3. [=Rechtsgevolg=] (toestandsverandering),  
-  4. Juridische eindtoestand (een verzameling [=rechtsbetrekkingen=]).
+  1. Juridische begintoestand, (een verzameling [=rechtsbetrekkingen=] en/of [=juridisch relevante feiten=])  
+  2. [=Rechtsfeit=] (toestandsverander**aar**),  
+  3. [=Rechtsgevolg=] (toestandsverander**ing**),  
+  4. Juridische eindtoestand (een verzameling [=rechtsbetrekkingen=] en/of [=juridisch relevante feiten=]).
 
-Een <dfn data-lt="juridische toestanden">juridische toestand</dfn> bestaat uit een verzameling van [=rechtsbetrekkingen=]. Let op: het bestaan van een [=rechtsbetrekking=] impliceert het bestaan van het voordeel-houdende en nadeel-houdende [=rechtssubject=].
+Een <dfn data-lt="juridische toestanden">juridische toestand</dfn> bestaat uit een verzameling van [=rechtsbetrekkingen=] en/of [=juridisch relevante feiten=]. Let op: het bestaan van een [=rechtsbetrekking=] impliceert het bestaan van het voordeel-houdende en nadeel-houdende [=rechtssubject=].
 
-Een <dfn data-lt="juridische kennisgebieden">juridisch kennisgebied</dfn>, ook wel aangeduid als [=kennisdomein=] is een afbakening uitgedrukt in de vulling van het juridische analyseschema (JAS 2.0) of afgebakend als teksten in de traditioneel beschreven wetgeving.
+Een <dfn data-lt="juridische kennisgebieden">juridisch kennisgebied</dfn>, ook wel aangeduid als [=kennisdomein=] is een afbakening uitgedrukt in de vulling van het juridisch referentiemodel (JRM 2.0) of afgebakend als teksten in de traditioneel beschreven wetgeving.
 
 Een <dfn data-lt="kennisdomeinen">kennisdomein</dfn> is een willekeurig afgebakende hoeveelheid kennis.  
 Bijv. men kan RVV art 74, lid 1 als kennisdomein zien met de naam Voetgangerslicht.  
