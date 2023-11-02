@@ -139,11 +139,18 @@ De afstand van Nijmegen naar Groningen is 194 km.
 In beide beweringen treffen we drie ingevulde variabelen aan, te weten het triple Maastricht, Groningen en 212 en het triple Nijmegen, Groningen en 194.
 Verder hebben beide beweringen een gemeenschappelijk werkwoorddeel: De afstand van … naar … is … km. De drie puntjes duiden op de drie plaatsen waar een [=waarde=] van de betreffende [=variabele=] staat.  
 
-Een <dfn data-lt="gegevenskwaliteitsregels">gegevenskwaliteitsregel</dfn> (voorheen meestal aangeduid als een beperkingsregel) is een formulering die aangeeft welke toestanden een gegevensverzameling mag aannemen en welke toestandsovergangen toegestaan zijn.
+Een <dfn data-lt="gegevenskwaliteitsregels">gegevenskwaliteitsregel</dfn> (voorheen meestal aangeduid als een beperkingsregel in gegevensmodellering) is een formulering die aangeeft welke toestanden een gegevensverzameling mag aannemen en welke toestandsovergangen toegestaan zijn.
 Bij de [=gegevens=] van afstand hierboven geldt dat bij elk paar steden er precies één afstand kan voorkomen in de gegevensverzameling.  
 Stel men zou een ondergrondse autoweg aanleggen tussen Maastricht en Amsterdam, dan is het wenselijk het [=gegeven=] als volgt uit te breiden met de volgende twee gegevens:
 Met ingang van 1.1.2099 is de afstand van Maastricht naar Amsterdam 199 km.
 Met ingang van 31.12.2098 is de afstand van Maastricht naar Amsterdam niet langer 212 km.
 Deze uitbreiding wordt vaak aangeduid als tijdreizen.
+
+Een <dfn data-lt="overeenkomsten">overeenkomst</dfn> tussen 2 of meer [=rechtssubjecten=] bestaat uit: 
+  - een verzameling [=begripsomschrijvingen=],  
+  - een verzameling [=rechtsbetrekkingen=],
+  - een verzameling [=rechtsfeiten=] en/of
+  - een verzameling [=rechtsgevolgen=]
+waarbij geldt dat minstens een van de laatste drie verzamelingen niet leeg mag zijn.
 
 <dfn>RegelSpraak</dfn> RegelSpraak is een gecontroleerde Nederlandse taal die is ontwikkeld bij de Belastingdienst. Deze taal wordt gebruikt om belastingregels mee te beschrijven. De RegelSpraak-regels zijn preciezer dan in de onderliggende wetsartikelen verwoord. Deze precisie van de regels zorgt ervoor dat deze geautomatiseerd ‘vertaald’ kunnen worden naar softwarecode om de bedoelde beoordeling – op basis van gegevens uit de aangifte van het voorgaande jaar – uit te voeren [[[1ekamerregelspraak]]].
