@@ -1,6 +1,6 @@
 # Begrippenlijst
 
-Deze lijst van begrippen is in de aanbevolen volgorde van kennisname opgesteld. Daarnaast is het nuttig om een begrippenlijst te hebben in alfabetische volgorde.
+Deze lijst van begrippen is in de aanbevolen volgorde van kennisname opgesteld. Daarnaast is het nuttig om een begrippenlijst te hebben in alfabetische volgorde. Deze kan worden gevonden in de [index](#Index).
 
 Voorafgaande opmerking met betrekking tot de identificatie van een begrip: Een <dfn data-lt="begrip">begrip</dfn> wordt aangeduid met één enkele voorkeursterm per [=kennisdomein=] en 0, 1 of meer alternatieve termen, oftewel synoniemen.
 
@@ -103,9 +103,9 @@ Een <dfn data-lt="juridisch relevante feiten">juridisch relevant feit</dfn> is g
 
 Een <dfn data-lt="niet juridisch relevante teksten">niet juridisch relevante tekst</dfn> is een stuk tekst dat qua betekenis niet relevant is voor het model van de wetgeving, de wetsuitvoering of juridisch scenario. Bij regelgeving is soms sprake van kleine hoeveelheden tekst die juridisch niet relevant zijn. Het is vaak de taalsuiker.
 
-<dfn data-lt="objectief recht">Objectief recht</dfn> is het recht zoals beschreven in wetgeving en daarmee samenhangende hogere en lagere regelgeving.  
+Het <dfn data-lt="Objectief recht">objectief recht</dfn> is het recht zoals beschreven in wetgeving en daarmee samenhangende hogere en lagere regelgeving.  
 
-<dfn data-lt="subjectief recht|subjectieve recht">Subjectief recht</dfn> betreft het uitvoeren van [=objectief recht=] in een concreet geval met twee en soms meer rechtssubjecten of het overeenkomen van een overeenkomst en die naleven of niet naleven.
+Het <dfn data-lt="Subjectief recht|subjectieve recht">subjectief recht</dfn> betreft het uitvoeren van [=objectief recht=] in een concreet geval met twee en soms meer rechtssubjecten of het overeenkomen van een overeenkomst en die naleven of niet naleven.
 
 Vaak helpt de volgende toelichting op objectief en subjectief recht. [=Objectief recht=] is het recht zoals beschreven in wet- en regelgeving. In objectief recht hebben we te doen met rechtssubjecttypen, rechtsbetrekkingtypen, rechtsfeittypen of rechtsgevolgtypen. Voorbeelden zijn natuurlijke persoon, voetganger, rechtspersoon.
 
