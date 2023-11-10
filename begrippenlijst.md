@@ -1,5 +1,6 @@
 # Begrippenlijst
 
+Deze lijst van begrippen is in de aanbevolen volgorde van kennisname opgesteld. Daarnaast is het nuttig om een begrippenlijst te hebben in alfabetische volgorde.
 
 Voorafgaande opmerking met betrekking tot de identificatie van een begrip: Een <dfn data-lt="begrip">begrip</dfn> wordt aangeduid met één enkele voorkeursterm per [=kennisdomein=] en 0, 1 of meer alternatieve termen, oftewel synoniemen.
 
@@ -37,9 +38,9 @@ Van de soort rechtsbetrekking verlof – geenaanspraak bestaat twee ondersoorten
   1. [=Rechtsfeitbaar verlof=]
   2. [=Niet rechtsfeitbaar verlof=]
 
-Een <dfn data-lt="Rechtsfeitbaar verlof">rechtsfeitbaar verlof</dfn> is een verlof waarbij het daadwerkelijk uitoefenen van het verlof een rechtsfeit is en dus rechtsgevolgen heeft. Bijv. indien iemand die vanwege met 70 km/u geflitst word in een max 50 km/u zone, van het CJIB een fatale boete opgelegd krijgt maar tevens een verlof krijgt die boete al vanaf ontvangst van de boetebrief te mogen betalen en hij maakt gebruik van dat verlof, dan heeft die rechtshandeling als gevolg dat daarmee ook logisch wordt voldaan aan de fatale boete. Men zou kunnen zeggen dat dit een indirect gevolg is van het rechtsfeit van het verlof uitoefenen.
+Een <dfn data-lt="Rechtsfeitbaar verlof">rechtsfeitbaar verlof</dfn> is een ondersoort van de soort [=rechtsbetrekking verlof (vrijheid) – geenaanspraak=]. Een rechtsfeitbaar verlof is een verlof waarbij het daadwerkelijk uitoefenen van het verlof een rechtsfeit is en dus rechtsgevolgen heeft. Bijv. indien iemand die vanwege met 70 km/u geflitst word in een max 50 km/u zone, van het CJIB een fatale boete opgelegd krijgt maar tevens een verlof krijgt die boete al vanaf ontvangst van de boetebrief te mogen betalen en hij maakt gebruik van dat verlof, dan heeft die rechtshandeling als gevolg dat daarmee ook logisch wordt voldaan aan de fatale boete. Men zou kunnen zeggen dat dit een indirect gevolg is van het rechtsfeit van het verlof uitoefenen.
 
-En <dfn data-lt="Niet rechtsfeitbaar verlof">niet rechtsfeitbaar verlof</dfn> is een verlof indien zowel het gebruik maken van het verlof maar ook het niet gebruik maken van het verlof tot geen rechtsfeit leidt. Bijvoorbeeld bij het al dan niet gebruik maken van het recht je mening te uiten.   
+Een <dfn data-lt="Niet rechtsfeitbaar verlof">niet rechtsfeitbaar verlof</dfn> is een ondersoort van de soort [=rechtsbetrekking verlof (vrijheid) – geenaanspraak=]. Een niet rechtsfeitbaar verlof is een verlof indien zowel het gebruik maken van het verlof maar ook het niet gebruik maken van het verlof tot geen rechtsfeit leidt. Bijvoorbeeld bij het al dan niet gebruik maken van het recht je mening te uiten.   
 
 Een <dfn data-lt="Bevoegdheid – gehoudenheid">bevoegdheid – gehoudenheid</dfn> is een soort rechtsbetrekking. Een bevoegdheid geeft de mogelijkheid de bestaande subjectieve regelgeving aan te passen.
 
@@ -55,7 +56,7 @@ Bij een <dfn data-lt="Optionele bevoegdheid">optionele bevoegdheid</dfn> heeft d
 
 De <dfn data-lt="actieve rechtssubject">actieveling</dfn>, of het actieve rechtssubject, is het [=rechtssubject=] dat kan handelen in een [=rechtsbetrekking=]. Bij een [=Aanspraak – verplichting=] is het nadeel-houdende rechtssubject (de verplichting-houder) de actieveling, terwijl bij een [=Verlof (vrijheid) – geenaanspraak=] en [=Bevoegdheid – gehoudenheid=] het voordeel-houdende rechtssubject (verlof-houder, bevoegdheid-houder) altijd de actieveling is.
 
-Een <dfn data-lt="Rechtsfeit">rechtsfeit</dfn> (juridische toestandsveranderaar) is een handeling door een [=rechtssubject=] of een gebeurtenis (niet door een rechtssubject veroorzaakt) die 1 of meer rechtsgevolgen heeft. Een rechtsfeit zet de verandering van een juridische toestand in gang, dus de veranderaar. De verandering zelve wordt een rechtsgevolg genoemd. In het totaal zijn er vijf soorten rechtsfeiten:  
+Een <dfn data-lt="Rechtsfeit|rechtsfeiten">rechtsfeit</dfn> (juridische toestandsveranderaar) is een handeling door een [=rechtssubject=] of een gebeurtenis (niet door een rechtssubject veroorzaakt) die 1 of meer rechtsgevolgen heeft. Een rechtsfeit zet de verandering van een juridische toestand in gang, dus de veranderaar. De verandering zelve wordt een rechtsgevolg genoemd. In het totaal zijn er vijf soorten rechtsfeiten:  
   1. [=Rechtshandeling=]
   2. [=Feitelijke handeling met rechtsgevolg=]
   3. [=Overtreding met rechtsgevolg=]
@@ -146,7 +147,7 @@ Met ingang van 1.1.2099 is de afstand van Maastricht naar Amsterdam 199 km.
 Met ingang van 31.12.2098 is de afstand van Maastricht naar Amsterdam niet langer 212 km.
 Deze uitbreiding wordt vaak aangeduid als tijdreizen.
 
-Een <dfn data-lt="overeenkomsten">overeenkomst</dfn> tussen 2 of meer [=rechtssubjecten=] bestaat uit: 
+Een <dfn data-lt="overeenkomsten">overeenkomst</dfn> tussen 2 of meer [=rechtssubjecten=] bestaat uit:
   - een verzameling [=begripsomschrijvingen=],  
   - een verzameling [=rechtsbetrekkingen=],
   - een verzameling [=rechtsfeiten=] en/of
