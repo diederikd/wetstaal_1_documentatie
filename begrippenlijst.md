@@ -38,23 +38,23 @@ Van de soort rechtsbetrekking verlof – geenaanspraak bestaat twee ondersoorten
   1. [=Rechtsfeitbaar verlof=]
   2. [=Niet rechtsfeitbaar verlof=]
 
-Een <dfn data-lt="Rechtsfeitbaar verlof">rechtsfeitbaar verlof</dfn> is een ondersoort van de soort [=rechtsbetrekking verlof (vrijheid) – geenaanspraak=]. Een rechtsfeitbaar verlof is een verlof waarbij het daadwerkelijk uitoefenen van het verlof een rechtsfeit is en dus rechtsgevolgen heeft. Bijv. indien iemand die vanwege met 70 km/u geflitst word in een max 50 km/u zone, van het CJIB een fatale boete opgelegd krijgt maar tevens een verlof krijgt die boete al vanaf ontvangst van de boetebrief te mogen betalen en hij maakt gebruik van dat verlof, dan heeft die rechtshandeling als gevolg dat daarmee ook logisch wordt voldaan aan de fatale boete. Men zou kunnen zeggen dat dit een indirect gevolg is van het rechtsfeit van het verlof uitoefenen.
+Een <dfn data-lt="Rechtsfeitbaar verlof">rechtsfeitbaar verlof</dfn> is een ondersoort van de soort rechtsbetrekking [=verlof (vrijheid) – geenaanspraak=]. Een rechtsfeitbaar verlof is een verlof waarbij het daadwerkelijk uitoefenen van het verlof een rechtsfeit is en dus rechtsgevolgen heeft. Bijv. indien iemand die vanwege met 70 km/u geflitst word in een max 50 km/u zone, van het CJIB een fatale boete opgelegd krijgt maar tevens een verlof krijgt die boete al vanaf ontvangst van de boetebrief te mogen betalen en hij maakt gebruik van dat verlof, dan heeft die rechtshandeling als gevolg dat daarmee ook logisch wordt voldaan aan de fatale boete. Men zou kunnen zeggen dat dit een indirect gevolg is van het rechtsfeit van het verlof uitoefenen.
 
-Een <dfn data-lt="Niet rechtsfeitbaar verlof">niet rechtsfeitbaar verlof</dfn> is een ondersoort van de soort [=rechtsbetrekking verlof (vrijheid) – geenaanspraak=]. Een niet rechtsfeitbaar verlof is een verlof indien zowel het gebruik maken van het verlof maar ook het niet gebruik maken van het verlof tot geen rechtsfeit leidt. Bijvoorbeeld bij het al dan niet gebruik maken van het recht je mening te uiten.   
+Een <dfn data-lt="Niet rechtsfeitbaar verlof">niet rechtsfeitbaar verlof</dfn> is een ondersoort van de soort rechtsbetrekking [=verlof (vrijheid) – geenaanspraak=]. Een niet rechtsfeitbaar verlof is een verlof indien zowel het gebruik maken van het verlof maar ook het niet gebruik maken van het verlof tot geen rechtsfeit leidt. Bijvoorbeeld bij het al dan niet gebruik maken van het recht je mening te uiten.   
 
-Een <dfn data-lt="Bevoegdheid – gehoudenheid">bevoegdheid – gehoudenheid</dfn> is een soort rechtsbetrekking. Een bevoegdheid geeft de mogelijkheid de bestaande subjectieve regelgeving aan te passen.
+Een <dfn data-lt="Bevoegdheid – gehoudenheid">bevoegdheid – gehoudenheid</dfn> is een soort rechtsbetrekking. Een bevoegdheid geeft de mogelijkheid de bestaande [=juridische toestand=] aan te passen door het uitvoeren van de bijbehorende [=rechtshandeling=].
 
 De [=actieveling=] is de voordeelhouder, de houder van de bevoegdheid.
 Van de soort rechtsbetrekking bevoegdheid – gehoudenheid bestaan twee ondersoorten:
   1. [=Gebonden bevoegdheid=]
   2. [=Optionele bevoegdheid=]
 
-Bij een <dfn data-lt="Gebonden bevoegdheid">gebonden bevoegdheid</dfn> heeft de bevoegdheidshouder tevens de verplichting de bevoegdheid uit te oefenen. Bijv. het CJIB verkrijgt de gebonden bevoegdheid een boete op te leggen bij geflitst worden met te hard rijden. Waarom is dat zo? Om gelijke behandeling te kunnen garanderen.
+Een <dfn data-lt="Gebonden bevoegdheid">gebonden bevoegdheid</dfn>is een ondersoort van de soort rechtsbetrekking [=bevoegdheid – gehoudenheid=]. Bij een gebonden bevoegdheid heeft de bevoegdheidshouder tevens de verplichting de bevoegdheid uit te oefenen. Bijv. het CJIB verkrijgt de gebonden bevoegdheid een boete op te leggen bij geflitst worden met te hard rijden. Waarom is dat zo? Om gelijke behandeling te kunnen garanderen.
 
-Bij een <dfn data-lt="Optionele bevoegdheid">optionele bevoegdheid</dfn> heeft de voordeel-houder de keuze al dan niet zijn bevoegdheid uit te oefenen. Volgens het burgerlijk wetboek geldt dat als iemand niet voldoet aan een fatale verplichting, dan is de aanspraak-houder niet verplicht gebruik te maken van de bevoegdheid hem aansprakelijk te stellen. Dit is een wezenlijk verschil tussen het burgerlijk wetboek en onder meer de wet Mulder.
+Een <dfn data-lt="Optionele bevoegdheid">optionele bevoegdheid</dfn> is een ondersoort van de soort rechtsbetrekking [=bevoegdheid – gehoudenheid=]. Bij een optionele bevoegdheid heeft de voordeel-houder de keuze al dan niet zijn bevoegdheid uit te oefenen. Volgens het burgerlijk wetboek geldt dat als iemand niet voldoet aan een fatale verplichting, dan is de aanspraak-houder niet verplicht gebruik te maken van de bevoegdheid hem aansprakelijk te stellen. Dit is een wezenlijk verschil tussen het burgerlijk wetboek en onder meer de wet Mulder.
 
 
-De <dfn data-lt="actieve rechtssubject">actieveling</dfn>, of het actieve rechtssubject, is het [=rechtssubject=] dat kan handelen in een [=rechtsbetrekking=]. Bij een [=Aanspraak – verplichting=] is het nadeel-houdende rechtssubject (de verplichting-houder) de actieveling, terwijl bij een [=Verlof (vrijheid) – geenaanspraak=] en [=Bevoegdheid – gehoudenheid=] het voordeel-houdende rechtssubject (verlof-houder, bevoegdheid-houder) altijd de actieveling is.
+De <dfn data-lt="actieve rechtssubject">actieveling</dfn>, of het actieve rechtssubject, in een [=rechtsbetrekking=] is de uitvoerder van het bijbehorend [=rechtsfeit=]. Bij een [=Aanspraak – verplichting=] is het nadeel-houdende rechtssubject (de verplichting-houder) de actieveling, terwijl bij een [=Verlof (vrijheid) – geenaanspraak=] en [=Bevoegdheid – gehoudenheid=] het voordeel-houdende rechtssubject (verlofhouder, bevoegdheid-houder) altijd de actieveling is.
 
 Een <dfn data-lt="Rechtsfeit|rechtsfeiten">rechtsfeit</dfn> (juridische toestandsveranderaar) is een handeling door een [=rechtssubject=] of een gebeurtenis (niet door een rechtssubject veroorzaakt) die 1 of meer rechtsgevolgen heeft. Een rechtsfeit zet de verandering van een juridische toestand in gang, dus de veranderaar. De verandering zelve wordt een rechtsgevolg genoemd. In het totaal zijn er vijf soorten rechtsfeiten:  
   1. [=Rechtshandeling=]
@@ -63,15 +63,15 @@ Een <dfn data-lt="Rechtsfeit|rechtsfeiten">rechtsfeit</dfn> (juridische toestand
   4. [=Gebeurtenis met rechtsgevolg=]
   5. [=Tijdsverloop met rechtsgevolg=].
 
-  Een <dfn data-lt="Rechtshandeling|rechtshandelingen">rechtshandeling</dfn> is een specialisatie van [=rechtsfeit=] en heeft [=rechtsgevolgen=] en is een handeling van een [=rechtssubject=] met een beoogd doel. Bijv. Pia doet Carla het aanbod haar fiets voor 95 euro te kopen, mits het aanbod binnen twee dagen aanvaard is. Pia verricht een rechtshandeling. Het beoogde doel is Carla er toe te bewegen haar fiets voor 95 euro te kopen. Als Carla binnen twee dagen het aanbod afwijst is er ook sprake van een rechtshandeling door Carla.  
+  Een <dfn data-lt="Rechtshandeling|rechtshandelingen">rechtshandeling</dfn> is een specialisatie van [=rechtsfeit=] en heeft [=rechtsgevolgen=] en is een handeling van een [=rechtssubject=] met een beoogd doel. Bijv. Pia doet Carla het aanbod haar fiets voor 95 euro te kopen, mits het aanbod binnen twee dagen aanvaard is. Pia verricht een rechtshandeling. Het beoogde doel is Carla ertoe te bewegen haar fiets voor 95 euro te kopen. Als Carla binnen twee dagen het aanbod afwijst is er ook sprake van een rechtshandeling door Carla.  
 
   Een <dfn data-lt="Feitelijke handeling met rechtsgevolg|feitelijke handelingen met rechtsgevolg">feitelijke handeling met rechtsgevolg</dfn> is een specialisatie van [=rechtsfeit=], heeft [=rechtsgevolgen=], maar beoogt die rechtsgevolgen niet. Het is een handeling van een [=rechtssubject=] met een niet beoogd doel. Bijv. Jan maakt per ongeluk een kras op een auto. Niet beoogd, wel aansprakelijk.  
 
-  Een <dfn data-lt="Overtreding met rechtsgevolg">overtreding met rechtsgevolg</dfn> is een specialisatie van rechtsfeit waarbij er sprake is van een handeling van een [=rechtssubject=] die een overtreding is van een aanspraak – verplichting en waarbij het beoogd doel niet binnen scope, oftewel niet relevant is.
+  Een <dfn data-lt="Overtreding met rechtsgevolg">overtreding met rechtsgevolg</dfn> is een specialisatie van [=rechtsfeit=] waarbij er sprake is van een handeling van een [=rechtssubject=] die een overtreding is van een aanspraak – verplichting en waarbij het beoogd doel niet binnen scope, oftewel niet relevant is.
 
-  Een <dfn data-lt="Gebeurtenis met rechtsgevolg">gebeurtenis met rechtsgevolg</dfn> is een specialisatie van rechtsfeit waarbij er sprake is van en gebeurtenis die optreedt zonder handelend [=rechtssubject=] en waarbij de tijd geen rol speelt. Bijv. een blikseminslag; geboren worden; sterven.  
+  Een <dfn data-lt="Gebeurtenis met rechtsgevolg">gebeurtenis met rechtsgevolg</dfn> is een specialisatie van [=rechtsfeit=] waarbij er sprake is van en gebeurtenis die optreedt zonder handelend [=rechtssubject=] en waarbij de tijd geen rol speelt. Bijv. een blikseminslag; geboren worden; sterven.  
 
-  Een <dfn data-lt="Tijdsverloop met rechtsgevolg">tijdsverloop met rechtsgevolg</dfn> is een specialisatie van rechtsfeit waarbij er sprake is van een gebeurtenis die optreedt zonder handelend [=rechtssubject=] en die optreedt na een bepaald tijdsverloop. Bijv. meerderjarig worden bij 18 jaar.
+  Een <dfn data-lt="Tijdsverloop met rechtsgevolg">tijdsverloop met rechtsgevolg</dfn> is een specialisatie van [=rechtsfeit=] waarbij er sprake is van een gebeurtenis die optreedt zonder handelend [=rechtssubject=] en die optreedt na een bepaald tijdsverloop. Bijv. meerderjarig worden bij 18 jaar.
 
 Een <dfn data-lt="rechtsgevolgen|Rechtsgevolg">rechtsgevolg</dfn> is de verandering van een [=juridische toestand=] die ontstaat vanwege een [=rechtsfeit=]. Een rechtsgevolg is 1 of meer van de volgende 6:  
   1. het doen ontstaan van een [=rechtsbetrekking=];
@@ -105,11 +105,11 @@ Een <dfn data-lt="niet juridisch relevante teksten">niet juridisch relevante tek
 
 <dfn data-lt="objectief recht">Objectief recht</dfn> is het recht zoals beschreven in wetgeving en daarmee samenhangende hogere en lagere regelgeving.  
 
-<dfn data-lt="subjectief recht">Subjectief recht</dfn> betreft het uitvoeren van [=objectief recht=] in een concreet geval met twee en soms meer rechtssubjecten of het overeenkomen van een overeenkomst en die naleven of niet naleven.
+<dfn data-lt="subjectief recht|subjectieve recht">Subjectief recht</dfn> betreft het uitvoeren van [=objectief recht=] in een concreet geval met twee en soms meer rechtssubjecten of het overeenkomen van een overeenkomst en die naleven of niet naleven.
 
-Vaak helpt de volgende toelichting op objectief en subjectief recht. Objectief recht is het recht zoals beschreven in wet- en regelgeving. In objectief recht hebben we te doen met rechtssubjecttypen, rechtsbetrekkingtypen, rechtsfeittypen of rechtsgevolgtypen. Voorbeelden zijn natuurlijke persoon, voetganger, rechtspersoon.
+Vaak helpt de volgende toelichting op objectief en subjectief recht. [=Objectief recht=] is het recht zoals beschreven in wet- en regelgeving. In objectief recht hebben we te doen met rechtssubjecttypen, rechtsbetrekkingtypen, rechtsfeittypen of rechtsgevolgtypen. Voorbeelden zijn natuurlijke persoon, voetganger, rechtspersoon.
 
-In het subjectieve recht hebben we bij voorbeeld te doen met Andre Rieu, Max Verstappen of ASML. De eerstgenoemde is een instantie van een natuurlijk persoon, en een specialisatie van natuurlijke persoon voor de IB, genaamd binnenlandse belastingplichtige. ASML is een instantie van een rechtspersoon.
+In het [=subjectieve recht=] hebben we bij voorbeeld te doen met Andre Rieu, Max Verstappen of ASML. De eerstgenoemde is een instantie van een natuurlijk persoon, en een specialisatie van natuurlijke persoon voor de IB, genaamd binnenlandse belastingplichtige. ASML is een instantie van een rechtspersoon.
 
 
 Een <dfn data-lt="juridische scenarios">juridisch scenario</dfn> bestaat uit een opeenvolging [=juridische aktes=] en beschrijft de volledig geëxpliciteerde juridische ervaring van de burger of het bedrijf of rechtspersoon.
@@ -122,14 +122,14 @@ Een <dfn data-lt="juridische aktes">juridische akte</dfn> bestaat uit de volgend
 
 Een <dfn data-lt="juridische toestanden">juridische toestand</dfn> bestaat uit een verzameling van [=rechtsbetrekkingen=] en/of [=juridisch relevante feiten=]. Let op: het bestaan van een [=rechtsbetrekking=] impliceert het bestaan van het voordeel-houdende en nadeel-houdende [=rechtssubject=].
 
-Een <dfn data-lt="juridische kennisgebieden">juridisch kennisgebied</dfn>, ook wel aangeduid als [=kennisdomein=] is een afbakening uitgedrukt in de vulling van het juridisch referentiemodel (JRM 2.0) of afgebakend als teksten in de traditioneel beschreven wetgeving.
+Een <dfn data-lt="juridische kennisgebieden|juridisch kennisgebied">juridisch kennisdomein</dfn>, ook wel aangeduid als [=kennisgebied=] is een afbakening uitgedrukt in de vulling van het juridisch referentiemodel (JRM 2.0) of afgebakend als teksten in de traditioneel beschreven wetgeving.
 
-Een <dfn data-lt="kennisdomeinen">kennisdomein</dfn> is een willekeurig afgebakende hoeveelheid kennis.  
+Een <dfn data-lt="kennisdomeinen|kennisgebied">kennisdomein</dfn> is een willekeurig afgebakende hoeveelheid kennis.  
 Bijv. men kan RVV art 74, lid 1 als kennisdomein zien met de naam Voetgangerslicht.  
 Men kan de Inkomstenbelasting als kennisdomein zien, maar men kan een heel klein deel van de Inkomstenbelasting bijv. IB 2.1 als kennisdomein zien met de naam binnenlandse en buitenlandse belastingplichtigen voor de Inkomstenbelasting. Een binnenlandse belastingplichtige voor de Inkomstenbelasting is een natuurlijke persoon die in Nederland woont. Een buitenlandse belastingplichtige voor de Inkomstenbelasting is een natuurlijke persoon die niet in Nederland woont, maar wel Nederlands inkomen geniet.
 In een [=begripsomschrijving=] komen bijna altijd termen voor die in een of meer andere [=begripsomschrijvingen=] worden gedefinieerd. Vanuit een bepaalde begripsomschrijving wordt verwezen naar termen die in een andere begripsomschrijving zijn gedefinieerd. Deze twee [=gegevens=] kunnen door een intelligent systeem automatisch worden aangemaakt.
 
-Een <dfn data-lt="gegevens">gegeven</dfn> is een bewering die voor waar wordt aangenomen.
+Binnen de context van het referentiemodel is een <dfn data-lt="gegevens">gegeven</dfn> is een vastgelegde bewering die voor waar wordt aangenomen.
 Voorbeelden van gegevens.
 Amsterdam is de huidige hoofdstad van Nederland.
 Berlijn is de huidige hoofdstad van Duitsland.
@@ -149,6 +149,7 @@ Deze uitbreiding wordt vaak aangeduid als tijdreizen.
 
 Een <dfn data-lt="overeenkomsten">overeenkomst</dfn> tussen 2 of meer [=rechtssubjecten=] bestaat uit:
   - een verzameling [=begripsomschrijvingen=],  
+  - een verzameling [=afleidingsregels=],
   - een verzameling [=rechtsbetrekkingen=],
   - een verzameling [=rechtsfeiten=] en/of
   - een verzameling [=rechtsgevolgen=]
