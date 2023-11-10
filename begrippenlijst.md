@@ -90,7 +90,7 @@ Een voorwaarde maakt gebruik van 1 of meer [=juridisch relevante feiten=].
 
 Een <dfn data-lt="rechtsobjecten">rechtsobject</dfn> is het voorwerp van een [=rechtsbetrekking=] of van een [=rechtsfeit=]. Een rechtsobject bestaat uit 1 of meer [=juridisch relevante feiten=].
 
-Een <dfn data-lt="afleidingsregel">afleidingsregel</dfn> is een voorschrift dat een of meer [=juridisch relevante feiten=] ([=gegevens=]) als invoer heeft en meestal 1 maar soms meer [=juridisch relevante feiten=] ([=gegevens=]) als uitvoer. Tijdens de uitvoering van de afleidingsregel worden de gegevens in de invoer verwerkt tot gegevens in de uitvoer.
+Een <dfn data-lt="afleidingsregels">afleidingsregel</dfn> is een voorschrift dat een of meer [=juridisch relevante feiten=] ([=gegevens=]) als invoer heeft en meestal 1 maar soms meer [=juridisch relevante feiten=] ([=gegevens=]) als uitvoer. Tijdens de uitvoering van de afleidingsregel worden de gegevens in de invoer verwerkt tot gegevens in de uitvoer.
 
 Een <dfn data-lt="Feit">feit</dfn> is een bewering waarvan wordt aangenomen dat ze waar is. Voorbeelden van feiten zijn: Amsterdam is momenteel de hoofdstad van Nederland. Berlijn is momenteel de hoofdstad van Duitsland. Nederland grenst in het oosten aan Duitsland en in het zuiden aan België.
 
