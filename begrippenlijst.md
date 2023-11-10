@@ -1,6 +1,6 @@
 # Begrippenlijst
 
-Deze lijst van begrippen is in de aanbevolen volgorde van kennisname opgesteld. Daarnaast is het nuttig om een begrippenlijst te hebben in alfabetische volgorde. Deze kan worden gevonden in de [index](#Index).
+Deze lijst van begrippen is in de aanbevolen volgorde van kennisname opgesteld. Daarnaast is het nuttig om een begrippenlijst te hebben in alfabetische volgorde. Deze kan worden gevonden in de [index](#index).
 
 Voorafgaande opmerking met betrekking tot de identificatie van een begrip: Een <dfn data-lt="begrip">begrip</dfn> wordt aangeduid met één enkele voorkeursterm per [=kennisdomein=] en 0, 1 of meer alternatieve termen, oftewel synoniemen.
 
