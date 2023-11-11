@@ -149,10 +149,11 @@ Deze uitbreiding wordt vaak aangeduid als tijdreizen.
 
 Een <dfn data-lt="overeenkomsten">overeenkomst</dfn> tussen 2 of meer [=rechtssubjecten=] bestaat uit:
   - een verzameling [=begripsomschrijvingen=],  
-  - een verzameling [=afleidingsregels=],
-  - een verzameling [=rechtsbetrekkingen=],
+  - een verzameling [=rechtsbetrekkingen=] en/of
   - een verzameling [=rechtsfeiten=] en/of
-  - een verzameling [=rechtsgevolgen=]
-waarbij geldt dat minstens een van de laatste drie verzamelingen niet leeg mag zijn.
+  - een verzameling [=rechtsgevolgen=],
+  - een verzameling [=afleidingsregels=]
+Waarbij geldt dat minstens een van de drie verzamelingen van [=rechtsbetrekking=], [=rechtsfeiten=] en [=rechtsgevolgen=] niet leeg mag zijn.
+
 
 <dfn>RegelSpraak</dfn> RegelSpraak is een gecontroleerde Nederlandse taal die is ontwikkeld bij de Belastingdienst. Deze taal wordt gebruikt om belastingregels mee te beschrijven. De RegelSpraak-regels zijn preciezer dan in de onderliggende wetsartikelen verwoord. Deze precisie van de regels zorgt ervoor dat deze geautomatiseerd ‘vertaald’ kunnen worden naar softwarecode om de bedoelde beoordeling – op basis van gegevens uit de aangifte van het voorgaande jaar – uit te voeren [[[1ekamerregelspraak]]].
