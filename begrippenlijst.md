@@ -148,11 +148,12 @@ Met ingang van 31.12.2098 is de afstand van Maastricht naar Amsterdam niet lange
 Deze uitbreiding wordt vaak aangeduid als tijdreizen.
 
 Een <dfn data-lt="overeenkomsten">overeenkomst</dfn> tussen 2 of meer [=rechtssubjecten=] bestaat uit:
-  - een verzameling [=begripsomschrijvingen=],  
-  - een verzameling [=rechtsbetrekkingen=] en/of
-  - een verzameling [=rechtsfeiten=] en/of
-  - een verzameling [=rechtsgevolgen=],
+  - een verzameling [=begripsomschrijvingen=];  
+  - een verzameling [=rechtsbetrekkingen=] en/of;
+  - een verzameling [=rechtsfeiten=] en/of;
+  - een verzameling [=rechtsgevolgen=];
   - een verzameling [=afleidingsregels=].
+
 
 Waarbij geldt dat minstens een van de drie verzamelingen van [=rechtsbetrekking=], [=rechtsfeiten=] en [=rechtsgevolgen=] niet leeg mag zijn.
 
