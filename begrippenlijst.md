@@ -152,7 +152,7 @@ Een <dfn data-lt="overeenkomsten">overeenkomst</dfn> tussen 2 of meer [=rechtssu
   - een verzameling [=rechtsbetrekkingen=] en/of
   - een verzameling [=rechtsfeiten=] en/of
   - een verzameling [=rechtsgevolgen=],
-  - een verzameling [=afleidingsregels=]
+  - een verzameling [=afleidingsregels=].
 
 Waarbij geldt dat minstens een van de drie verzamelingen van [=rechtsbetrekking=], [=rechtsfeiten=] en [=rechtsgevolgen=] niet leeg mag zijn.
 
