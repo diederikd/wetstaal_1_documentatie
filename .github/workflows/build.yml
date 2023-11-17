@@ -9,10 +9,6 @@ jobs:
   build:
     name: Build
     uses: Logius-standaarden/Automatisering/.github/workflows/build.yml@main
-  check:
-    needs: build
-    name: Check
-    uses: Logius-standaarden/Automatisering/.github/workflows/check.yml@main    
   publish:
     needs: build
     name: Publish (Logius)
