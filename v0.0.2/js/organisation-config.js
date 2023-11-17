@@ -2,21 +2,21 @@
 var organisationConfig = {
     nl_organisationName: "WetsTaal",
     nl_organisationStylesURL: "https://gitdocumentatie.logius.nl/publicatie/respec/style/",
-    nl_organisationPublishURL: "https://diederikd.github.io/JAS_documentatie/",
+    nl_organisationPublishURL: "https://diederikd.github.io/wetstaal_1_documentatie/",
     logos: [{
-        src: "https://raw.githubusercontent.com/diederikd/JAS_documentatie/main/media/logo150.gif",
+        src: "https://raw.githubusercontent.com/diederikd/wetstaal_1_documentatie/main/media/logo150.gif",
         alt: "WetsTaal",
         id: "WetsTaal",
         height: 100,
         width: 100,
-        url: "https://github.com/diederikd/WetsTaal_1_documentatie",
+        url: "https://github.com/diederikd/wetstaal_1_documentatie",
     }],
 
     postProcess: [window.respecMermaid.createFigures],
 
-    latestVersion: ["nl_organisationPublishURL", "pubDomain", "/"],
-    thisVersion: ["nl_organisationPublishURL", "pubDomain", "/", "specStatus", "-", "specType", "-", "shortName", "-", "publishDate"],
-    prevVersion: ["nl_organisationPublishURL", "pubDomain", "/", "previousMaturity", "-", "specType", "-", "shortName", "-", "publishDate"],
+    latestVersion: ["nl_organisationPublishURL", "v", "publishVersion"],
+    thisVersion: ["nl_organisationPublishURL", "v", "publishVersion"],
+    prevVersion: ["nl_organisationPublishURL", "v", "previousVersion"],
     useLogo: true,
     useLabel: true,
 
@@ -113,5 +113,29 @@ var organisationConfig = {
             authors: ["T. Preston-Werner"],
             date: "June 2013"
         },
+        "1ekamerregelspraak": {
+            href: "https://www.eerstekamer.nl/overig/20211012/voorbeeld_van_een_regelspraak",
+            title: "Voorbeeld van een Regelspraak-regel",
+            authors: "M. Lokin",
+            date: "Oktober 2021"
+        },
+        "HandleidingWetsanalyse": {
+            href: "https://wendbarewetsuitvoering.pleio.nl/cms/view/41f08520-3910-4691-a982-f355e199f011/handleiding-wetsanalyse-in-de-praktijk",
+            title: "Handleiding Wetsanalyse in de praktijk",
+            authors: "BRM",
+            date: "9 februari 2023"
+        }, 
+        "Wetsanalyse": {
+            href: "https://www.boom.nl/zoeken/100-11574_Wetsanalyse",
+            title: "Wetsanalyse voor een werkbare uitvoering van wetgeving met ICT",
+            authors: "Ausems A, Bulles J en Lokin M",
+            date: "Juni 2021"
+        }, 
+        "StaatVanDeUitvoering": {
+            href: "https://www.rijksoverheid.nl/documenten/kamerstukken/2023/01/18/bijlage-3-staat-van-de-uitvoering-2022",
+            title: "Staat van de Uitvoering 2022",
+            authors: "Staat van de uitvoering",
+            date: "Januari 2023"
+        }, 
     },
 }

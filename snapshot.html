@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="nl"><head>
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta content="text/html; charset=utf-8" http-equiv="content-type">
-<meta name="generator" content="ReSpec 34.1.1">
+<meta name="generator" content="ReSpec 34.1.4">
 <style>
 .issue-label{text-transform:initial}
 .warning>p:first-child{margin-top:0}
@@ -95,9 +95,8 @@ details.respec-tests-details>ul{width:100%;margin-top:-.3em}
 details.respec-tests-details>li{padding-left:1em}
 .self-link:hover{opacity:1;text-decoration:none;background-color:transparent}
 aside.example .marker>a.self-link{color:inherit}
-.header-wrapper{display:flex;align-items:baseline}
-:is(h2,h3,h4,h5,h6):not(#toc>h2,#abstract>h2,#sotd>h2,.head>h2){position:relative;left:-.5em}
-:is(h2,h3,h4,h5,h6):not(#toch2)+a.self-link{color:inherit;order:-1;position:relative;left:-1.1em;font-size:1rem;opacity:.5}
+.header-wrapper{display:flex;align-items:baseline;position:relative;left:-.5em}
+:is(h2,h3,h4,h5,h6):not(#toch2)+a.self-link{color:inherit;order:-1;position:relative;left:-.7em;font-size:1rem;opacity:.5}
 :is(h2,h3,h4,h5,h6)+a.self-link::before{content:"§";text-decoration:none;color:var(--heading-text)}
 :is(h2,h3)+a.self-link{top:-.2em}
 :is(h4,h5,h6)+a.self-link::before{color:#000}
@@ -107,6 +106,9 @@ dd{margin-left:0}
 @media print{
 .removeOnSave{display:none}
 }
+</style>
+<style id="respec-nlgov">
+img.license{float:left;padding-right:5px}
 </style>
 <style>
 ul.index{columns:30ch;column-gap:1.5em}
@@ -121,7 +123,19 @@ ul.index code{color:inherit}
 </style>
 <meta name="description" content="Tekst">
 <style>
-.sidelabel{position:fixed;-webkit-transform-origin:top right;right:100%;top:0;-webkit-transform:rotate(-90deg);padding:4px 50px 4px 10px;color:#fff;white-space:nowrap;z-index:1}
+
+  .sidelabel {
+    position: fixed;
+    -webkit-transform-origin: top right;
+    right: 100%;
+    top: 0;
+    -webkit-transform: rotate(-90deg);
+    padding: 4px 50px 4px 10px;
+    color: white;
+    white-space: nowrap;
+    z-index: 1;
+    background-color: #32a852;
+  }
 </style>
 <script type="text/javascript">
    /* Any custom mermaid.js scripts will go here. */
@@ -350,7 +364,7 @@ ul.index code{color:inherit}
     <h2>
       WetsTaal Handreiking<br>
       Werkversie
-      <time class="dt-published" datetime="2022-06-24">26 mei 2023</time>
+      <time class="dt-published" datetime="2022-06-24">17 november 2023</time>
     </h2>
     <dl>
       <dt>Deze versie:</dt><dd class="status">
@@ -363,7 +377,7 @@ ul.index code{color:inherit}
       
       
       
-      <dt>Vorige versie</dt><dd><a href="https://diederikd.github.io/wetstaal_1_documentatie/v0.0.1">https://diederikd.github.io/wetstaal_1_documentatie/v0.0.1</a></dd>
+      <dt>Vorige versie:</dt><dd><a href="https://diederikd.github.io/wetstaal_1_documentatie/v0.0.1">https://diederikd.github.io/wetstaal_1_documentatie/v0.0.1</a></dd>
       
       <dt>Redacteur:</dt>
       <dd class="editor p-author h-card vcard">
@@ -395,7 +409,7 @@ ul.index code{color:inherit}
         </p>
     <p class="copyright">
           Dit document valt onder de volgende licentie: 
-          <a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/" class="subfoot">Creative Commons 0 Public Domain Dedication</a>.
+          <a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/" class="subfoot"><img class="license" src="https://tools.geostandaarden.nl/respec/style/logos/CC-Licentie.svg" alt="Logo Creative Commons 0 Public Domain Dedication"><br> Creative Commons 0 Public Domain Dedication</a>
         </p>
     <hr title="Separator for header">
   </div>
@@ -432,7 +446,7 @@ Dit hoofdstuk is toegevoegd met <code>class="informative"</code> in <code>config
 <ul>
 <li>de drager van <a data-link-type="dfn|abstract-op" href="#dfn-rechten" class="internalDFN" id="ref-for-dfn-rechten-1">rechten</a> en <a data-link-type="dfn|abstract-op" href="#dfn-plichten" class="internalDFN" id="ref-for-dfn-plichten-1">plichten</a>, en/of</li>
 <li>de generator van <a data-link-type="dfn|abstract-op" href="#dfn-juridisch-relevante-feiten" class="internalDFN" id="ref-for-dfn-juridisch-relevante-feiten-1">juridisch relevante feiten</a>, en/of</li>
-<li>de uitvoerder van <a data-link-type="dfn|abstract-op" href="#dfn-rechtshandelingen" class="internalDFN" id="ref-for-dfn-rechtshandelingen-1">rechtshandelingen</a> en <a data-link-type="dfn|abstract-op" href="#dfn-feitelijke-handelingen-met-rechtsgevolg" class="internalDFN" id="ref-for-dfn-feitelijke-handelingen-met-rechtsgevolg-1">feitelijke handelingen met rechtsgevolg</a>.</li>
+<li>de uitvoerder van <a data-link-type="dfn|abstract-op" href="#dfn-rechtshandeling" class="internalDFN" id="ref-for-dfn-rechtshandeling-1">rechtshandelingen</a> en <a data-link-type="dfn|abstract-op" href="#dfn-feitelijke-handeling-met-rechtsgevolg" class="internalDFN" id="ref-for-dfn-feitelijke-handeling-met-rechtsgevolg-1">feitelijke handelingen met rechtsgevolg</a>.</li>
 </ul>
 </section><section id="voorbeelden-van-rechtssubjecten"><div class="header-wrapper"><h3 id="x3-3-voorbeelden-van-rechtssubjecten"><bdi class="secno">3.3 </bdi>Voorbeelden van rechtssubjecten</h3><a class="self-link" href="#voorbeelden-van-rechtssubjecten" aria-label="Permalink for Section 3.3"></a></div>
 <p>In onderstaand diagram zijn een aantal voorbeelden van rechtssubjecten gegeven die bij veel Nederlanders bekend zijn.</p>
@@ -796,30 +810,126 @@ Dit hoofdstuk is toegevoegd met <code>class="informative"</code> in <code>config
 <div class="note" role="note" id="issue-container-generatedID-6"><div role="heading" class="note-title marker" id="h-note-6" aria-level="3"><span>Noot</span><span class="issue-label">: index</span></div><p class="">
 Dit hoofdstuk is toegevoegd met <code>class="informative"</code> in <code>config.js</code>.
 </p></div></section><section id="begrippenlijst"><div class="header-wrapper"><h2 id="x14-begrippenlijst"><bdi class="secno">14. </bdi>Begrippenlijst</h2><a class="self-link" href="#begrippenlijst" aria-label="Permalink for Section 14."></a></div>
-<p>Een <dfn data-lt="rechtssubjecten|rechtssubject" id="dfn-rechtssubjecten" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">rechtssubject</dfn> is</p>
-<ul>
-<li>de drager van rechten en plichten, en/of</li>
-<li>de generator van <a data-link-type="dfn|abstract-op" href="#dfn-juridisch-relevante-feiten" class="internalDFN" id="ref-for-dfn-juridisch-relevante-feiten-2">juridisch relevante feiten</a>, en/of</li>
-<li>de uitvoerder van <a data-link-type="dfn|abstract-op" href="#dfn-rechtshandelingen" class="internalDFN" id="ref-for-dfn-rechtshandelingen-2">rechtshandelingen</a> en <a data-link-type="dfn|abstract-op" href="#dfn-feitelijke-handelingen-met-rechtsgevolg" class="internalDFN" id="ref-for-dfn-feitelijke-handelingen-met-rechtsgevolg-2">feitelijke handelingen met rechtsgevolg</a>.</li>
-</ul>
-<p>Een <dfn data-lt="rechtsbetrekkingen|rechtsbetrekking" id="dfn-rechtsbetrekkingen" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">rechtsbetrekking</dfn> is een juridische relatie tussen twee <a data-link-type="dfn|abstract-op" href="#dfn-rechtssubjecten" class="internalDFN" id="ref-for-dfn-rechtssubjecten-3">rechtssubjecten</a>, waarbij
--	die relatie komt met een hoofdsoort, en
--	elke hoofdsoort heeft meer ondersoorten,
--	het ene <a data-link-type="dfn|abstract-op" href="#dfn-rechtssubjecten" class="internalDFN" id="ref-for-dfn-rechtssubjecten-4">rechtssubject</a> de voordeel-kant heeft en
--	het andere <a data-link-type="dfn|abstract-op" href="#dfn-rechtssubjecten" class="internalDFN" id="ref-for-dfn-rechtssubjecten-5">rechtssubject</a> de nadeel-kant,
--	betreffende het rechtsobject en
--	geldig is onder de gespecificeerde voorwaarden.</p>
-<p>Een <dfn data-lt="juridisch relevante feiten|juridisch relevant feit" id="dfn-juridisch-relevante-feiten" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">juridisch relevant feit</dfn> is een feit dat voorkomt in een:</p>
-<ul>
-<li>voorwaarde, en/of</li>
-<li>rechtsobject en/of</li>
-<li>afleidingsregel</li>
-</ul>
-<p>van een model voor wetgeving of wetsuitvoering.</p>
-<p>Een <dfn data-lt="rechtshandelingen|rechtshandeling" id="dfn-rechtshandelingen" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">rechtshandeling</dfn> heeft rechtsgevolgen en een beoogd doel.</p>
-<p>Een <dfn data-lt="feitelijke handelingen met rechtsgevolg|feitelijke handeling met rechtsgevolg" id="dfn-feitelijke-handelingen-met-rechtsgevolg" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">feitelijke handeling met rechtsgevolg</dfn> heeft rechtsgevolgen, maar beoogt die rechtsgevolgen niet.</p>
+<p>Deze lijst van begrippen is in de aanbevolen volgorde van kennisname opgesteld. Daarnaast is het nuttig om een begrippenlijst te hebben in alfabetische volgorde. Deze kan worden gevonden in de <a href="#index">index</a>.</p>
+<p>Voorafgaande opmerking met betrekking tot de identificatie van een begrip: Een <dfn data-lt="begrip" id="dfn-begrip" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">begrip</dfn> wordt aangeduid met één enkele voorkeursterm per <a data-link-type="dfn|abstract-op" href="#dfn-kennisdomeinen" class="internalDFN" id="ref-for-dfn-kennisdomeinen-1">kennisdomein</a> en 0, 1 of meer alternatieve termen, oftewel synoniemen.</p>
 <p>Een <dfn data-lt="rechten|recht" id="dfn-rechten" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">recht</dfn> is een soort voordeel.</p>
 <p>Een <dfn data-lt="plichten|plicht" id="dfn-plichten" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">plicht</dfn> is een soort nadeel.</p>
+<p>Een <dfn data-lt="begripsdefinitie|begripsomschrijving|begripsomschrijvingen" id="dfn-begripsdefinitie" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">begripsdefinitie</dfn> is de uitleg of omschrijving van de betekenis van een <a data-link-type="dfn|abstract-op" href="#dfn-begrip" class="internalDFN" id="ref-for-dfn-begrip-1">begrip</a>. Een voorbeeld hiervan is de beschrijving van de modelelementen van wetgeving zoals <a data-link-type="dfn|abstract-op" href="#dfn-rechtssubjecten" class="internalDFN" id="ref-for-dfn-rechtssubjecten-3">rechtssubject</a>, <a data-link-type="dfn|abstract-op" href="#dfn-rechtsbetrekkingen" class="internalDFN" id="ref-for-dfn-rechtsbetrekkingen-1">rechtsbetrekking</a>, <a data-link-type="dfn|abstract-op" href="#dfn-rechtsfeit" class="internalDFN" id="ref-for-dfn-rechtsfeit-1">rechtsfeit</a> of <a data-link-type="dfn|abstract-op" href="#dfn-rechtsgevolgen" class="internalDFN" id="ref-for-dfn-rechtsgevolgen-1">rechtsgevolg</a>.</p>
+<p>Een <dfn data-lt="rechtssubjecten|rechtssubject" id="dfn-rechtssubjecten" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">rechtssubject</dfn> rechtssubject is een drager van <a data-link-type="dfn|abstract-op" href="#dfn-rechten" class="internalDFN" id="ref-for-dfn-rechten-3">rechten</a> (de voordeelkant-houder in een <a data-link-type="dfn|abstract-op" href="#dfn-rechtsbetrekkingen" class="internalDFN" id="ref-for-dfn-rechtsbetrekkingen-2">rechtsbetrekking</a>) en/of <a data-link-type="dfn|abstract-op" href="#dfn-plichten" class="internalDFN" id="ref-for-dfn-plichten-3">plichten</a> (de nadeelkant-houder in een <a data-link-type="dfn|abstract-op" href="#dfn-rechtsbetrekkingen" class="internalDFN" id="ref-for-dfn-rechtsbetrekkingen-3">rechtsbetrekking</a>), en/of een uitvoerder van een <a data-link-type="dfn|abstract-op" href="#dfn-rechtshandeling" class="internalDFN" id="ref-for-dfn-rechtshandeling-2">rechtshandeling</a>, een <a data-link-type="dfn|abstract-op" href="#dfn-feitelijke-handeling-met-rechtsgevolg" class="internalDFN" id="ref-for-dfn-feitelijke-handeling-met-rechtsgevolg-2">feitelijke handeling met rechtsgevolg</a> of een <a data-link-type="dfn|abstract-op" href="#dfn-overtreding-met-rechtsgevolg" class="internalDFN" id="ref-for-dfn-overtreding-met-rechtsgevolg-1">overtreding met rechtsgevolg</a>.  </p>
+<p>Een <dfn data-lt="rechtsbetrekkingen|rechtsbetrekking" id="dfn-rechtsbetrekkingen" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">rechtsbetrekking</dfn> is een een juridische relatie tussen twee <a data-link-type="dfn|abstract-op" href="#dfn-rechtssubjecten" class="internalDFN" id="ref-for-dfn-rechtssubjecten-4">rechtssubjecten</a>, waarbij het ene rechtssubject de voordeel-kant heeft en het andere rechtssubject de nadeel-kant, betreffende het <a data-link-type="dfn|abstract-op" href="#dfn-rechtsobjecten" class="internalDFN" id="ref-for-dfn-rechtsobjecten-1">rechtsobject</a> en onder de gespecificeerde (mogelijke samengestelde) <a data-link-type="dfn|abstract-op" href="#dfn-voorwaarden" class="internalDFN" id="ref-for-dfn-voorwaarden-1">voorwaarde</a>. Een rechtsbetrekking is altijd gebonden aan een <a data-link-type="dfn|abstract-op" href="#dfn-voorwaarden" class="internalDFN" id="ref-for-dfn-voorwaarden-2">voorwaarde</a> en heeft altijd een <a data-link-type="dfn|abstract-op" href="#dfn-rechtsobjecten" class="internalDFN" id="ref-for-dfn-rechtsobjecten-2">rechtsobject</a>. Er zijn drie soorten rechtsbetrekkingen, te weten:</p>
+<ol>
+<li><a data-link-type="dfn|abstract-op" href="#dfn-aanspraak-verplichting" class="internalDFN" id="ref-for-dfn-aanspraak-verplichting-1">Aanspraak – verplichting</a></li>
+<li><a data-link-type="dfn|abstract-op" href="#dfn-verlof-vrijheid-geenaanspraak" class="internalDFN" id="ref-for-dfn-verlof-vrijheid-geenaanspraak-1">Verlof (vrijheid) – geenaanspraak</a></li>
+<li><a data-link-type="dfn|abstract-op" href="#dfn-bevoegdheid-gehoudenheid" class="internalDFN" id="ref-for-dfn-bevoegdheid-gehoudenheid-1">Bevoegdheid – gehoudenheid</a></li>
+</ol>
+<p>Een <dfn data-lt="Aanspraak – verplichting|aanspraak – verplichting" id="dfn-aanspraak-verplichting" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">aanspraak – verplichting</dfn> is een soort rechtsbetrekking waarbij het nadeel-houdende rechtssubject een verplichting dient na te komen, terwijl het voordeel-houdende rechtssubject aanspraak heeft op het nakomen van deze verplichting. Het nadeel-houdende rechtssubject is het actieve rechtssubject (ook wel ‘<a data-link-type="dfn|abstract-op" href="#dfn-actieve-rechtssubject" class="internalDFN" id="ref-for-dfn-actieve-rechtssubject-1">actieveling</a>’ genoemd).
+Van de soort rechtsbetrekking aanspraak – verplichting bestaan vier ondersoorten:</p>
+<ol>
+<li><a data-link-type="dfn|abstract-op" href="#dfn-krachtige-aanspraak-fatale-verplichting" class="internalDFN" id="ref-for-dfn-krachtige-aanspraak-fatale-verplichting-1">Krachtige aanspraak – fatale verplichting</a></li>
+<li><a data-link-type="dfn|abstract-op" href="#dfn-krachtige-aanspraak-of-aanspraak-na-ingebrekestelling-fatale-verplichting-of-verplichting-na-ingebrekestelling" class="internalDFN" id="ref-for-dfn-krachtige-aanspraak-of-aanspraak-na-ingebrekestelling-fatale-verplichting-of-verplichting-na-ingebrekestelling-1">Krachtige aanspraak of aanspraak na ingebrekestelling – fatale verplichting of verplichting na ingebrekestelling</a></li>
+<li><a data-link-type="dfn|abstract-op" href="#dfn-aanspraak-na-ingebrekestelling-verplichting-na-ingebrekestelling" class="internalDFN" id="ref-for-dfn-aanspraak-na-ingebrekestelling-verplichting-na-ingebrekestelling-1">Aanspraak na ingebrekestelling – verplichting na ingebrekestelling</a></li>
+<li><a data-link-type="dfn|abstract-op" href="#dfn-zwakke-aanspraak-zwakke-verplichting" class="internalDFN" id="ref-for-dfn-zwakke-aanspraak-zwakke-verplichting-1">Zwakke aanspraak – zwakke verplichting</a></li>
+</ol>
+<p>Een <dfn data-lt="Krachtige aanspraak – fatale verplichting|krachtige aanspraak – fatale verplichting" id="dfn-krachtige-aanspraak-fatale-verplichting" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">krachtige aanspraak – fatale verplichting</dfn> is een ondersoort van de soort rechtsbetrekking <a data-link-type="dfn|abstract-op" href="#dfn-aanspraak-verplichting" class="internalDFN" id="ref-for-dfn-aanspraak-verplichting-2">aanspraak – verplichting</a>. Indien het nadeel-houdende rechtssubject zijn fatale verplichting niet nakomt, krijgt de aanspraak-houder van wetswege de optionele of verplichte bevoegdheid een boete op te leggen aan het rechtssubject dat de fatale verplichting niet is nagekomen.</p>
+<p>Een <dfn data-lt="Krachtige aanspraak of aanspraak na ingebrekestelling – fatale verplichting of verplichting na ingebrekestelling|krachtige aanspraak of aanspraak na ingebrekestelling – fatale verplichting of verplichting na ingebrekestelling" id="dfn-krachtige-aanspraak-of-aanspraak-na-ingebrekestelling-fatale-verplichting-of-verplichting-na-ingebrekestelling" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">krachtige aanspraak of aanspraak na ingebrekestelling – fatale verplichting of verplichting na ingebrekestelling</dfn> is een ondersoort van de soort rechtsbetrekking <a data-link-type="dfn|abstract-op" href="#dfn-aanspraak-verplichting" class="internalDFN" id="ref-for-dfn-aanspraak-verplichting-3">aanspraak – verplichting</a>. Bij een krachtige aanspraak of aanspraak na ingebrekestelling – fatale verplichting of verplichting na ingebrekestelling ligt, voorafgaand aan een rechtsfeit in de context van die rechtsbetrekking, niet vast welke van de twee opties geldig is. Denk aan een agent die meteen een boete kan uitdelen of eerst een waarschuwing geeft. Het nadeel-houdende rechtssubject weet vooraf niet welke keuze de agent gaat maken.</p>
+<p>Een <dfn data-lt="Aanspraak na ingebrekestelling – verplichting na ingebrekestelling|aanspraak na ingebrekestelling – verplichting na ingebrekestelling" id="dfn-aanspraak-na-ingebrekestelling-verplichting-na-ingebrekestelling" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">aanspraak na ingebrekestelling – verplichting na ingebrekestelling</dfn> is een ondersoort van de soort rechtsbetrekking <a data-link-type="dfn|abstract-op" href="#dfn-aanspraak-verplichting" class="internalDFN" id="ref-for-dfn-aanspraak-verplichting-4">aanspraak – verplichting</a>. Bij een aanspraak na ingebrekestelling – verplichting na ingebrekestelling geldt het volgende: indien de plicht-houder niet aan zijn verplichting voldoet, dan dient de aanspraak-houder de plichthouder schriftelijk een redelijke termijn te geven om alsnog aan de verplichting te voldoen. Voldoet de plichthouder hier niet aan, dan wordt de aanspraak – plicht verhoogd naar een krachtige aanspraak – fatale verplichting.  </p>
+<p>Een <dfn data-lt="Zwakke aanspraak – zwakke verplichting|zwakke aanspraak – zwakke verplichting" id="dfn-zwakke-aanspraak-zwakke-verplichting" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">zwakke aanspraak – zwakke verplichting</dfn> is een ondersoort van de soort rechtsbetrekking <a data-link-type="dfn|abstract-op" href="#dfn-aanspraak-verplichting" class="internalDFN" id="ref-for-dfn-aanspraak-verplichting-5">aanspraak – verplichting</a>. Bij het niet nakomen van de zwakke verplichting heeft de zwakke aanspraakhouder geen recht een boete op te leggen. Wel is gebleken uit jurisprudentie bijv. van de Wet flexibel werken dat een werkgever die niet voldoet aan artikel 2, lid 4 van de wet flexibele werken (de werkgever overlegt met de werknemer) (een zwakke verplichting) daarmee een juridisch relevant feit in het leven roept waarmee de rechter rekening houdt.</p>
+<p>Een <dfn data-lt="Verlof (vrijheid) – geenaanspraak|verlof (vrijheid) – geenaanspraak" id="dfn-verlof-vrijheid-geenaanspraak" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">verlof (vrijheid) – geenaanspraak</dfn> is een soort rechtsbetrekking waarbij de voordeel-houder het verlof (de vrijheid) heeft, om al dan niet gebruik te maken van zijn verlof en de nadeel-houder heeft dat maar te accepteren. Een verlof is een keuze iets te doen of te laten, zoals het al dan niet gebruik maken van een rijbewijs om te mogen rijden in een auto of een paspoort om de grens te mogen passeren. De actieveling is de voordeelhouder, de houder van het verlof.
+De term geenaanspraak is in het Engels een eeuw geleden ingevoerd door Hohfeld.
+Van de soort rechtsbetrekking verlof – geenaanspraak bestaat twee ondersoorten:</p>
+<ol>
+<li><a data-link-type="dfn|abstract-op" href="#dfn-rechtsfeitbaar-verlof" class="internalDFN" id="ref-for-dfn-rechtsfeitbaar-verlof-1">Rechtsfeitbaar verlof</a></li>
+<li><a data-link-type="dfn|abstract-op" href="#dfn-niet-rechtsfeitbaar-verlof" class="internalDFN" id="ref-for-dfn-niet-rechtsfeitbaar-verlof-1">Niet rechtsfeitbaar verlof</a></li>
+</ol>
+<p>Een <dfn data-lt="Rechtsfeitbaar verlof|rechtsfeitbaar verlof" id="dfn-rechtsfeitbaar-verlof" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">rechtsfeitbaar verlof</dfn> is een ondersoort van de soort rechtsbetrekking <a data-link-type="dfn|abstract-op" href="#dfn-verlof-vrijheid-geenaanspraak" class="internalDFN" id="ref-for-dfn-verlof-vrijheid-geenaanspraak-2">verlof (vrijheid) – geenaanspraak</a>. Een rechtsfeitbaar verlof is een verlof waarbij het daadwerkelijk uitoefenen van het verlof een rechtsfeit is en dus rechtsgevolgen heeft. Bijv. indien iemand die vanwege met 70 km/u geflitst word in een max 50 km/u zone, van het CJIB een fatale boete opgelegd krijgt maar tevens een verlof krijgt die boete al vanaf ontvangst van de boetebrief te mogen betalen en hij maakt gebruik van dat verlof, dan heeft die rechtshandeling als gevolg dat daarmee ook logisch wordt voldaan aan de fatale boete. Men zou kunnen zeggen dat dit een indirect gevolg is van het rechtsfeit van het verlof uitoefenen.</p>
+<p>Een <dfn data-lt="Niet rechtsfeitbaar verlof|niet rechtsfeitbaar verlof" id="dfn-niet-rechtsfeitbaar-verlof" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">niet rechtsfeitbaar verlof</dfn> is een ondersoort van de soort rechtsbetrekking <a data-link-type="dfn|abstract-op" href="#dfn-verlof-vrijheid-geenaanspraak" class="internalDFN" id="ref-for-dfn-verlof-vrijheid-geenaanspraak-3">verlof (vrijheid) – geenaanspraak</a>. Een niet rechtsfeitbaar verlof is een verlof indien zowel het gebruik maken van het verlof maar ook het niet gebruik maken van het verlof tot geen rechtsfeit leidt. Bijvoorbeeld bij het al dan niet gebruik maken van het recht je mening te uiten.   </p>
+<p>Een <dfn data-lt="Bevoegdheid – gehoudenheid|bevoegdheid – gehoudenheid" id="dfn-bevoegdheid-gehoudenheid" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">bevoegdheid – gehoudenheid</dfn> is een soort rechtsbetrekking. Een bevoegdheid geeft de mogelijkheid de bestaande <a data-link-type="dfn|abstract-op" href="#dfn-juridische-toestanden" class="internalDFN" id="ref-for-dfn-juridische-toestanden-1">juridische toestand</a> aan te passen door het uitvoeren van de bijbehorende <a data-link-type="dfn|abstract-op" href="#dfn-rechtshandeling" class="internalDFN" id="ref-for-dfn-rechtshandeling-3">rechtshandeling</a>.</p>
+<p>De <a data-link-type="dfn|abstract-op" href="#dfn-actieve-rechtssubject" class="internalDFN" id="ref-for-dfn-actieve-rechtssubject-2">actieveling</a> is de voordeelhouder, de houder van de bevoegdheid.
+Van de soort rechtsbetrekking bevoegdheid – gehoudenheid bestaan twee ondersoorten:</p>
+<ol>
+<li><a data-link-type="dfn|abstract-op" href="#dfn-gebonden-bevoegdheid" class="internalDFN" id="ref-for-dfn-gebonden-bevoegdheid-1">Gebonden bevoegdheid</a></li>
+<li><a data-link-type="dfn|abstract-op" href="#dfn-optionele-bevoegdheid" class="internalDFN" id="ref-for-dfn-optionele-bevoegdheid-1">Optionele bevoegdheid</a></li>
+</ol>
+<p>Een <dfn data-lt="Gebonden bevoegdheid|gebonden bevoegdheid" id="dfn-gebonden-bevoegdheid" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">gebonden bevoegdheid</dfn>is een ondersoort van de soort rechtsbetrekking <a data-link-type="dfn|abstract-op" href="#dfn-bevoegdheid-gehoudenheid" class="internalDFN" id="ref-for-dfn-bevoegdheid-gehoudenheid-2">bevoegdheid – gehoudenheid</a>. Bij een gebonden bevoegdheid heeft de bevoegdheidshouder tevens de verplichting de bevoegdheid uit te oefenen. Bijv. het CJIB verkrijgt de gebonden bevoegdheid een boete op te leggen bij geflitst worden met te hard rijden. Waarom is dat zo? Om gelijke behandeling te kunnen garanderen.</p>
+<p>Een <dfn data-lt="Optionele bevoegdheid|optionele bevoegdheid" id="dfn-optionele-bevoegdheid" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">optionele bevoegdheid</dfn> is een ondersoort van de soort rechtsbetrekking <a data-link-type="dfn|abstract-op" href="#dfn-bevoegdheid-gehoudenheid" class="internalDFN" id="ref-for-dfn-bevoegdheid-gehoudenheid-3">bevoegdheid – gehoudenheid</a>. Bij een optionele bevoegdheid heeft de voordeel-houder de keuze al dan niet zijn bevoegdheid uit te oefenen. Volgens het burgerlijk wetboek geldt dat als iemand niet voldoet aan een fatale verplichting, dan is de aanspraak-houder niet verplicht gebruik te maken van de bevoegdheid hem aansprakelijk te stellen. Dit is een wezenlijk verschil tussen het burgerlijk wetboek en onder meer de wet Mulder.</p>
+<p>De <dfn data-lt="actieve rechtssubject|actieveling" id="dfn-actieve-rechtssubject" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">actieveling</dfn>, of het actieve rechtssubject, in een <a data-link-type="dfn|abstract-op" href="#dfn-rechtsbetrekkingen" class="internalDFN" id="ref-for-dfn-rechtsbetrekkingen-4">rechtsbetrekking</a> is de uitvoerder van het bijbehorend <a data-link-type="dfn|abstract-op" href="#dfn-rechtsfeit" class="internalDFN" id="ref-for-dfn-rechtsfeit-2">rechtsfeit</a>. Bij een <a data-link-type="dfn|abstract-op" href="#dfn-aanspraak-verplichting" class="internalDFN" id="ref-for-dfn-aanspraak-verplichting-6">Aanspraak – verplichting</a> is het nadeel-houdende rechtssubject (de verplichting-houder) de actieveling, terwijl bij een <a data-link-type="dfn|abstract-op" href="#dfn-verlof-vrijheid-geenaanspraak" class="internalDFN" id="ref-for-dfn-verlof-vrijheid-geenaanspraak-4">Verlof (vrijheid) – geenaanspraak</a> en <a data-link-type="dfn|abstract-op" href="#dfn-bevoegdheid-gehoudenheid" class="internalDFN" id="ref-for-dfn-bevoegdheid-gehoudenheid-4">Bevoegdheid – gehoudenheid</a> het voordeel-houdende rechtssubject (verlofhouder, bevoegdheid-houder) altijd de actieveling is.</p>
+<p>Een <dfn data-lt="Rechtsfeit|rechtsfeiten|rechtsfeit" id="dfn-rechtsfeit" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">rechtsfeit</dfn> (juridische toestandsveranderaar) is een handeling door een <a data-link-type="dfn|abstract-op" href="#dfn-rechtssubjecten" class="internalDFN" id="ref-for-dfn-rechtssubjecten-5">rechtssubject</a> of een gebeurtenis (niet door een rechtssubject veroorzaakt) die 1 of meer rechtsgevolgen heeft. Een rechtsfeit zet de verandering van een juridische toestand in gang, dus de veranderaar. De verandering zelve wordt een rechtsgevolg genoemd. In het totaal zijn er vijf soorten rechtsfeiten:  </p>
+<ol>
+<li><a data-link-type="dfn|abstract-op" href="#dfn-rechtshandeling" class="internalDFN" id="ref-for-dfn-rechtshandeling-4">Rechtshandeling</a></li>
+<li><a data-link-type="dfn|abstract-op" href="#dfn-feitelijke-handeling-met-rechtsgevolg" class="internalDFN" id="ref-for-dfn-feitelijke-handeling-met-rechtsgevolg-3">Feitelijke handeling met rechtsgevolg</a></li>
+<li><a data-link-type="dfn|abstract-op" href="#dfn-overtreding-met-rechtsgevolg" class="internalDFN" id="ref-for-dfn-overtreding-met-rechtsgevolg-2">Overtreding met rechtsgevolg</a></li>
+<li><a data-link-type="dfn|abstract-op" href="#dfn-gebeurtenis-met-rechtsgevolg" class="internalDFN" id="ref-for-dfn-gebeurtenis-met-rechtsgevolg-1">Gebeurtenis met rechtsgevolg</a></li>
+<li><a data-link-type="dfn|abstract-op" href="#dfn-tijdsverloop-met-rechtsgevolg" class="internalDFN" id="ref-for-dfn-tijdsverloop-met-rechtsgevolg-1">Tijdsverloop met rechtsgevolg</a>.</li>
+</ol>
+<p>  Een <dfn data-lt="Rechtshandeling|rechtshandelingen|rechtshandeling" id="dfn-rechtshandeling" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">rechtshandeling</dfn> is een specialisatie van <a data-link-type="dfn|abstract-op" href="#dfn-rechtsfeit" class="internalDFN" id="ref-for-dfn-rechtsfeit-3">rechtsfeit</a> en heeft <a data-link-type="dfn|abstract-op" href="#dfn-rechtsgevolgen" class="internalDFN" id="ref-for-dfn-rechtsgevolgen-2">rechtsgevolgen</a> en is een handeling van een <a data-link-type="dfn|abstract-op" href="#dfn-rechtssubjecten" class="internalDFN" id="ref-for-dfn-rechtssubjecten-6">rechtssubject</a> met een beoogd doel. Bijv. Pia doet Carla het aanbod haar fiets voor 95 euro te kopen, mits het aanbod binnen twee dagen aanvaard is. Pia verricht een rechtshandeling. Het beoogde doel is Carla ertoe te bewegen haar fiets voor 95 euro te kopen. Als Carla binnen twee dagen het aanbod afwijst is er ook sprake van een rechtshandeling door Carla.  </p>
+<p>  Een <dfn data-lt="Feitelijke handeling met rechtsgevolg|feitelijke handelingen met rechtsgevolg|feitelijke handeling met rechtsgevolg" id="dfn-feitelijke-handeling-met-rechtsgevolg" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">feitelijke handeling met rechtsgevolg</dfn> is een specialisatie van <a data-link-type="dfn|abstract-op" href="#dfn-rechtsfeit" class="internalDFN" id="ref-for-dfn-rechtsfeit-4">rechtsfeit</a>, heeft <a data-link-type="dfn|abstract-op" href="#dfn-rechtsgevolgen" class="internalDFN" id="ref-for-dfn-rechtsgevolgen-3">rechtsgevolgen</a>, maar beoogt die rechtsgevolgen niet. Het is een handeling van een <a data-link-type="dfn|abstract-op" href="#dfn-rechtssubjecten" class="internalDFN" id="ref-for-dfn-rechtssubjecten-7">rechtssubject</a> met een niet beoogd doel. Bijv. Jan maakt per ongeluk een kras op een auto. Niet beoogd, wel aansprakelijk.  </p>
+<p>  Een <dfn data-lt="Overtreding met rechtsgevolg|overtreding met rechtsgevolg" id="dfn-overtreding-met-rechtsgevolg" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">overtreding met rechtsgevolg</dfn> is een specialisatie van <a data-link-type="dfn|abstract-op" href="#dfn-rechtsfeit" class="internalDFN" id="ref-for-dfn-rechtsfeit-5">rechtsfeit</a> waarbij er sprake is van een handeling van een <a data-link-type="dfn|abstract-op" href="#dfn-rechtssubjecten" class="internalDFN" id="ref-for-dfn-rechtssubjecten-8">rechtssubject</a> die een overtreding is van een aanspraak – verplichting en waarbij het beoogd doel niet binnen scope, oftewel niet relevant is.</p>
+<p>  Een <dfn data-lt="Gebeurtenis met rechtsgevolg|gebeurtenis met rechtsgevolg" id="dfn-gebeurtenis-met-rechtsgevolg" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">gebeurtenis met rechtsgevolg</dfn> is een specialisatie van <a data-link-type="dfn|abstract-op" href="#dfn-rechtsfeit" class="internalDFN" id="ref-for-dfn-rechtsfeit-6">rechtsfeit</a> waarbij er sprake is van en gebeurtenis die optreedt zonder handelend <a data-link-type="dfn|abstract-op" href="#dfn-rechtssubjecten" class="internalDFN" id="ref-for-dfn-rechtssubjecten-9">rechtssubject</a> en waarbij de tijd geen rol speelt. Bijv. een blikseminslag; geboren worden; sterven.  </p>
+<p>  Een <dfn data-lt="Tijdsverloop met rechtsgevolg|tijdsverloop met rechtsgevolg" id="dfn-tijdsverloop-met-rechtsgevolg" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">tijdsverloop met rechtsgevolg</dfn> is een specialisatie van <a data-link-type="dfn|abstract-op" href="#dfn-rechtsfeit" class="internalDFN" id="ref-for-dfn-rechtsfeit-7">rechtsfeit</a> waarbij er sprake is van een gebeurtenis die optreedt zonder handelend <a data-link-type="dfn|abstract-op" href="#dfn-rechtssubjecten" class="internalDFN" id="ref-for-dfn-rechtssubjecten-10">rechtssubject</a> en die optreedt na een bepaald tijdsverloop. Bijv. meerderjarig worden bij 18 jaar.</p>
+<p>Een <dfn data-lt="rechtsgevolgen|Rechtsgevolg|rechtsgevolg" id="dfn-rechtsgevolgen" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">rechtsgevolg</dfn> is de verandering van een <a data-link-type="dfn|abstract-op" href="#dfn-juridische-toestanden" class="internalDFN" id="ref-for-dfn-juridische-toestanden-2">juridische toestand</a> die ontstaat vanwege een <a data-link-type="dfn|abstract-op" href="#dfn-rechtsfeit" class="internalDFN" id="ref-for-dfn-rechtsfeit-8">rechtsfeit</a>. Een rechtsgevolg is 1 of meer van de volgende 6:  </p>
+<ol>
+<li>het doen ontstaan van een <a data-link-type="dfn|abstract-op" href="#dfn-rechtsbetrekkingen" class="internalDFN" id="ref-for-dfn-rechtsbetrekkingen-5">rechtsbetrekking</a>;</li>
+<li>het aanpassen van een eigenschap van een <a data-link-type="dfn|abstract-op" href="#dfn-rechtsbetrekkingen" class="internalDFN" id="ref-for-dfn-rechtsbetrekkingen-6">rechtsbetrekking</a>;</li>
+<li>het ten einde stellen van een <a data-link-type="dfn|abstract-op" href="#dfn-rechtsbetrekkingen" class="internalDFN" id="ref-for-dfn-rechtsbetrekkingen-7">rechtsbetrekking</a>;</li>
+<li>het doen ontstaan van een <a data-link-type="dfn|abstract-op" href="#dfn-juridisch-relevante-feiten" class="internalDFN" id="ref-for-dfn-juridisch-relevante-feiten-2">juridisch relevant feit</a>;  </li>
+<li>het aanpassen van een eigenschap van een <a data-link-type="dfn|abstract-op" href="#dfn-juridisch-relevante-feiten" class="internalDFN" id="ref-for-dfn-juridisch-relevante-feiten-3">juridisch relevant feit</a>;</li>
+<li>het ten einde stellen van een <a data-link-type="dfn|abstract-op" href="#dfn-juridisch-relevante-feiten" class="internalDFN" id="ref-for-dfn-juridisch-relevante-feiten-4">juridisch relevant feit</a>.</li>
+</ol>
+<p>Een <dfn data-lt="voorwaarden|voorwaarde" id="dfn-voorwaarden" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">voorwaarde</dfn> is een uitdrukking die aangeeft onder welke condities:</p>
+<ul>
+<li>een specialisatie van een <a data-link-type="dfn|abstract-op" href="#dfn-rechtssubjecten" class="internalDFN" id="ref-for-dfn-rechtssubjecten-11">rechtssubject</a> geldig is;</li>
+<li>een <a data-link-type="dfn|abstract-op" href="#dfn-rechtsbetrekkingen" class="internalDFN" id="ref-for-dfn-rechtsbetrekkingen-8">rechtsbetrekking</a> geldig is;</li>
+<li>een <a data-link-type="dfn|abstract-op" href="#dfn-rechtsfeit" class="internalDFN" id="ref-for-dfn-rechtsfeit-9">rechtsfeit</a> geldig is;</li>
+<li>een afleidingsregel mag worden uitgevoerd.
+Een voorwaarde maakt gebruik van 1 of meer <a data-link-type="dfn|abstract-op" href="#dfn-juridisch-relevante-feiten" class="internalDFN" id="ref-for-dfn-juridisch-relevante-feiten-5">juridisch relevante feiten</a>.</li>
+</ul>
+<p>Een <dfn data-lt="rechtsobjecten|rechtsobject" id="dfn-rechtsobjecten" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">rechtsobject</dfn> is het voorwerp van een <a data-link-type="dfn|abstract-op" href="#dfn-rechtsbetrekkingen" class="internalDFN" id="ref-for-dfn-rechtsbetrekkingen-9">rechtsbetrekking</a> of van een <a data-link-type="dfn|abstract-op" href="#dfn-rechtsfeit" class="internalDFN" id="ref-for-dfn-rechtsfeit-10">rechtsfeit</a>. Een rechtsobject bestaat uit 1 of meer <a data-link-type="dfn|abstract-op" href="#dfn-juridisch-relevante-feiten" class="internalDFN" id="ref-for-dfn-juridisch-relevante-feiten-6">juridisch relevante feiten</a>.</p>
+<p>Een <dfn data-lt="afleidingsregels|afleidingsregel" id="dfn-afleidingsregels" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">afleidingsregel</dfn> is een voorschrift dat een of meer <a data-link-type="dfn|abstract-op" href="#dfn-juridisch-relevante-feiten" class="internalDFN" id="ref-for-dfn-juridisch-relevante-feiten-7">juridisch relevante feiten</a> (<a data-link-type="dfn|abstract-op" href="#dfn-gegevens" class="internalDFN" id="ref-for-dfn-gegevens-1">gegevens</a>) als invoer heeft en meestal 1 maar soms meer <a data-link-type="dfn|abstract-op" href="#dfn-juridisch-relevante-feiten" class="internalDFN" id="ref-for-dfn-juridisch-relevante-feiten-8">juridisch relevante feiten</a> (<a data-link-type="dfn|abstract-op" href="#dfn-gegevens" class="internalDFN" id="ref-for-dfn-gegevens-2">gegevens</a>) als uitvoer. Tijdens de uitvoering van de afleidingsregel worden de gegevens in de invoer verwerkt tot gegevens in de uitvoer.</p>
+<p>Een <dfn data-lt="Feit|feit" id="dfn-feit" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">feit</dfn> is een bewering waarvan wordt aangenomen dat ze waar is. Voorbeelden van feiten zijn: Amsterdam is momenteel de hoofdstad van Nederland. Berlijn is momenteel de hoofdstad van Duitsland. Nederland grenst in het oosten aan Duitsland en in het zuiden aan België.</p>
+<p>Een <dfn data-lt="variabelen|variabele" id="dfn-variabelen" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">variabele</dfn> is een plek om een <a data-link-type="dfn|abstract-op" href="#dfn-waarden" class="internalDFN" id="ref-for-dfn-waarden-1">waarde</a> vast te leggen, waarbij deze waarde kan variëren. Het is essentieel te beseffen dat een variabele bijna altijd onderdeel uitmaakt van een feittype met meer dan één variabele. Bij variabelen is het tevens essentieel onderscheid te maken tussen onafhankelijke (die onder een sleutel vallen, de bepalende variabelen) en de afhankelijke variabelen (die niet onder een sleutel vallen en waarvan de waarde bepaald wordt door de waarden van de bepalende variabelen).
+Stel men meet het gewicht van een patiënt op verschillende tijdstippen in een ziekenhuis. Voorbeeld: patiënt 123 weegt op 2023-08-27-10:05 65.4 kilogram. Dit is een gegeven of feit met drie variabelen. De waarde van de variabele patiënt bepaalt tezamen met de waarde van tijdstip het gewicht.</p>
+<p>Een <dfn data-lt="waarden|waarde" id="dfn-waarden" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">waarde</dfn> is een concreet <a data-link-type="dfn|abstract-op" href="#dfn-gegevens" class="internalDFN" id="ref-for-dfn-gegevens-3">gegeven</a> (€1650, 12,4 %), bijv. de hoogte van het minimumloon in een bepaalde tijdsperiode.</p>
+<p>Een <dfn data-lt="juridisch relevante feiten|juridisch relevant feit" id="dfn-juridisch-relevante-feiten" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">juridisch relevant feit</dfn> is gedefinieerd als een feit dat in een voorwaarde op een <a data-link-type="dfn|abstract-op" href="#dfn-rechtssubjecten" class="internalDFN" id="ref-for-dfn-rechtssubjecten-12">rechtssubject</a>, <a data-link-type="dfn|abstract-op" href="#dfn-rechtsbetrekkingen" class="internalDFN" id="ref-for-dfn-rechtsbetrekkingen-10">rechtsbetrekking</a> of <a data-link-type="dfn|abstract-op" href="#dfn-rechtsfeit" class="internalDFN" id="ref-for-dfn-rechtsfeit-11">rechtsfeit</a> voorkomt, of in een specificatie van een <a data-link-type="dfn|abstract-op" href="#dfn-rechtsobjecten" class="internalDFN" id="ref-for-dfn-rechtsobjecten-3">rechtsobject</a>, of als invoergegeven of uitvoergegeven van een <a data-link-type="dfn|abstract-op" href="#dfn-afleidingsregels" class="internalDFN" id="ref-for-dfn-afleidingsregels-1">afleidingsregel</a>.</p>
+<p>Een <dfn data-lt="niet juridisch relevante teksten|niet juridisch relevante tekst" id="dfn-niet-juridisch-relevante-teksten" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">niet juridisch relevante tekst</dfn> is een stuk tekst dat qua betekenis niet relevant is voor het model van de wetgeving, de wetsuitvoering of juridisch scenario. Bij regelgeving is soms sprake van kleine hoeveelheden tekst die juridisch niet relevant zijn. Het is vaak de taalsuiker.</p>
+<p>Het <dfn data-lt="Objectief recht|objectief recht" id="dfn-objectief-recht" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">objectief recht</dfn> is het recht zoals beschreven in wetgeving en daarmee samenhangende hogere en lagere regelgeving.  </p>
+<p>Het <dfn data-lt="Subjectief recht|subjectieve recht|subjectief recht" id="dfn-subjectief-recht" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">subjectief recht</dfn> betreft het uitvoeren van <a data-link-type="dfn|abstract-op" href="#dfn-objectief-recht" class="internalDFN" id="ref-for-dfn-objectief-recht-1">objectief recht</a> in een concreet geval met twee en soms meer rechtssubjecten of het overeenkomen van een overeenkomst en die naleven of niet naleven.</p>
+<p>Vaak helpt de volgende toelichting op objectief en subjectief recht. <a data-link-type="dfn|abstract-op" href="#dfn-objectief-recht" class="internalDFN" id="ref-for-dfn-objectief-recht-2">Objectief recht</a> is het recht zoals beschreven in wet- en regelgeving. In objectief recht hebben we te doen met rechtssubjecttypen, rechtsbetrekkingtypen, rechtsfeittypen of rechtsgevolgtypen. Voorbeelden zijn natuurlijke persoon, voetganger, rechtspersoon.</p>
+<p>In het <a data-link-type="dfn|abstract-op" href="#dfn-subjectief-recht" class="internalDFN" id="ref-for-dfn-subjectief-recht-1">subjectieve recht</a> hebben we bij voorbeeld te doen met Andre Rieu, Max Verstappen of ASML. De eerstgenoemde is een instantie van een natuurlijk persoon, en een specialisatie van natuurlijke persoon voor de IB, genaamd binnenlandse belastingplichtige. ASML is een instantie van een rechtspersoon.</p>
+<p>Een <dfn data-lt="juridische scenarios|juridisch scenario" id="dfn-juridische-scenarios" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">juridisch scenario</dfn> bestaat uit een opeenvolging <a data-link-type="dfn|abstract-op" href="#dfn-juridische-aktes" class="internalDFN" id="ref-for-dfn-juridische-aktes-1">juridische aktes</a> en beschrijft de volledig geëxpliciteerde juridische ervaring van de burger of het bedrijf of rechtspersoon.</p>
+<p>Een <dfn data-lt="juridische aktes|juridische akte" id="dfn-juridische-aktes" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">juridische akte</dfn> bestaat uit de volgende 4 onderdelen:</p>
+<ol>
+<li>Juridische begintoestand, (een verzameling <a data-link-type="dfn|abstract-op" href="#dfn-rechtsbetrekkingen" class="internalDFN" id="ref-for-dfn-rechtsbetrekkingen-11">rechtsbetrekkingen</a> en/of <a data-link-type="dfn|abstract-op" href="#dfn-juridisch-relevante-feiten" class="internalDFN" id="ref-for-dfn-juridisch-relevante-feiten-9">juridisch relevante feiten</a>)  </li>
+<li><a data-link-type="dfn|abstract-op" href="#dfn-rechtsfeit" class="internalDFN" id="ref-for-dfn-rechtsfeit-12">Rechtsfeit</a> (toestandsverander<strong>aar</strong>),  </li>
+<li><a data-link-type="dfn|abstract-op" href="#dfn-rechtsgevolgen" class="internalDFN" id="ref-for-dfn-rechtsgevolgen-4">Rechtsgevolg</a> (toestandsverander<strong>ing</strong>),  </li>
+<li>Juridische eindtoestand (een verzameling <a data-link-type="dfn|abstract-op" href="#dfn-rechtsbetrekkingen" class="internalDFN" id="ref-for-dfn-rechtsbetrekkingen-12">rechtsbetrekkingen</a> en/of <a data-link-type="dfn|abstract-op" href="#dfn-juridisch-relevante-feiten" class="internalDFN" id="ref-for-dfn-juridisch-relevante-feiten-10">juridisch relevante feiten</a>).</li>
+</ol>
+<p>Een <dfn data-lt="juridische toestanden|juridische toestand" id="dfn-juridische-toestanden" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">juridische toestand</dfn> bestaat uit een verzameling van <a data-link-type="dfn|abstract-op" href="#dfn-rechtsbetrekkingen" class="internalDFN" id="ref-for-dfn-rechtsbetrekkingen-13">rechtsbetrekkingen</a> en/of <a data-link-type="dfn|abstract-op" href="#dfn-juridisch-relevante-feiten" class="internalDFN" id="ref-for-dfn-juridisch-relevante-feiten-11">juridisch relevante feiten</a>. Let op: het bestaan van een <a data-link-type="dfn|abstract-op" href="#dfn-rechtsbetrekkingen" class="internalDFN" id="ref-for-dfn-rechtsbetrekkingen-14">rechtsbetrekking</a> impliceert het bestaan van het voordeel-houdende en nadeel-houdende <a data-link-type="dfn|abstract-op" href="#dfn-rechtssubjecten" class="internalDFN" id="ref-for-dfn-rechtssubjecten-13">rechtssubject</a>.</p>
+<p>Een <dfn data-lt="juridische kennisgebieden|juridisch kennisgebied|juridisch kennisdomein" id="dfn-juridische-kennisgebieden" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">juridisch kennisdomein</dfn>, ook wel aangeduid als <a data-link-type="dfn|abstract-op" href="#dfn-kennisdomeinen" class="internalDFN" id="ref-for-dfn-kennisdomeinen-2">kennisgebied</a> is een afbakening uitgedrukt in de vulling van het juridisch referentiemodel (JRM 2.0) of afgebakend als teksten in de traditioneel beschreven wetgeving.</p>
+<p>Een <dfn data-lt="kennisdomeinen|kennisgebied|kennisdomein" id="dfn-kennisdomeinen" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">kennisdomein</dfn> is een willekeurig afgebakende hoeveelheid kennis.<br>Bijv. men kan RVV art 74, lid 1 als kennisdomein zien met de naam Voetgangerslicht.<br>Men kan de Inkomstenbelasting als kennisdomein zien, maar men kan een heel klein deel van de Inkomstenbelasting bijv. IB 2.1 als kennisdomein zien met de naam binnenlandse en buitenlandse belastingplichtigen voor de Inkomstenbelasting. Een binnenlandse belastingplichtige voor de Inkomstenbelasting is een natuurlijke persoon die in Nederland woont. Een buitenlandse belastingplichtige voor de Inkomstenbelasting is een natuurlijke persoon die niet in Nederland woont, maar wel Nederlands inkomen geniet.
+In een <a data-link-type="dfn|abstract-op" href="#dfn-begripsdefinitie" class="internalDFN" id="ref-for-dfn-begripsdefinitie-1">begripsomschrijving</a> komen bijna altijd termen voor die in een of meer andere <a data-link-type="dfn|abstract-op" href="#dfn-begripsdefinitie" class="internalDFN" id="ref-for-dfn-begripsdefinitie-2">begripsomschrijvingen</a> worden gedefinieerd. Vanuit een bepaalde begripsomschrijving wordt verwezen naar termen die in een andere begripsomschrijving zijn gedefinieerd. Deze twee <a data-link-type="dfn|abstract-op" href="#dfn-gegevens" class="internalDFN" id="ref-for-dfn-gegevens-4">gegevens</a> kunnen door een intelligent systeem automatisch worden aangemaakt.</p>
+<p>Binnen de context van het referentiemodel is een <dfn data-lt="gegevens|gegeven" id="dfn-gegevens" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">gegeven</dfn> is een vastgelegde bewering die voor waar wordt aangenomen.
+Voorbeelden van gegevens.
+Amsterdam is de huidige hoofdstad van Nederland.
+Berlijn is de huidige hoofdstad van Duitsland.
+In beide beweringen treffen we twee ingevulde of geïnstantieerde variabelen aan, te weten het koppel Amsterdam en Nederland en het koppel Berlijn en Duitsland. Verder hebben beide beweringen een gemeenschappelijk werkwoorddeel: is de huidige hoofdstad van.</p>
+<p>De afstand van Maastricht naar Amsterdam is 212 km.
+De afstand van Nijmegen naar Groningen is 194 km.
+In beide beweringen treffen we drie ingevulde variabelen aan, te weten het triple Maastricht, Groningen en 212 en het triple Nijmegen, Groningen en 194.
+Verder hebben beide beweringen een gemeenschappelijk werkwoorddeel: De afstand van … naar … is … km. De drie puntjes duiden op de drie plaatsen waar een <a data-link-type="dfn|abstract-op" href="#dfn-waarden" class="internalDFN" id="ref-for-dfn-waarden-2">waarde</a> van de betreffende <a data-link-type="dfn|abstract-op" href="#dfn-variabelen" class="internalDFN" id="ref-for-dfn-variabelen-1">variabele</a> staat.  </p>
+<p>Een <dfn data-lt="gegevenskwaliteitsregels|gegevenskwaliteitsregel" id="dfn-gegevenskwaliteitsregels" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">gegevenskwaliteitsregel</dfn> (voorheen meestal aangeduid als een beperkingsregel in gegevensmodellering) is een formulering die aangeeft welke toestanden een gegevensverzameling mag aannemen en welke toestandsovergangen toegestaan zijn.
+Bij de <a data-link-type="dfn|abstract-op" href="#dfn-gegevens" class="internalDFN" id="ref-for-dfn-gegevens-5">gegevens</a> van afstand hierboven geldt dat bij elk paar steden er precies één afstand kan voorkomen in de gegevensverzameling.<br>Stel men zou een ondergrondse autoweg aanleggen tussen Maastricht en Amsterdam, dan is het wenselijk het <a data-link-type="dfn|abstract-op" href="#dfn-gegevens" class="internalDFN" id="ref-for-dfn-gegevens-6">gegeven</a> als volgt uit te breiden met de volgende twee gegevens:
+Met ingang van 1.1.2099 is de afstand van Maastricht naar Amsterdam 199 km.
+Met ingang van 31.12.2098 is de afstand van Maastricht naar Amsterdam niet langer 212 km.
+Deze uitbreiding wordt vaak aangeduid als tijdreizen.</p>
+<p>Een <dfn data-lt="overeenkomsten|overeenkomst" id="dfn-overeenkomsten" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">overeenkomst</dfn> tussen 2 of meer <a data-link-type="dfn|abstract-op" href="#dfn-rechtssubjecten" class="internalDFN" id="ref-for-dfn-rechtssubjecten-14">rechtssubjecten</a> bestaat uit:</p>
+<ul>
+<li>een verzameling <a data-link-type="dfn|abstract-op" href="#dfn-begripsdefinitie" class="internalDFN" id="ref-for-dfn-begripsdefinitie-3">begripsomschrijvingen</a>;  </li>
+<li>een verzameling <a data-link-type="dfn|abstract-op" href="#dfn-rechtsbetrekkingen" class="internalDFN" id="ref-for-dfn-rechtsbetrekkingen-15">rechtsbetrekkingen</a> en/of <a data-link-type="dfn|abstract-op" href="#dfn-juridisch-relevante-feiten" class="internalDFN" id="ref-for-dfn-juridisch-relevante-feiten-12">juridisch relevante feiten</a> en/of;</li>
+<li>een verzameling <a data-link-type="dfn|abstract-op" href="#dfn-rechtsfeit" class="internalDFN" id="ref-for-dfn-rechtsfeit-13">rechtsfeiten</a> en/of;</li>
+<li>een verzameling <a data-link-type="dfn|abstract-op" href="#dfn-rechtsgevolgen" class="internalDFN" id="ref-for-dfn-rechtsgevolgen-5">rechtsgevolgen</a>;</li>
+<li>een verzameling <a data-link-type="dfn|abstract-op" href="#dfn-afleidingsregels" class="internalDFN" id="ref-for-dfn-afleidingsregels-2">afleidingsregels</a>.</li>
+</ul>
+<p>Waarbij geldt dat minstens een van de vier verzamelingen van <a data-link-type="dfn|abstract-op" href="#dfn-rechtsbetrekkingen" class="internalDFN" id="ref-for-dfn-rechtsbetrekkingen-16">rechtsbetrekking</a>, <a data-link-type="dfn|abstract-op" href="#dfn-juridisch-relevante-feiten" class="internalDFN" id="ref-for-dfn-juridisch-relevante-feiten-13">juridisch relevante feiten</a>, <a data-link-type="dfn|abstract-op" href="#dfn-rechtsfeit" class="internalDFN" id="ref-for-dfn-rechtsfeit-14">rechtsfeiten</a> en <a data-link-type="dfn|abstract-op" href="#dfn-rechtsgevolgen" class="internalDFN" id="ref-for-dfn-rechtsgevolgen-6">rechtsgevolgen</a> niet leeg mag zijn.</p>
 <p><dfn id="dfn-regelspraak" tabindex="0" aria-haspopup="dialog" data-dfn-type="dfn">RegelSpraak</dfn> RegelSpraak is een gecontroleerde Nederlandse taal die is ontwikkeld bij de Belastingdienst. Deze taal wordt gebruikt om belastingregels mee te beschrijven. De RegelSpraak-regels zijn preciezer dan in de onderliggende wetsartikelen verwoord. Deze precisie van de regels zorgt ervoor dat deze geautomatiseerd ‘vertaald’ kunnen worden naar softwarecode om de bedoelde beoordeling – op basis van gegevens uit de aangifte van het voorgaande jaar – uit te voeren <cite><a data-matched-text="[[[1ekamerregelspraak]]]" href="https://www.eerstekamer.nl/overig/20211012/voorbeeld_van_een_regelspraak">Voorbeeld van een Regelspraak-regel</a></cite>.</p>
 </section>
   <script>
@@ -865,9 +975,59 @@ Dit hoofdstuk is toegevoegd met <code>class="informative"</code> in <code>config
     <div class="header-wrapper"><h3 id="a-1-begrippen-gedefinieerd-door-deze-specificatie"><bdi class="secno">A.1 </bdi>Begrippen gedefinieerd door deze specificatie</h3><a class="self-link" href="#index-defined-here" aria-label="Permalink for Appendix A.1"></a></div>
     <ul class="index">
     <li>
-      <a class="index-term" href="#dfn-feitelijke-handelingen-met-rechtsgevolg">feitelijke handeling met rechtsgevolg</a> 
+      <a class="index-term" href="#dfn-aanspraak-verplichting">aanspraak – verplichting</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-aanspraak-na-ingebrekestelling-verplichting-na-ingebrekestelling">aanspraak na ingebrekestelling – verplichting na ingebrekestelling</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-actieve-rechtssubject">actieveling</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-afleidingsregels">afleidingsregel</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-begrip">begrip</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-begripsdefinitie">begripsdefinitie</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-bevoegdheid-gehoudenheid">bevoegdheid – gehoudenheid</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-feit">feit</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-feitelijke-handeling-met-rechtsgevolg">feitelijke handeling met rechtsgevolg</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-gebeurtenis-met-rechtsgevolg">gebeurtenis met rechtsgevolg</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-gebonden-bevoegdheid">gebonden bevoegdheid</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-gegevens">gegeven</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-gegevenskwaliteitsregels">gegevenskwaliteitsregel</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-juridische-kennisgebieden">juridisch kennisdomein</a> 
     <span class="print-only">§14.</span></li><li>
       <a class="index-term" href="#dfn-juridisch-relevante-feiten">juridisch relevant feit</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-juridische-scenarios">juridisch scenario</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-juridische-aktes">juridische akte</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-juridische-toestanden">juridische toestand</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-kennisdomeinen">kennisdomein</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-krachtige-aanspraak-fatale-verplichting">krachtige aanspraak – fatale verplichting</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-krachtige-aanspraak-of-aanspraak-na-ingebrekestelling-fatale-verplichting-of-verplichting-na-ingebrekestelling">krachtige aanspraak of aanspraak na ingebrekestelling – fatale verplichting of verplichting na ingebrekestelling</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-niet-juridisch-relevante-teksten">niet juridisch relevante tekst</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-niet-rechtsfeitbaar-verlof">niet rechtsfeitbaar verlof</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-objectief-recht">objectief recht</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-optionele-bevoegdheid">optionele bevoegdheid</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-overeenkomsten">overeenkomst</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-overtreding-met-rechtsgevolg">overtreding met rechtsgevolg</a> 
     <span class="print-only">§14.</span></li><li>
       <a class="index-term" href="#dfn-plichten">plicht</a> 
     <span class="print-only">§14.</span></li><li>
@@ -875,11 +1035,33 @@ Dit hoofdstuk is toegevoegd met <code>class="informative"</code> in <code>config
     <span class="print-only">§14.</span></li><li>
       <a class="index-term" href="#dfn-rechtsbetrekkingen">rechtsbetrekking</a> 
     <span class="print-only">§14.</span></li><li>
-      <a class="index-term" href="#dfn-rechtshandelingen">rechtshandeling</a> 
+      <a class="index-term" href="#dfn-rechtsfeit">rechtsfeit</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-rechtsfeitbaar-verlof">rechtsfeitbaar verlof</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-rechtsgevolgen">rechtsgevolg</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-rechtshandeling">rechtshandeling</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-rechtsobjecten">rechtsobject</a> 
     <span class="print-only">§14.</span></li><li>
       <a class="index-term" href="#dfn-rechtssubjecten">rechtssubject</a> 
     <span class="print-only">§14.</span></li><li>
       <a class="index-term" href="#dfn-regelspraak">RegelSpraak</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-subjectief-recht">subjectief recht</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-tijdsverloop-met-rechtsgevolg">tijdsverloop met rechtsgevolg</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-variabelen">variabele</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-verlof-vrijheid-geenaanspraak">verlof (vrijheid) – geenaanspraak</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-voorwaarden">voorwaarde</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-waarden">waarde</a> 
+    <span class="print-only">§14.</span></li><li>
+      <a class="index-term" href="#dfn-zwakke-aanspraak-zwakke-verplichting">zwakke aanspraak – zwakke verplichting</a> 
     <span class="print-only">§14.</span></li>
   </ul>
   </section><section id="index-defined-elsewhere">
@@ -893,70 +1075,16 @@ Dit hoofdstuk is toegevoegd met <code>class="informative"</code> in <code>config
 
 <p role="navigation" id="back-to-top">
     <a href="#title"><abbr title="Back to Top">↑</abbr></a>
-  </p><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-rechtssubjecten" aria-label="Links in this document to definition: rechtssubject">
+  </p><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-begrip" aria-label="Links in this document to definition: begrip">
       <span class="caret"></span>
       <div>
-        <a class="self-link" href="#dfn-rechtssubjecten" aria-label="Permalink for definition: rechtssubject. Activate to close this dialog.">Permalink</a>
+        <a class="self-link" href="#dfn-begrip" aria-label="Permalink for definition: begrip. Activate to close this dialog.">Permalink</a>
          
       </div>
       <p><b>Referenced in:</b></p>
       <ul>
     <li>
-    <a href="#ref-for-dfn-rechtssubjecten-1" title="§ 4.1 Wat is een rechtsbetrekking, oftewel de semantiek?">§ 4.1 Wat is een rechtsbetrekking, oftewel de semantiek?</a> <a href="#ref-for-dfn-rechtssubjecten-2" title="Reference 2">(2)</a> 
-  </li><li>
-    <a href="#ref-for-dfn-rechtssubjecten-3" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> <a href="#ref-for-dfn-rechtssubjecten-4" title="Reference 2">(2)</a> <a href="#ref-for-dfn-rechtssubjecten-5" title="Reference 3">(3)</a> 
-  </li>
-  </ul>
-    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-rechtsbetrekkingen" aria-label="Links in this document to definition: rechtsbetrekking">
-      <span class="caret"></span>
-      <div>
-        <a class="self-link" href="#dfn-rechtsbetrekkingen" aria-label="Permalink for definition: rechtsbetrekking. Activate to close this dialog.">Permalink</a>
-         
-      </div>
-      <p><b>Referenced in:</b></p>
-      <ul>
-      <li>Not referenced in this document.</li>
-    </ul>
-    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-juridisch-relevante-feiten" aria-label="Links in this document to definition: juridisch relevant feit">
-      <span class="caret"></span>
-      <div>
-        <a class="self-link" href="#dfn-juridisch-relevante-feiten" aria-label="Permalink for definition: juridisch relevant feit. Activate to close this dialog.">Permalink</a>
-         
-      </div>
-      <p><b>Referenced in:</b></p>
-      <ul>
-    <li>
-    <a href="#ref-for-dfn-juridisch-relevante-feiten-1" title="§ 3.2 Wat is een rechtssubject?">§ 3.2 Wat is een rechtssubject?</a> 
-  </li><li>
-    <a href="#ref-for-dfn-juridisch-relevante-feiten-2" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> 
-  </li>
-  </ul>
-    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-rechtshandelingen" aria-label="Links in this document to definition: rechtshandeling">
-      <span class="caret"></span>
-      <div>
-        <a class="self-link" href="#dfn-rechtshandelingen" aria-label="Permalink for definition: rechtshandeling. Activate to close this dialog.">Permalink</a>
-         
-      </div>
-      <p><b>Referenced in:</b></p>
-      <ul>
-    <li>
-    <a href="#ref-for-dfn-rechtshandelingen-1" title="§ 3.2 Wat is een rechtssubject?">§ 3.2 Wat is een rechtssubject?</a> 
-  </li><li>
-    <a href="#ref-for-dfn-rechtshandelingen-2" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> 
-  </li>
-  </ul>
-    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-feitelijke-handelingen-met-rechtsgevolg" aria-label="Links in this document to definition: feitelijke handeling met rechtsgevolg">
-      <span class="caret"></span>
-      <div>
-        <a class="self-link" href="#dfn-feitelijke-handelingen-met-rechtsgevolg" aria-label="Permalink for definition: feitelijke handeling met rechtsgevolg. Activate to close this dialog.">Permalink</a>
-         
-      </div>
-      <p><b>Referenced in:</b></p>
-      <ul>
-    <li>
-    <a href="#ref-for-dfn-feitelijke-handelingen-met-rechtsgevolg-1" title="§ 3.2 Wat is een rechtssubject?">§ 3.2 Wat is een rechtssubject?</a> 
-  </li><li>
-    <a href="#ref-for-dfn-feitelijke-handelingen-met-rechtsgevolg-2" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> 
+    <a href="#ref-for-dfn-begrip-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> 
   </li>
   </ul>
     </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-rechten" aria-label="Links in this document to definition: recht">
@@ -971,6 +1099,8 @@ Dit hoofdstuk is toegevoegd met <code>class="informative"</code> in <code>config
     <a href="#ref-for-dfn-rechten-1" title="§ 3.2 Wat is een rechtssubject?">§ 3.2 Wat is een rechtssubject?</a> 
   </li><li>
     <a href="#ref-for-dfn-rechten-2" title="§ 3.4 Het patroon met 4 gestructureerde gegevens rond rechtssubject, oftewel welke uitdrukkingen van een rechtssubject zijn toegestaan">§ 3.4 Het patroon met 4 gestructureerde gegevens rond rechtssubject, oftewel welke uitdrukkingen van een rechtssubject zijn toegestaan</a> 
+  </li><li>
+    <a href="#ref-for-dfn-rechten-3" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> 
   </li>
   </ul>
     </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-plichten" aria-label="Links in this document to definition: plicht">
@@ -985,8 +1115,486 @@ Dit hoofdstuk is toegevoegd met <code>class="informative"</code> in <code>config
     <a href="#ref-for-dfn-plichten-1" title="§ 3.2 Wat is een rechtssubject?">§ 3.2 Wat is een rechtssubject?</a> 
   </li><li>
     <a href="#ref-for-dfn-plichten-2" title="§ 3.4 Het patroon met 4 gestructureerde gegevens rond rechtssubject, oftewel welke uitdrukkingen van een rechtssubject zijn toegestaan">§ 3.4 Het patroon met 4 gestructureerde gegevens rond rechtssubject, oftewel welke uitdrukkingen van een rechtssubject zijn toegestaan</a> 
+  </li><li>
+    <a href="#ref-for-dfn-plichten-3" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> 
   </li>
   </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-begripsdefinitie" aria-label="Links in this document to definition: begripsdefinitie">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-begripsdefinitie" aria-label="Permalink for definition: begripsdefinitie. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-begripsdefinitie-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> <a href="#ref-for-dfn-begripsdefinitie-2" title="Reference 2">(2)</a> <a href="#ref-for-dfn-begripsdefinitie-3" title="Reference 3">(3)</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-rechtssubjecten" aria-label="Links in this document to definition: rechtssubject">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-rechtssubjecten" aria-label="Permalink for definition: rechtssubject. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-rechtssubjecten-1" title="§ 4.1 Wat is een rechtsbetrekking, oftewel de semantiek?">§ 4.1 Wat is een rechtsbetrekking, oftewel de semantiek?</a> <a href="#ref-for-dfn-rechtssubjecten-2" title="Reference 2">(2)</a> 
+  </li><li>
+    <a href="#ref-for-dfn-rechtssubjecten-3" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> <a href="#ref-for-dfn-rechtssubjecten-4" title="Reference 2">(2)</a> <a href="#ref-for-dfn-rechtssubjecten-5" title="Reference 3">(3)</a> <a href="#ref-for-dfn-rechtssubjecten-6" title="Reference 4">(4)</a> <a href="#ref-for-dfn-rechtssubjecten-7" title="Reference 5">(5)</a> <a href="#ref-for-dfn-rechtssubjecten-8" title="Reference 6">(6)</a> <a href="#ref-for-dfn-rechtssubjecten-9" title="Reference 7">(7)</a> <a href="#ref-for-dfn-rechtssubjecten-10" title="Reference 8">(8)</a> <a href="#ref-for-dfn-rechtssubjecten-11" title="Reference 9">(9)</a> <a href="#ref-for-dfn-rechtssubjecten-12" title="Reference 10">(10)</a> <a href="#ref-for-dfn-rechtssubjecten-13" title="Reference 11">(11)</a> <a href="#ref-for-dfn-rechtssubjecten-14" title="Reference 12">(12)</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-rechtsbetrekkingen" aria-label="Links in this document to definition: rechtsbetrekking">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-rechtsbetrekkingen" aria-label="Permalink for definition: rechtsbetrekking. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-rechtsbetrekkingen-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> <a href="#ref-for-dfn-rechtsbetrekkingen-2" title="Reference 2">(2)</a> <a href="#ref-for-dfn-rechtsbetrekkingen-3" title="Reference 3">(3)</a> <a href="#ref-for-dfn-rechtsbetrekkingen-4" title="Reference 4">(4)</a> <a href="#ref-for-dfn-rechtsbetrekkingen-5" title="Reference 5">(5)</a> <a href="#ref-for-dfn-rechtsbetrekkingen-6" title="Reference 6">(6)</a> <a href="#ref-for-dfn-rechtsbetrekkingen-7" title="Reference 7">(7)</a> <a href="#ref-for-dfn-rechtsbetrekkingen-8" title="Reference 8">(8)</a> <a href="#ref-for-dfn-rechtsbetrekkingen-9" title="Reference 9">(9)</a> <a href="#ref-for-dfn-rechtsbetrekkingen-10" title="Reference 10">(10)</a> <a href="#ref-for-dfn-rechtsbetrekkingen-11" title="Reference 11">(11)</a> <a href="#ref-for-dfn-rechtsbetrekkingen-12" title="Reference 12">(12)</a> <a href="#ref-for-dfn-rechtsbetrekkingen-13" title="Reference 13">(13)</a> <a href="#ref-for-dfn-rechtsbetrekkingen-14" title="Reference 14">(14)</a> <a href="#ref-for-dfn-rechtsbetrekkingen-15" title="Reference 15">(15)</a> <a href="#ref-for-dfn-rechtsbetrekkingen-16" title="Reference 16">(16)</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-aanspraak-verplichting" aria-label="Links in this document to definition: aanspraak – verplichting">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-aanspraak-verplichting" aria-label="Permalink for definition: aanspraak – verplichting. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-aanspraak-verplichting-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> <a href="#ref-for-dfn-aanspraak-verplichting-2" title="Reference 2">(2)</a> <a href="#ref-for-dfn-aanspraak-verplichting-3" title="Reference 3">(3)</a> <a href="#ref-for-dfn-aanspraak-verplichting-4" title="Reference 4">(4)</a> <a href="#ref-for-dfn-aanspraak-verplichting-5" title="Reference 5">(5)</a> <a href="#ref-for-dfn-aanspraak-verplichting-6" title="Reference 6">(6)</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-krachtige-aanspraak-fatale-verplichting" aria-label="Links in this document to definition: krachtige aanspraak – fatale verplichting">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-krachtige-aanspraak-fatale-verplichting" aria-label="Permalink for definition: krachtige aanspraak – fatale verplichting. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-krachtige-aanspraak-fatale-verplichting-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-krachtige-aanspraak-of-aanspraak-na-ingebrekestelling-fatale-verplichting-of-verplichting-na-ingebrekestelling" aria-label="Links in this document to definition: krachtige aanspraak of aanspraak na ingebrekestelling – fatale verplichting of verplichting na ingebrekestelling">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-krachtige-aanspraak-of-aanspraak-na-ingebrekestelling-fatale-verplichting-of-verplichting-na-ingebrekestelling" aria-label="Permalink for definition: krachtige aanspraak of aanspraak na ingebrekestelling – fatale verplichting of verplichting na ingebrekestelling. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-krachtige-aanspraak-of-aanspraak-na-ingebrekestelling-fatale-verplichting-of-verplichting-na-ingebrekestelling-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-aanspraak-na-ingebrekestelling-verplichting-na-ingebrekestelling" aria-label="Links in this document to definition: aanspraak na ingebrekestelling – verplichting na ingebrekestelling">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-aanspraak-na-ingebrekestelling-verplichting-na-ingebrekestelling" aria-label="Permalink for definition: aanspraak na ingebrekestelling – verplichting na ingebrekestelling. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-aanspraak-na-ingebrekestelling-verplichting-na-ingebrekestelling-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-zwakke-aanspraak-zwakke-verplichting" aria-label="Links in this document to definition: zwakke aanspraak – zwakke verplichting">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-zwakke-aanspraak-zwakke-verplichting" aria-label="Permalink for definition: zwakke aanspraak – zwakke verplichting. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-zwakke-aanspraak-zwakke-verplichting-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-verlof-vrijheid-geenaanspraak" aria-label="Links in this document to definition: verlof (vrijheid) – geenaanspraak">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-verlof-vrijheid-geenaanspraak" aria-label="Permalink for definition: verlof (vrijheid) – geenaanspraak. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-verlof-vrijheid-geenaanspraak-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> <a href="#ref-for-dfn-verlof-vrijheid-geenaanspraak-2" title="Reference 2">(2)</a> <a href="#ref-for-dfn-verlof-vrijheid-geenaanspraak-3" title="Reference 3">(3)</a> <a href="#ref-for-dfn-verlof-vrijheid-geenaanspraak-4" title="Reference 4">(4)</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-rechtsfeitbaar-verlof" aria-label="Links in this document to definition: rechtsfeitbaar verlof">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-rechtsfeitbaar-verlof" aria-label="Permalink for definition: rechtsfeitbaar verlof. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-rechtsfeitbaar-verlof-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-niet-rechtsfeitbaar-verlof" aria-label="Links in this document to definition: niet rechtsfeitbaar verlof">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-niet-rechtsfeitbaar-verlof" aria-label="Permalink for definition: niet rechtsfeitbaar verlof. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-niet-rechtsfeitbaar-verlof-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-bevoegdheid-gehoudenheid" aria-label="Links in this document to definition: bevoegdheid – gehoudenheid">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-bevoegdheid-gehoudenheid" aria-label="Permalink for definition: bevoegdheid – gehoudenheid. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-bevoegdheid-gehoudenheid-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> <a href="#ref-for-dfn-bevoegdheid-gehoudenheid-2" title="Reference 2">(2)</a> <a href="#ref-for-dfn-bevoegdheid-gehoudenheid-3" title="Reference 3">(3)</a> <a href="#ref-for-dfn-bevoegdheid-gehoudenheid-4" title="Reference 4">(4)</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-gebonden-bevoegdheid" aria-label="Links in this document to definition: gebonden bevoegdheid">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-gebonden-bevoegdheid" aria-label="Permalink for definition: gebonden bevoegdheid. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-gebonden-bevoegdheid-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-optionele-bevoegdheid" aria-label="Links in this document to definition: optionele bevoegdheid">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-optionele-bevoegdheid" aria-label="Permalink for definition: optionele bevoegdheid. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-optionele-bevoegdheid-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-actieve-rechtssubject" aria-label="Links in this document to definition: actieveling">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-actieve-rechtssubject" aria-label="Permalink for definition: actieveling. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-actieve-rechtssubject-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> <a href="#ref-for-dfn-actieve-rechtssubject-2" title="Reference 2">(2)</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-rechtsfeit" aria-label="Links in this document to definition: rechtsfeit">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-rechtsfeit" aria-label="Permalink for definition: rechtsfeit. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-rechtsfeit-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> <a href="#ref-for-dfn-rechtsfeit-2" title="Reference 2">(2)</a> <a href="#ref-for-dfn-rechtsfeit-3" title="Reference 3">(3)</a> <a href="#ref-for-dfn-rechtsfeit-4" title="Reference 4">(4)</a> <a href="#ref-for-dfn-rechtsfeit-5" title="Reference 5">(5)</a> <a href="#ref-for-dfn-rechtsfeit-6" title="Reference 6">(6)</a> <a href="#ref-for-dfn-rechtsfeit-7" title="Reference 7">(7)</a> <a href="#ref-for-dfn-rechtsfeit-8" title="Reference 8">(8)</a> <a href="#ref-for-dfn-rechtsfeit-9" title="Reference 9">(9)</a> <a href="#ref-for-dfn-rechtsfeit-10" title="Reference 10">(10)</a> <a href="#ref-for-dfn-rechtsfeit-11" title="Reference 11">(11)</a> <a href="#ref-for-dfn-rechtsfeit-12" title="Reference 12">(12)</a> <a href="#ref-for-dfn-rechtsfeit-13" title="Reference 13">(13)</a> <a href="#ref-for-dfn-rechtsfeit-14" title="Reference 14">(14)</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-rechtshandeling" aria-label="Links in this document to definition: rechtshandeling">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-rechtshandeling" aria-label="Permalink for definition: rechtshandeling. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-rechtshandeling-1" title="§ 3.2 Wat is een rechtssubject?">§ 3.2 Wat is een rechtssubject?</a> 
+  </li><li>
+    <a href="#ref-for-dfn-rechtshandeling-2" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> <a href="#ref-for-dfn-rechtshandeling-3" title="Reference 2">(2)</a> <a href="#ref-for-dfn-rechtshandeling-4" title="Reference 3">(3)</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-feitelijke-handeling-met-rechtsgevolg" aria-label="Links in this document to definition: feitelijke handeling met rechtsgevolg">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-feitelijke-handeling-met-rechtsgevolg" aria-label="Permalink for definition: feitelijke handeling met rechtsgevolg. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-feitelijke-handeling-met-rechtsgevolg-1" title="§ 3.2 Wat is een rechtssubject?">§ 3.2 Wat is een rechtssubject?</a> 
+  </li><li>
+    <a href="#ref-for-dfn-feitelijke-handeling-met-rechtsgevolg-2" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> <a href="#ref-for-dfn-feitelijke-handeling-met-rechtsgevolg-3" title="Reference 2">(2)</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-overtreding-met-rechtsgevolg" aria-label="Links in this document to definition: overtreding met rechtsgevolg">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-overtreding-met-rechtsgevolg" aria-label="Permalink for definition: overtreding met rechtsgevolg. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-overtreding-met-rechtsgevolg-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> <a href="#ref-for-dfn-overtreding-met-rechtsgevolg-2" title="Reference 2">(2)</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-gebeurtenis-met-rechtsgevolg" aria-label="Links in this document to definition: gebeurtenis met rechtsgevolg">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-gebeurtenis-met-rechtsgevolg" aria-label="Permalink for definition: gebeurtenis met rechtsgevolg. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-gebeurtenis-met-rechtsgevolg-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-tijdsverloop-met-rechtsgevolg" aria-label="Links in this document to definition: tijdsverloop met rechtsgevolg">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-tijdsverloop-met-rechtsgevolg" aria-label="Permalink for definition: tijdsverloop met rechtsgevolg. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-tijdsverloop-met-rechtsgevolg-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-rechtsgevolgen" aria-label="Links in this document to definition: rechtsgevolg">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-rechtsgevolgen" aria-label="Permalink for definition: rechtsgevolg. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-rechtsgevolgen-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> <a href="#ref-for-dfn-rechtsgevolgen-2" title="Reference 2">(2)</a> <a href="#ref-for-dfn-rechtsgevolgen-3" title="Reference 3">(3)</a> <a href="#ref-for-dfn-rechtsgevolgen-4" title="Reference 4">(4)</a> <a href="#ref-for-dfn-rechtsgevolgen-5" title="Reference 5">(5)</a> <a href="#ref-for-dfn-rechtsgevolgen-6" title="Reference 6">(6)</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-voorwaarden" aria-label="Links in this document to definition: voorwaarde">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-voorwaarden" aria-label="Permalink for definition: voorwaarde. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-voorwaarden-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> <a href="#ref-for-dfn-voorwaarden-2" title="Reference 2">(2)</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-rechtsobjecten" aria-label="Links in this document to definition: rechtsobject">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-rechtsobjecten" aria-label="Permalink for definition: rechtsobject. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-rechtsobjecten-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> <a href="#ref-for-dfn-rechtsobjecten-2" title="Reference 2">(2)</a> <a href="#ref-for-dfn-rechtsobjecten-3" title="Reference 3">(3)</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-afleidingsregels" aria-label="Links in this document to definition: afleidingsregel">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-afleidingsregels" aria-label="Permalink for definition: afleidingsregel. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-afleidingsregels-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> <a href="#ref-for-dfn-afleidingsregels-2" title="Reference 2">(2)</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-feit" aria-label="Links in this document to definition: feit">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-feit" aria-label="Permalink for definition: feit. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+      <li>Not referenced in this document.</li>
+    </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-variabelen" aria-label="Links in this document to definition: variabele">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-variabelen" aria-label="Permalink for definition: variabele. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-variabelen-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-waarden" aria-label="Links in this document to definition: waarde">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-waarden" aria-label="Permalink for definition: waarde. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-waarden-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> <a href="#ref-for-dfn-waarden-2" title="Reference 2">(2)</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-juridisch-relevante-feiten" aria-label="Links in this document to definition: juridisch relevant feit">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-juridisch-relevante-feiten" aria-label="Permalink for definition: juridisch relevant feit. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-juridisch-relevante-feiten-1" title="§ 3.2 Wat is een rechtssubject?">§ 3.2 Wat is een rechtssubject?</a> 
+  </li><li>
+    <a href="#ref-for-dfn-juridisch-relevante-feiten-2" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> <a href="#ref-for-dfn-juridisch-relevante-feiten-3" title="Reference 2">(2)</a> <a href="#ref-for-dfn-juridisch-relevante-feiten-4" title="Reference 3">(3)</a> <a href="#ref-for-dfn-juridisch-relevante-feiten-5" title="Reference 4">(4)</a> <a href="#ref-for-dfn-juridisch-relevante-feiten-6" title="Reference 5">(5)</a> <a href="#ref-for-dfn-juridisch-relevante-feiten-7" title="Reference 6">(6)</a> <a href="#ref-for-dfn-juridisch-relevante-feiten-8" title="Reference 7">(7)</a> <a href="#ref-for-dfn-juridisch-relevante-feiten-9" title="Reference 8">(8)</a> <a href="#ref-for-dfn-juridisch-relevante-feiten-10" title="Reference 9">(9)</a> <a href="#ref-for-dfn-juridisch-relevante-feiten-11" title="Reference 10">(10)</a> <a href="#ref-for-dfn-juridisch-relevante-feiten-12" title="Reference 11">(11)</a> <a href="#ref-for-dfn-juridisch-relevante-feiten-13" title="Reference 12">(12)</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-niet-juridisch-relevante-teksten" aria-label="Links in this document to definition: niet juridisch relevante tekst">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-niet-juridisch-relevante-teksten" aria-label="Permalink for definition: niet juridisch relevante tekst. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+      <li>Not referenced in this document.</li>
+    </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-objectief-recht" aria-label="Links in this document to definition: objectief recht">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-objectief-recht" aria-label="Permalink for definition: objectief recht. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-objectief-recht-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> <a href="#ref-for-dfn-objectief-recht-2" title="Reference 2">(2)</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-subjectief-recht" aria-label="Links in this document to definition: subjectief recht">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-subjectief-recht" aria-label="Permalink for definition: subjectief recht. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-subjectief-recht-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-juridische-scenarios" aria-label="Links in this document to definition: juridisch scenario">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-juridische-scenarios" aria-label="Permalink for definition: juridisch scenario. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+      <li>Not referenced in this document.</li>
+    </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-juridische-aktes" aria-label="Links in this document to definition: juridische akte">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-juridische-aktes" aria-label="Permalink for definition: juridische akte. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-juridische-aktes-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-juridische-toestanden" aria-label="Links in this document to definition: juridische toestand">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-juridische-toestanden" aria-label="Permalink for definition: juridische toestand. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-juridische-toestanden-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> <a href="#ref-for-dfn-juridische-toestanden-2" title="Reference 2">(2)</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-juridische-kennisgebieden" aria-label="Links in this document to definition: juridisch kennisdomein">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-juridische-kennisgebieden" aria-label="Permalink for definition: juridisch kennisdomein. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+      <li>Not referenced in this document.</li>
+    </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-kennisdomeinen" aria-label="Links in this document to definition: kennisdomein">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-kennisdomeinen" aria-label="Permalink for definition: kennisdomein. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-kennisdomeinen-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> <a href="#ref-for-dfn-kennisdomeinen-2" title="Reference 2">(2)</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-gegevens" aria-label="Links in this document to definition: gegeven">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-gegevens" aria-label="Permalink for definition: gegeven. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+    <li>
+    <a href="#ref-for-dfn-gegevens-1" title="§ 14. Begrippenlijst">§ 14. Begrippenlijst</a> <a href="#ref-for-dfn-gegevens-2" title="Reference 2">(2)</a> <a href="#ref-for-dfn-gegevens-3" title="Reference 3">(3)</a> <a href="#ref-for-dfn-gegevens-4" title="Reference 4">(4)</a> <a href="#ref-for-dfn-gegevens-5" title="Reference 5">(5)</a> <a href="#ref-for-dfn-gegevens-6" title="Reference 6">(6)</a> 
+  </li>
+  </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-gegevenskwaliteitsregels" aria-label="Links in this document to definition: gegevenskwaliteitsregel">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-gegevenskwaliteitsregels" aria-label="Permalink for definition: gegevenskwaliteitsregel. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+      <li>Not referenced in this document.</li>
+    </ul>
+    </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-overeenkomsten" aria-label="Links in this document to definition: overeenkomst">
+      <span class="caret"></span>
+      <div>
+        <a class="self-link" href="#dfn-overeenkomsten" aria-label="Permalink for definition: overeenkomst. Activate to close this dialog.">Permalink</a>
+         
+      </div>
+      <p><b>Referenced in:</b></p>
+      <ul>
+      <li>Not referenced in this document.</li>
+    </ul>
     </div><div class="dfn-panel" hidden="" role="dialog" aria-modal="true" id="dfn-panel-for-dfn-regelspraak" aria-label="Links in this document to definition: RegelSpraak">
       <span class="caret"></span>
       <div>
@@ -1219,4 +1827,4 @@ function hidePanel(panel) {
   panel.hidden = true;
   panel.classList.remove("docked");
 }
-})()</script><div class="sidelabel" style="background-color: #32a852;">WetsTaal Handreiking - Werkversie</div><script src="https://www.w3.org/scripts/TR/2021/fixup.js"></script></body></html>
+})()</script><div class="sidelabel">WetsTaal Handreiking - Werkversie</div><script src="https://www.w3.org/scripts/TR/2021/fixup.js"></script></body></html>
