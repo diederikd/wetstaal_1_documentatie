@@ -27,18 +27,18 @@ let respecConfig = {
     [
       {
         name: "Sjir Nijssen",
-        company: "-",
-        companyURL: "-",
+        company: "PNA Group",
+        companyURL: "https://pna-group.com/en/",
       },
       {
         name: "Diederik Dulfer",
-        company: "-",
-        companyURL: "-",
+        company: "Belastingdienst",
+        companyURL: "https://www.belastingdienst.nl",
       },
       {
         name: "Onno Kubbe",
-        company: "-",
-        companyURL: "-",
+        company: "Belastingdienst",
+        companyURL: "https://www.belastingdienst.nl",
       },
     ],
   github: "https://github.com/diederikd/wetstaal_1_documentatie",
