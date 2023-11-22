@@ -4,15 +4,19 @@ Deze lijst van begrippen is in de aanbevolen volgorde van kennisname opgesteld. 
 
 Voorafgaande opmerking met betrekking tot de identificatie van een begrip: Een <dfn data-lt="begrip">begrip</dfn> wordt aangeduid met één enkele voorkeursterm per [=kennisdomein=] en 0, 1 of meer alternatieve termen, oftewel synoniemen.
 
-Een <dfn data-lt="rechten">recht</dfn> is een soort voordeel.
+Een <dfn data-lt="rechten">recht</dfn> is een soort wettelijk voordeel.
 
-Een <dfn data-lt="plichten">plicht</dfn> is een soort nadeel.
+Een <dfn data-lt="plichten">plicht</dfn> is een soort wettelijk nadeel.
+
+Een <dfn data-lt="voordeelhouders">voordeelhouder</dfn>is het [=rechtssubject=] waaraan het wettelijk voordeel van de [=rechtsbetrekking=] is toegekend.
+
+Een <dfn data-lt="nadeelhouders">nadeelhouder</dfn> is het [=rechtssubject=] waaraan de wettelijk nadeel van de [=rechtsbetrekking=] is toegekend.
 
 Een <dfn data-lt="begripsdefinitie|begripsomschrijving|begripsomschrijvingen">begripsdefinitie</dfn> is de uitleg of omschrijving van de betekenis van een [=begrip=]. Een voorbeeld hiervan is de beschrijving van de modelelementen van wetgeving zoals [=rechtssubject=], [=rechtsbetrekking=], [=rechtsfeit=] of [=rechtsgevolg=].
 
 Een <dfn data-lt="rechtssubjecten">rechtssubject</dfn> rechtssubject is een drager van [=rechten=] (de voordeelkant-houder in een [=rechtsbetrekking=]) en/of [=plichten=] (de nadeelkant-houder in een [=rechtsbetrekking=]), en/of een uitvoerder van een [=rechtshandeling=], een [=feitelijke handeling met rechtsgevolg=] of een [=overtreding met rechtsgevolg=].  
 
-Een <dfn data-lt="rechtsbetrekkingen">rechtsbetrekking</dfn> is een een juridische relatie tussen twee [=rechtssubjecten=], waarbij het ene rechtssubject de voordeel-kant heeft en het andere rechtssubject de nadeel-kant, betreffende het [=rechtsobject=] en onder de gespecificeerde (mogelijke samengestelde) [=voorwaarde=]. Een rechtsbetrekking is altijd gebonden aan een [=voorwaarde=] en heeft altijd een [=rechtsobject=]. Er zijn drie soorten rechtsbetrekkingen, te weten:
+Een <dfn data-lt="rechtsbetrekkingen">rechtsbetrekking</dfn> is een een juridische relatie tussen twee [=rechtssubjecten=], waarbij het ene rechtssubject de [=voordeelhouder=] is en het andere rechtssubject de [=nadeelhouder=]. Een rechtsbetrekking heeft dus altijd een rechtssubject aan de voordeel-kant, een rechtssubject aan de nadeel-kant, het betreffende [=rechtsobject=] en de gespecificeerde (mogelijke samengestelde) [=voorwaarde=]. Een rechtsbetrekking is altijd gebonden aan een [=voorwaarde=] en heeft altijd een [=rechtsobject=]. Er zijn drie soorten rechtsbetrekkingen, te weten:
   1. [=Aanspraak – verplichting=]
   2. [=Verlof (vrijheid) – geenaanspraak=]
   3. [=Bevoegdheid – gehoudenheid=]
